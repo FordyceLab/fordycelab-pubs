@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-19",
-  "count": 123,
+  "count": 122,
   "publications": [
     {
       "id": "https://openalex.org/W4415454705",
@@ -1308,22 +1308,6 @@
         {
           "label": "PDF",
           "url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/04/2021.08.04.455146.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3098588924",
-      "doi": "10.1145/3388440.3414211",
-      "title": "DeCoDe",
-      "authors_html": "Shimko, T.C., <strong>Fordyce, P.M.</strong>, Orenstein, Y.",
-      "venue": "",
-      "year": 2020,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1145/3388440.3414211"
         }
       ],
       "pin": false
