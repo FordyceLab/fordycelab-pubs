@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-19",
-  "count": 122,
+  "count": 84,
   "publications": [
     {
       "id": "https://openalex.org/W4415454705",
@@ -14,10 +14,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/s41467-026-75463-1"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20251021683815v1full.pdf"
         }
       ],
       "pin": false
@@ -27,7 +23,7 @@
       "doi": "10.64898/2026.05.28.728566",
       "title": "Amplicon/Protein Bead Display enables quantitative in vitro biochemistry at scale",
       "authors_html": "Passow, D.R., Gupta, A., Thompson, S., Kundaje, A., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "venue": "bioRxiv",
       "year": 2026,
       "type": "preprint",
       "links": [
@@ -47,7 +43,7 @@
       "doi": "10.64898/2026.02.24.707783",
       "title": "Engineering the mechanosensitivity of single DNA molecules via high-throughput microfluidic force spectroscopy",
       "authors_html": "DeJong, M., Bian, Y., Ortiz-Cárdenas, J.E., Figueroa, B., Pant, A., Posadas-Barrera, E., Brixi, L., Bauer, M.S., Dunn, A.R., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "venue": "bioRxiv",
       "year": 2026,
       "type": "preprint",
       "links": [
@@ -67,7 +63,7 @@
       "doi": "10.64898/2026.03.21.713420",
       "title": "FoTO1 orchestrates Taxol biosynthesis through catalytic and non-catalytic mechanisms",
       "authors_html": "Wick, C., Somani, A., Liu, J.C., Karunadasa, S.S., Xu, S., <strong>Fordyce, P.M.</strong>, McClune, C.J., Sattely, E.S.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "venue": "bioRxiv",
       "year": 2026,
       "type": "preprint",
       "links": [
@@ -87,7 +83,7 @@
       "doi": "10.64898/2026.03.30.715055",
       "title": "High-throughput biochemical phenotyping of SHP2 variants reveals the molecular basis of diseases and allosteric drug inhibition",
       "authors_html": "Lee, A.A., Mokhtari, D., Egan, E., Blacklow, S.C., Herschlag, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "venue": "bioRxiv",
       "year": 2026,
       "type": "preprint",
       "links": [
@@ -120,6 +116,10 @@
           "url": "https://www.fordycelab.com/s/20251011680838v1full.pdf"
         },
         {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2025.10.11.680838"
+        },
+        {
           "label": "OSF data",
           "url": "https://osf.io/dy5xp/overview"
         }
@@ -142,6 +142,14 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/20250115633299v1full.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2025.01.15.633299"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/nawme/"
         }
       ],
       "pin": false
@@ -151,7 +159,7 @@
       "doi": "10.64898/2026.05.01.722333",
       "title": "Simple and Multiplexed Tracking of Bacterial Growth in Double Emulsion Droplets",
       "authors_html": "Cedeno, S.S., Thompson, S., <strong>Fordyce, P.M.</strong>, Endy, D.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "venue": "bioRxiv",
       "year": 2026,
       "type": "preprint",
       "links": [
@@ -183,27 +191,11 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W7136202127",
-      "doi": "10.25740/rd986xg2901",
-      "title": "Understanding selective protein/DNA recognition with high-throughput microfluidic assays",
-      "authors_html": "Hastings, R.L., <strong>Fordyce, P.M.</strong>, Bintu, L., Kundaje, A., Sciences, S.U.S.O.H.A., Biophysics, S.U.D.O.",
-      "venue": "Stanford Digital Repository",
-      "year": 2026,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.25740/rd986xg2901"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W7123337390",
       "doi": "10.64898/2026.01.12.699065",
       "title": "uSort-M: Scalable isolation of user-defined sequences from diverse pooled libraries",
       "authors_html": "Olivas, M.B., Almhjell, P.J., Petersen, L.K., Shanahan, J.D., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "venue": "bioRxiv",
       "year": 2026,
       "type": "preprint",
       "links": [
@@ -230,22 +222,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1073/pnas.2509652122"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4408608887",
-      "doi": "10.1101/2025.03.13.643134",
-      "title": "Continuous FACS sorting of double emulsion picoreactors with a 3D printed vertical mixer",
-      "authors_html": "Yang, Z., Thompson, S., Zhang, Y., Rutten, I., Duyse, J.V., Isterdael, G.V., Nichols, L., Lammertyn, J., Soh, H.T., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2025,
-      "type": "preprint",
-      "links": [
+        },
         {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2025.03.13.643134"
+          "label": "Zenodo",
+          "url": "https://zenodo.org/records/17422742"
         }
       ],
       "pin": false
@@ -269,7 +249,7 @@
         },
         {
           "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2025.03.13.643134v1"
+          "url": "https://doi.org/10.1101/2025.03.13.643134"
         }
       ],
       "pin": false
@@ -286,6 +266,14 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/s41586-025-09090-z"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/20241106622305v2full.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2024.11.06.622305"
         }
       ],
       "pin": false
@@ -305,7 +293,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/ijms-27-00156-v2.pdf"
+          "url": "https://www.mdpi.com/1422-0067/27/1/156/pdf?version=1766486763"
         }
       ],
       "pin": false
@@ -329,7 +317,7 @@
         },
         {
           "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2024.07.19.604368v1"
+          "url": "https://doi.org/10.1101/2024.07.19.604368"
         }
       ],
       "pin": false
@@ -349,23 +337,11 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.nature.com/articles/s41467-024-55672-2.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4406951717",
-      "doi": "10.2139/ssrn.5113797",
-      "title": "Quantifying Protein Unfolding Kinetics with a High-Throughput Microfluidic Platform",
-      "authors_html": "Atsavapranee, B., Sunden, F., Herschlag, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "SSRN Electronic Journal",
-      "year": 2025,
-      "type": "preprint",
-      "links": [
+          "url": "https://www.fordycelab.com/s/20231113566946v2full.pdf"
+        },
         {
-          "label": "web",
-          "url": "https://doi.org/10.2139/ssrn.5113797"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2023.11.13.566946"
         }
       ],
       "pin": false
@@ -382,26 +358,18 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/s41467-023-44068-3"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4392446585",
-      "doi": "10.1101/2024.03.01.583031",
-      "title": "FACS-Sortable Triple Emulsion Picoreactors for Screening Reactions in Biphasic Environments",
-      "authors_html": "Thompson, S., Zhang, Y., Yang, Z., Nichols, L., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2024,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2024.03.01.583031"
         },
         {
           "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2024/05/09/2024.03.01.583031.full.pdf"
+          "url": "https://www.fordycelab.com/s/20230531543128v1full.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2023.05.31.543128"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/938rs/"
         }
       ],
       "pin": false
@@ -424,12 +392,12 @@
           "url": "https://www.fordycelab.com/s/2023_FACS_sortable_triple_emulsions_manuscript_v34-dxxf.pdf"
         },
         {
-          "label": "OSF data",
-          "url": "https://osf.io/gbq5r/"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2024.03.01.583031"
         },
         {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2024.03.01.583031v2"
+          "label": "OSF data",
+          "url": "https://osf.io/gbq5r/"
         }
       ],
       "pin": false
@@ -439,7 +407,7 @@
       "doi": "10.1101/2024.08.19.608698",
       "title": "High-throughput affinity measurements of direct interactions between activation domains and co-activators",
       "authors_html": "DelRosso, N., Suzuki, P., Griffith, D., Lotthammer, J.M., Novak, B., Kocalar, S., Sheth, M.U., Holehouse, A.S., Bintu, L., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "venue": "bioRxiv",
       "year": 2024,
       "type": "preprint",
       "links": [
@@ -455,54 +423,14 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W4400921269",
-      "doi": "10.1101/2024.07.19.604368",
-      "title": "Hydrophilic/ Omniphobic droplet arrays for high-throughput and quantitative enzymology",
-      "authors_html": "Lee, B., Sunden, F., Miller, M.S., Pak, B., Krebber, A., Lutz, S., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2024,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2024.07.19.604368"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W7139667677",
       "doi": "",
       "title": "Literature",
       "authors_html": "<strong>Fordyce, P.M.</strong>, Thompson, S.",
-      "venue": "OSF Preprints (OSF Preprints)",
+      "venue": "OSF Preprints",
       "year": 2024,
       "type": "preprint",
       "links": [],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4404182791",
-      "doi": "10.1101/2024.11.06.622305",
-      "title": "Multiplexed perturbation of yew reveals cryptic proteins that enable a total biosynthesis of baccatin III and Taxol precursors",
-      "authors_html": "McClune, C.J., Liu, C., Wick, C., Peña, R.D.L., Lange, B.M., <strong>Fordyce, P.M.</strong>, Sattely, E.S.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2024,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2024.11.06.622305"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20241106622305v2full.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2024.11.06.622305v2"
-        }
-      ],
       "pin": false
     },
     {
@@ -517,6 +445,18 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1016/j.cels.2023.08.002"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.11.01.514733"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/r4s3m/"
         }
       ],
       "pin": false
@@ -540,39 +480,7 @@
         },
         {
           "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2022.08.16.504154v1.abstract"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4393491881",
-      "doi": "10.5281/zenodo.8161430",
-      "title": "Data presented in \"Short tandem repeats bind transcription factors to tune eukaryotic gene expression\"",
-      "authors_html": "Horton, C.A., Alexandari, A.M., Hayes, M.G., Marklund, E., Schaepe, J.M., Aditham, A.K., Shah, N., Suzuki, P., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.5281/zenodo.8161430"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4393646410",
-      "doi": "10.5281/zenodo.8161431",
-      "title": "Data presented in \"Short tandem repeats bind transcription factors to tune eukaryotic gene expression\"",
-      "authors_html": "Horton, C.A., Alexandari, A.M., Hayes, M.G., Marklund, E., Schaepe, J.M., Aditham, A.K., Shah, N., Suzuki, P., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.5281/zenodo.8161431"
+          "url": "https://doi.org/10.1101/2022.08.16.504154"
         }
       ],
       "pin": false
@@ -582,7 +490,7 @@
       "doi": "10.1101/2023.05.11.540401",
       "title": "De novo distillation of thermodynamic affinity from deep learning regulatory sequence models of in vivo protein-DNA binding",
       "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>, Kundaje, A.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "venue": "bioRxiv",
       "year": 2023,
       "type": "preprint",
       "links": [
@@ -609,34 +517,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1073/pnas.2219074120"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4379208066",
-      "doi": "10.1101/2023.05.31.543128",
-      "title": "Design Automation of Microfluidic Single and Double Emulsion Droplets with Machine Learning",
-      "authors_html": "Lashkaripour, A., McIntyre, D., Calhoun, S.G.K., Krauth, K., Densmore, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2023,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2023.05.31.543128"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20230531543128v1full.pdf"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/938rs/"
         },
         {
           "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2023.05.31.543128v1"
+          "url": "https://doi.org/10.1101/2022.11.07.515533"
         }
       ],
       "pin": false
@@ -656,51 +540,11 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.nature.com/articles/s43705-023-00241-9.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4376617992",
-      "doi": "10.1101/2023.05.14.540683",
-      "title": "Global substrate identification and high throughput in vitro dephosphorylation reactions uncover PP1 and PP2A-B55 specificity principles",
-      "authors_html": "Hein, J.B., Nguyen, H., Garvanska, D.H., Nasa, I., Feng, Y., López‐Méndez, B., Davey, N.E., Kettenbach, A.N., <strong>Fordyce, P.M.</strong>, Nilsson, J.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2023,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2023.05.14.540683"
+          "url": "https://www.fordycelab.com/s/s43705-023-00241-9.pdf"
         },
         {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/gys5d/"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4388745642",
-      "doi": "10.1101/2023.11.13.566946",
-      "title": "High-throughput thermodynamic and kinetic measurements of transcription factor/DNA mutations reveal how conformational heterogeneity can shape motif selectivity",
-      "authors_html": "Hastings, R., Aditham, A.K., DelRosso, N., Suzuki, P., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2023,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2023.11.13.566946"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20231113566946v2full.pdf"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.10.23.513397"
         }
       ],
       "pin": false
@@ -720,7 +564,11 @@
         },
         {
           "label": "PDF",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10484233/pdf/nihms-1912917.pdf"
+          "url": "https://www.fordycelab.com/s/s41586-023-05906-y.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.08.26.505496"
         }
       ],
       "pin": false
@@ -737,10 +585,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1016/j.jbiosc.2023.03.001"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/1-s20-S1389172323000737-main.pdf"
         }
       ],
       "pin": false
@@ -760,7 +604,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkad207/49602282/gkad207.pdf"
+          "url": "https://www.fordycelab.com/s/gkad207.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/637298"
+        },
+        {
+          "label": "Zenodo",
+          "url": "https://zenodo.org/records/7711887"
         }
       ],
       "pin": false
@@ -780,7 +632,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.embopress.org/action/downloadSupplement?doi=10.15252/msb.202311782&file=msb202311782.reviewer_comments.pdf"
+          "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2023.05.14.540683"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/gys5d/"
         }
       ],
       "pin": false
@@ -803,16 +663,16 @@
           "url": "https://www.fordycelab.com/s/20220524493321v2full-1.pdf"
         },
         {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.05.24.493321"
+        },
+        {
           "label": "Zenodo",
           "url": "https://zenodo.org/records/8161431"
         },
         {
           "label": "OSF data",
           "url": "https://osf.io/gbxhz/"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2022.05.24.493321v2"
         }
       ],
       "pin": false
@@ -849,138 +709,18 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/s41592-022-01592-2"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4307982812",
-      "doi": "10.1101/2022.11.01.514733",
-      "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
-      "authors_html": "Sockell, A., Wong, W.H., Longwell, S.A., Vu, T., Karlsson, K., Mokhtari, D.A., Schaepe, J.M., Lo, Y., Cornelius, V., Kuo, C.J., Valen, D.V., Curtis, C., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2022,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2022.11.01.514733"
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
+          "url": "https://www.fordycelab.com/s/s41592-022-01592-2-1.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2021.04.24.441194"
         },
         {
           "label": "OSF data",
-          "url": "https://osf.io/r4s3m/"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2022.11.01.514733v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4292103748",
-      "doi": "10.1101/2022.08.16.504154",
-      "title": "Alleviating cell lysate-induced inhibition to enable RT-PCR from single cells in picoliter-volume double emulsion droplets",
-      "authors_html": "Khariton, M., McClune, C.J., Brower, K.K., Klemm, S., Sattely, E.S., <strong>Fordyce, P.M.</strong>, Wang, B.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2022,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2022.08.16.504154"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2022/08/17/2022.08.16.504154.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4283709290",
-      "doi": "10.5281/zenodo.6762262",
-      "title": "De novo inference of thermodynamic binding energies using deep learning models of in vivo transcription factor binding",
-      "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>, Kundaje, A.",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2022,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.5281/zenodo.6762262"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4307348242",
-      "doi": "10.1101/2022.10.23.513397",
-      "title": "Double emulsions as a high-throughput enrichment and isolation platform for slower-growing microbes",
-      "authors_html": "McCully, A.L., Yao, M.L., Brower, K.K., <strong>Fordyce, P.M.</strong>, Spormann, A.M.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2022,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2022.10.23.513397"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/s43705-023-00241-9.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2022.10.23.513397v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4308555851",
-      "doi": "10.1101/2022.11.07.515533",
-      "title": "High-throughput enzymology reveals mutations throughout a phosphatase that decouple catalysis and transition state analog affinity",
-      "authors_html": "Markin, C.J., Mokhtari, D.A., Du, S., Doukov, T., Sunden, F., <strong>Fordyce, P.M.</strong>, Herschlag, D.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2022,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2022.11.07.515533"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2022/11/08/2022.11.07.515533.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4293316025",
-      "doi": "10.1101/2022.08.26.505496",
-      "title": "Large-scale mapping and systematic mutagenesis of human transcriptional effector domains",
-      "authors_html": "DelRosso, N., Tycko, J., Suzuki, P., Andrews, C., Aradhana, Mukund, A., Liongson, I., Ludwig, C., Spees, K., <strong>Fordyce, P.M.</strong>, Bassik, M.C., Bintu, L.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2022,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2022.08.26.505496"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/s41586-023-05906-y.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2022.08.26.505496v1"
+          "url": "https://osf.io/xs7zf/"
         }
       ],
       "pin": false
@@ -1026,46 +766,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W4281559993",
-      "doi": "10.1101/2022.05.24.493321",
-      "title": "Short tandem repeats bind transcription factors to tune eukaryotic gene expression",
-      "authors_html": "Horton, C.A., Alexandari, A.M., Hayes, M.G., Marklund, E., Schaepe, J.M., Aditham, A.K., Shah, N., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2022,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2022.05.24.493321"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2022/05/30/2022.05.24.493321.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4221046315",
-      "doi": "10.1101/2022.03.04.483054",
-      "title": "Systematic Characterization of Double Emulsion Droplets for Biological Applications",
-      "authors_html": "Calhoun, S.G.K., Brower, K.K., Suja, V.C., Kim, G., Wang, N., McCully, A.L., Kusumaatmaja, H., Fuller, G.G., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2022,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2022.03.04.483054"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2022/03/11/2022.03.04.483054.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W4281261562",
       "doi": "10.1039/d2lc00229a",
       "title": "Systematic characterization of effect of flow rates and buffer compositions on double emulsion droplet volumes and stability",
@@ -1083,12 +783,12 @@
           "url": "https://www.fordycelab.com/s/d2lc00229a-bbxk.pdf"
         },
         {
-          "label": "OSF data",
-          "url": "https://osf.io/pt6qu/"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.03.04.483054"
         },
         {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2022.03.04.483054v2"
+          "label": "OSF data",
+          "url": "https://osf.io/pt6qu/"
         }
       ],
       "pin": false
@@ -1118,7 +818,7 @@
       "doi": "",
       "title": "Fordyce Lab: uPICM libraries",
       "authors_html": "Appel, M.J., Longwell, S.A., <strong>Fordyce, P.M.</strong>",
-      "venue": "OSF Preprints (OSF Preprints)",
+      "venue": "OSF Preprints",
       "year": 2021,
       "type": "preprint",
       "links": [],
@@ -1183,7 +883,7 @@
         },
         {
           "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2020.12.16.423088v1"
+          "url": "https://doi.org/10.1101/2020.12.16.423088"
         }
       ],
       "pin": false
@@ -1206,12 +906,12 @@
           "url": "https://www.fordycelab.com/s/scienceabf8761-yw2w.pdf"
         },
         {
-          "label": "OSF data",
-          "url": "https://osf.io/ez9xv/"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2020.11.24.383182"
         },
         {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2020.11.24.383182v1"
+          "label": "OSF data",
+          "url": "https://osf.io/ez9xv/"
         }
       ],
       "pin": false
@@ -1237,34 +937,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W3158471421",
-      "doi": "10.1101/2021.04.24.441194",
-      "title": "Structure-activity mapping of the peptide- and force-dependent landscape of T-cell activation",
-      "authors_html": "Feng, Y., Zhao, X., White, A.K., García, K.C., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2021,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2021.04.24.441194"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/s41592-022-01592-2-1.pdf"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/xs7zf/"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2021.04.24.441194v1"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W3208131886",
       "doi": "10.1021/acsomega.1c04180",
       "title": "uPIC–M: Efficient and Scalable Preparation of Clonal Single Mutant Libraries for High-Throughput Protein Biochemistry",
@@ -1282,32 +954,28 @@
           "url": "https://www.fordycelab.com/s/appel-et-al-2021-upic-m-efficient-and-scalable-preparation-of-clonal-single-mutant-libraries-for-hig.pdf"
         },
         {
-          "label": "OSF data",
-          "url": "https://osf.io/k3rjy/"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2021.08.04.455146"
         },
         {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2021.08.04.455146v1"
+          "label": "OSF data",
+          "url": "https://osf.io/k3rjy/"
         }
       ],
       "pin": false
     },
     {
-      "id": "https://openalex.org/W3190443640",
-      "doi": "10.1101/2021.08.04.455146",
-      "title": "uPIC–M: efficient and scalable preparation of clonal single mutant libraries for high-throughput protein biochemistry",
-      "authors_html": "Appel, M.J., Longwell, S.A., Morri, M., Neff, N., Herschlag, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2021,
-      "type": "preprint",
+      "id": "https://openalex.org/W3098588924",
+      "doi": "10.1145/3388440.3414211",
+      "title": "DeCoDe",
+      "authors_html": "Shimko, T.C., <strong>Fordyce, P.M.</strong>, Orenstein, Y.",
+      "venue": "",
+      "year": 2020,
+      "type": "article",
       "links": [
         {
           "label": "web",
-          "url": "https://doi.org/10.1101/2021.08.04.455146"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2021/08/04/2021.08.04.455146.full.pdf"
+          "url": "https://doi.org/10.1145/3388440.3414211"
         }
       ],
       "pin": false
@@ -1324,6 +992,14 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1093/bioinformatics/btaa162"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/bioinformatics_36_11_3357.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/809004"
         }
       ],
       "pin": false
@@ -1346,12 +1022,12 @@
           "url": "https://www.fordycelab.com/s/Optimized_double_emulsion_flow_cytometry_with_high.pdf"
         },
         {
-          "label": "OSF data",
-          "url": "https://osf.io/3au4v/"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/803460"
         },
         {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/803460v2"
+          "label": "OSF data",
+          "url": "https://osf.io/3au4v/"
         }
       ],
       "pin": false
@@ -1374,44 +1050,12 @@
           "url": "https://www.fordycelab.com/s/brower-et-al-2020-double-emulsion-picoreactors-for-high-throughput-single-cell-encapsulation-and-phe.pdf"
         },
         {
-          "label": "OSF data",
-          "url": "https://osf.io/h4sr9/"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2020.06.07.139311"
         },
         {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2020.06.07.139311v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3032919338",
-      "doi": "10.1101/2020.06.07.139311",
-      "title": "Double Emulsion Picoreactors for High-Throughput Single-Cell Encapsulation and Phenotyping via FACS",
-      "authors_html": "Brower, K.K., Khariton, M., Suzuki, P., Still, C., Kim, G., Calhoun, S.G.K., Qi, L.S., Wang, B., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2020,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2020.06.07.139311"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3135057024",
-      "doi": "10.17605/osf.io/h4sr9",
-      "title": "Dropception: Double Emulsion Single Cell Encapsulation and FACS",
-      "authors_html": "Brower, K., Kim, G., Khariton, M., Calhoun, S.G.K., Suzuki, P., Still, C., <strong>Fordyce, P.M.</strong>",
-      "venue": "",
-      "year": 2020,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.17605/osf.io/h4sr9"
+          "label": "OSF data",
+          "url": "https://osf.io/h4sr9/"
         }
       ],
       "pin": false
@@ -1428,54 +1072,18 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1016/j.cels.2020.11.012"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3036325859",
-      "doi": "10.1101/2020.06.22.165571",
-      "title": "High-throughput binding affinity measurements for mutations spanning a transcription factor-DNA interface reveal affinity and specificity determinants",
-      "authors_html": "Aditham, A.K., Markin, C.J., Mokhtari, D.A., DelRosso, N., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2020,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2020.06.22.165571"
         },
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/mmc4.pdf"
         },
         {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2020.06.22.165571"
+        },
+        {
           "label": "OSF data",
           "url": "https://osf.io/8QRZP/"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2020.06.22.165571v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3112746360",
-      "doi": "10.1101/2020.12.16.423088",
-      "title": "MRBLE-pep measurements reveal accurate binding affinities for B56, a PP2A regulatory subunit",
-      "authors_html": "Hein, J.B., Cyert, M., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2020,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2020.12.16.423088"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2020/12/16/2020.12.16.423088.full.pdf"
         }
       ],
       "pin": false
@@ -1495,35 +1103,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.nature.com/articles/s41378-020-00220-3.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3036385411",
-      "doi": "10.1101/2020.06.22.166074",
-      "title": "MRBLES 2.0: High-throughput generation of chemically functionalized spectrally and magnetically-encoded hydrogel beads using a simple single-layer microfluidic device",
-      "authors_html": "Feng, Y., White, A.K., Hein, J.B., Appel, E.A., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2020,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2020.06.22.166074"
+          "url": "https://www.fordycelab.com/s/s41378-020-00220-3-w3hf.pdf"
         },
         {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/s41378-020-00220-3-w3hf.pdf"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2020.06.22.166074"
         },
         {
           "label": "OSF data",
           "url": "https://osf.io/jvnpc/"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/2020.06.22.166074v1"
         }
       ],
       "pin": false
@@ -1549,26 +1137,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W3185173130",
-      "doi": "10.1101/2020.11.24.383182",
-      "title": "Revealing enzyme functional architecture via high-throughput microfluidic enzyme kinetics",
-      "authors_html": "Markin, C.J., Mokhtari, D.A., Sunden, F., Appel, M.J., Akiva, E., Longwell, S.A., Sabatti, C., Herschlag, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2020,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2020.11.24.383182"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2020/11/25/2020.11.24.383182.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W2950122329",
       "doi": "10.1371/journal.pone.0203725",
       "title": "An open-source software analysis package for Microspheres with Ratiometric Barcode Lanthanide Encoding (MRBLEs)",
@@ -1586,40 +1154,16 @@
           "url": "https://www.fordycelab.com/s/file.pdf"
         },
         {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/402560"
+        },
+        {
           "label": "OSF data",
           "url": "https://osf.io/8kv35/"
         },
         {
           "label": "GitHub",
           "url": "https://github.com/FordyceLab/MRBLEs"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/402560v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2980399389",
-      "doi": "10.1101/809004",
-      "title": "DeCoDe: degenerate codon design for complete protein-coding DNA libraries",
-      "authors_html": "Shimko, T.C., <strong>Fordyce, P.M.</strong>, Orenstein, Y.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2019,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/809004"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/bioinformatics_36_11_3357.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/809004v1"
         }
       ],
       "pin": false
@@ -1639,27 +1183,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.nature.com/articles/s41598-019-45167-2.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2947614052",
-      "doi": "10.1101/655324",
-      "title": "micrIO: An Open-Source Autosampler and Fraction Collector for Automated Microfluidic Input-Output",
-      "authors_html": "Longwell, S.A., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2019,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/655324"
+          "url": "https://www.fordycelab.com/s/s41598-019-45167-2-ascl.pdf"
         },
         {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2019/06/02/655324.full.pdf"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/370478"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/j2rsy/"
         }
       ],
       "pin": false
@@ -1682,56 +1214,12 @@
           "url": "https://www.fordycelab.com/s/c9lc00512a.pdf"
         },
         {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/655324"
+        },
+        {
           "label": "GitHub",
           "url": "https://github.com/FordyceLab/micrio"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/655324v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2979965259",
-      "doi": "10.1101/803460",
-      "title": "Optimized double emulsion flow cytometry with high-throughput single droplet isolation",
-      "authors_html": "Brower, K.K., Carswell-Crumpton, C., Klemm, S., Cruz, B., Kim, G., Calhoun, S.G.K., Nichols, L., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2019,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/803460"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2019/11/08/803460.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2946652273",
-      "doi": "10.1101/637298",
-      "title": "Quantitative analysis of ZFY and CTCF reveals dependent recognition of tandem zinc finger proteins",
-      "authors_html": "Zuo, Z., Billings, T., Walker, M., Petkov, P.M., Stormo, G.D., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2019,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/637298"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/gkad207.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/637298v2"
         }
       ],
       "pin": false
@@ -1750,16 +1238,8 @@
           "url": "https://doi.org/10.7554/elife.40499"
         },
         {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/elife-40499-v2.pdf"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/fpve2/"
-        },
-        {
           "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/306779v3"
+          "url": "https://doi.org/10.1101/306779"
         }
       ],
       "pin": false
@@ -1779,27 +1259,11 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.nature.com/articles/s41467-019-11118-8.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2887481403",
-      "doi": "10.1101/402560",
-      "title": "An open-source software analysis package for Microspheres with Ratiometric Barcode Lanthanide Encoding (MRBLEs)",
-      "authors_html": "Harink, B., Nguyen, H., Thorn, K.S., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2018,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/402560"
+          "url": "https://www.fordycelab.com/s/s41467-019-11118-8-nw8y.pdf"
         },
         {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2018/08/28/402560.full.pdf"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/450262"
         }
       ],
       "pin": false
@@ -1842,12 +1306,16 @@
           "url": "https://www.fordycelab.com/s/le-et-al-2018-comprehensive-high-resolution-binding-energy-landscapes-reveal-context-dependencies-of.pdf"
         },
         {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/193904"
+        },
+        {
           "label": "GitHub",
           "url": "https://figshare.com/articles/dataset/BET-seq_Processed_Data/5728467"
         },
         {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/193904v1"
+          "label": "figshare",
+          "url": "http://identifiers.org/doi:10.6084/m9.figshare.5728467"
         }
       ],
       "pin": false
@@ -1868,26 +1336,10 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/bioinformatics_34_17_i629.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2796657347",
-      "doi": "10.1101/302711",
-      "title": "Discovering epistatic feature interactions from neural network models of regulatory DNA sequences",
-      "authors_html": "Greenside, P., Shimko, T.C., <strong>Fordyce, P.M.</strong>, Kundaje, A.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2018,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/302711"
         },
         {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2018/07/26/302711.full.pdf"
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/302711"
         }
       ],
       "pin": false
@@ -1928,94 +1380,10 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/s41467-018-05887-x-nmk5.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2798540208",
-      "doi": "10.1101/310284",
-      "title": "High-throughput chromatin accessibility profiling at single-cell resolution",
-      "authors_html": "Mezger, A., Klemm, S., Mann, I.K., Brower, K., Mir, A., Bostick, M., Farmer, A., <strong>Fordyce, P.M.</strong>, Linnarsson, S., Greenleaf, W.J.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2018,
-      "type": "preprint",
-      "links": [
+        },
         {
-          "label": "web",
+          "label": "bioRxiv",
           "url": "https://doi.org/10.1101/310284"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2018/04/28/310284.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3122192710",
-      "doi": "10.2139/ssrn.3155653",
-      "title": "Joker de Bruijn: Sequence Libraries to Cover All k‐mers Using Joker Characters",
-      "authors_html": "Orenstein, Y., Puccinelli, R., Kim, R., <strong>Fordyce, P.M.</strong>, Berger, B.",
-      "venue": "SSRN Electronic Journal",
-      "year": 2018,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.2139/ssrn.3155653"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2884053123",
-      "doi": "10.1101/370478",
-      "title": "Live imaging of Aiptasia larvae, a model system for studying coral bleaching, using a simple microfluidic device",
-      "authors_html": "Treuren, W.V., Brower, K.K., Labanieh, L., Hunt, D., Lensch, S., Cruz, B., Cartwright, H., Tran, C., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2018,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/370478"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/s41598-019-45167-2-ascl.pdf"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/j2rsy/"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/370478v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2898107733",
-      "doi": "10.1101/450262",
-      "title": "Satb1integrates DNA sequence,shape, motif densityand torsional stressto differentially bind targets in nucleosome-dense regions",
-      "authors_html": "Ghosh, R.P., Shi, Q., Yang, L., Reddick, M.P., Tv, N., Zhurkin, V.B., <strong>Fordyce, P.M.</strong>, Stasevich, T.J., Chang, H.Y., Greenleaf, W.J., Liphardt, J.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2018,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/450262"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/s41467-019-11118-8-nw8y.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/450262v1"
         }
       ],
       "pin": false
@@ -2032,54 +1400,18 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1016/j.ohx.2017.10.001"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2742646322",
-      "doi": "10.1101/173468",
-      "title": "An Open-Source, Programmable Pneumatic Setup for Operation and Automated Control of Single- and Multi-Layer Microfluidic Devices",
-      "authors_html": "Brower, K., Puccinelli, R., Markin, C.J., Shimko, T.C., Longwell, S.A., Cruz, B., Gómez-Sjöberg, R., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2017,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/173468"
         },
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/1-s20-S2468067217300433-main.pdf"
         },
         {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/173468"
+        },
+        {
           "label": "OSF data",
           "url": "https://osf.io/jwyau/"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://www.biorxiv.org/content/10.1101/173468v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2950641340",
-      "doi": "10.1101/193904",
-      "title": "Comprehensive, high-resolution binding energy landscapes reveal context dependencies of transcription factor binding",
-      "authors_html": "Le, D.D., Shimko, T.C., Aditham, A.K., Keys, A.M., Orenstein, Y., <strong>Fordyce, P.M.</strong>",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2017,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/193904"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2017/09/26/193904.full.pdf"
         }
       ],
       "pin": false
@@ -2099,7 +1431,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/PIIS2405471217300492.pdf"
+          "url": "http://www.cell.com/article/S2405471217300492/pdf"
         }
       ],
       "pin": false
@@ -2172,10 +1504,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1117/12.2254908"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/100610Z-3.pdf"
         }
       ],
       "pin": false
@@ -2235,7 +1563,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/1272full.pdf"
+          "url": "http://genesdev.cshlp.org/content/28/12/1272.full.pdf"
         }
       ],
       "pin": false
@@ -2291,7 +1619,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/gkt259.pdf"
+          "url": "https://academic.oup.com/nar/article-pdf/41/12/5991/16951201/gkt259.pdf"
         }
       ],
       "pin": false
@@ -2404,10 +1732,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/nbt.1675"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/nbt1675.pdf"
         }
       ],
       "pin": false
@@ -2444,10 +1768,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/ncb1394"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/nihms10830.pdf"
         }
       ],
       "pin": false
@@ -2515,10 +1835,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1074/jbc.m300849200"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/PIIS0021925819549638-t25x.pdf"
         }
       ],
       "pin": false
