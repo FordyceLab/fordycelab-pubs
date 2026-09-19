@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10",
-  "count": 138,
+  "updated": "2026-09-19",
+  "count": 140,
   "publications": [
     {
       "id": "https://openalex.org/W4415454705",
@@ -21,7 +21,7 @@
     {
       "id": "https://openalex.org/W7162864844",
       "doi": "10.64898/2026.05.28.728566",
-      "title": "Amplicon/Protein Bead Display enables quantitative <i>in vitro</i> biochemistry at scale",
+      "title": "Amplicon/Protein Bead Display enables quantitative in vitro biochemistry at scale",
       "authors_html": "Passow, D.R., Gupta, A., Thompson, S., Kundaje, A., <strong>Fordyce, P.M.</strong>",
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "year": 2026,
@@ -83,6 +83,26 @@
       "pin": false
     },
     {
+      "id": "https://openalex.org/W7140170746",
+      "doi": "10.64898/2026.03.21.713420",
+      "title": "FoTO1 orchestrates Taxol biosynthesis through catalytic and non-catalytic mechanisms",
+      "authors_html": "Wick, C., Somani, A., Liu, J.C., Karunadasa, S.S., Xu, S., <strong>Fordyce, P.M.</strong>, McClune, C.J., Sattely, E.S.",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "year": 2026,
+      "type": "preprint",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.64898/2026.03.21.713420"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.biorxiv.org/content/biorxiv/early/2026/03/24/2026.03.21.713420.full.pdf"
+        }
+      ],
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W7147165985",
       "doi": "10.64898/2026.03.30.715055",
       "title": "High-throughput biochemical phenotyping of SHP2 variants reveals the molecular basis of diseases and allosteric drug inhibition",
@@ -110,10 +130,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1039/d5lc00959f"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2025/10/13/2025.10.11.680838.full.pdf"
         }
       ],
       "pin": false
@@ -183,6 +199,22 @@
       "pin": false
     },
     {
+      "id": "https://openalex.org/W7123337390",
+      "doi": "10.64898/2026.01.12.699065",
+      "title": "uSort-M: Scalable isolation of user-defined sequences from diverse pooled libraries",
+      "authors_html": "Olivas, M.B., Almhjell, P.J., Petersen, L.K., Shanahan, J.D., <strong>Fordyce, P.M.</strong>",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "year": 2026,
+      "type": "preprint",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.64898/2026.01.12.699065"
+        }
+      ],
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W4416584834",
       "doi": "10.1073/pnas.2509652122",
       "title": "Acoustic printing of conductive polymers",
@@ -242,10 +274,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1101/2025.03.13.643134"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2025/03/15/2025.03.13.643134.full.pdf"
         }
       ],
       "pin": false
@@ -282,10 +310,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/s41586-025-09090-z"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.nature.com/articles/s41586-025-09090-z.pdf"
         }
       ],
       "pin": false
@@ -378,10 +402,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/s41467-023-44068-3"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.nature.com/articles/s41467-023-44068-3.pdf"
         }
       ],
       "pin": false
@@ -438,10 +458,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1101/2024.08.19.608698"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2024/08/20/2024.08.19.608698.full.pdf"
         }
       ],
       "pin": false
@@ -485,30 +501,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1101/2024.11.06.622305"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2024/11/08/2024.11.06.622305.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4376280271",
-      "doi": "10.1101/2023.05.11.540401",
-      "title": "<i>De novo</i> distillation of thermodynamic affinity from deep learning regulatory sequence models of <i>in vivo</i> protein-DNA binding",
-      "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>, Kundaje, A.",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2023,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2023.05.11.540401"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.biorxiv.org/content/biorxiv/early/2023/05/11/2023.05.11.540401.full.pdf"
         }
       ],
       "pin": false
@@ -525,10 +517,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1016/j.cels.2023.08.002"
-        },
-        {
-          "label": "PDF",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12126083/pdf/nihms-2083972.pdf"
         }
       ],
       "pin": false
@@ -602,6 +590,26 @@
       "pin": false
     },
     {
+      "id": "https://openalex.org/W4376280271",
+      "doi": "10.1101/2023.05.11.540401",
+      "title": "De novo distillation of thermodynamic affinity from deep learning regulatory sequence models of in vivo protein-DNA binding",
+      "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>, Kundaje, A.",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "year": 2023,
+      "type": "preprint",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1101/2023.05.11.540401"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.biorxiv.org/content/biorxiv/early/2023/05/11/2023.05.11.540401.full.pdf"
+        }
+      ],
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W4383753294",
       "doi": "10.1073/pnas.2219074120",
       "title": "Decoupling of catalysis and transition state analog binding from mutations throughout a phosphatase revealed by high-throughput enzymology",
@@ -613,10 +621,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1073/pnas.2219074120"
-        },
-        {
-          "label": "PDF",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10629569/pdf/pnas.202219074.pdf"
         }
       ],
       "pin": false
@@ -664,7 +668,7 @@
     {
       "id": "https://openalex.org/W4376617992",
       "doi": "10.1101/2023.05.14.540683",
-      "title": "Global substrate identification and high throughput <i>in vitro</i> dephosphorylation reactions uncover PP1 and PP2A-B55 specificity principles",
+      "title": "Global substrate identification and high throughput in vitro dephosphorylation reactions uncover PP1 and PP2A-B55 specificity principles",
       "authors_html": "Hein, J.B., Nguyen, H., Garvanska, D.H., Nasa, I., Feng, Y., López‐Méndez, B., Davey, N.E., Kettenbach, A.N., <strong>Fordyce, P.M.</strong>, Nilsson, J.",
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "year": 2023,
@@ -828,7 +832,7 @@
     {
       "id": "https://openalex.org/W4388141047",
       "doi": "10.1039/d3lc00189j",
-      "title": "Versatility and stability optimization of flow-focusing droplet generators <i>via</i> quality metric-driven design automation",
+      "title": "Versatility and stability optimization of flow-focusing droplet generators via quality metric-driven design automation",
       "authors_html": "McIntyre, D., Lashkaripour, A., Arguijo, D., <strong>Fordyce, P.M.</strong>, Densmore, D.",
       "venue": "Lab on a Chip",
       "year": 2023,
@@ -1009,10 +1013,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1039/d2lc00254j"
-        },
-        {
-          "label": "PDF",
-          "url": "https://pubs.rsc.org/en/content/articlepdf/2022/lc/d2lc00254j"
         }
       ],
       "pin": false
@@ -1426,9 +1426,9 @@
       "doi": "10.17605/osf.io/h4sr9",
       "title": "Dropception: Double Emulsion Single Cell Encapsulation and FACS",
       "authors_html": "Brower, K., Kim, G., Khariton, M., Calhoun, S.G.K., Suzuki, P., Still, C., <strong>Fordyce, P.M.</strong>",
-      "venue": "Open MIND",
+      "venue": "",
       "year": 2020,
-      "type": "article",
+      "type": "preprint",
       "links": [
         {
           "label": "web",
@@ -1893,10 +1893,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1073/pnas.1715888115"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.pnas.org/content/pnas/115/16/E3702.full.pdf"
         }
       ],
       "pin": false
@@ -2004,7 +2000,7 @@
     {
       "id": "https://openalex.org/W3122192710",
       "doi": "10.2139/ssrn.3155653",
-      "title": "Joker de Bruijn: Sequence Libraries to Cover All kkmers Using Joker Characters",
+      "title": "Joker de Bruijn: Sequence Libraries to Cover All k‐mers Using Joker Characters",
       "authors_html": "Orenstein, Y., Puccinelli, R., Kim, R., <strong>Fordyce, P.M.</strong>, Berger, B.",
       "venue": "SSRN Electronic Journal",
       "year": 2018,
@@ -2020,7 +2016,7 @@
     {
       "id": "https://openalex.org/W2884053123",
       "doi": "10.1101/370478",
-      "title": "Live imaging of <i>Aiptasia</i> larvae, a model system for studying coral bleaching, using a simple microfluidic device",
+      "title": "Live imaging of Aiptasia larvae, a model system for studying coral bleaching, using a simple microfluidic device",
       "authors_html": "Treuren, W.V., Brower, K.K., Labanieh, L., Hunt, D., Lensch, S., Cruz, B., Cartwright, H., Tran, C., <strong>Fordyce, P.M.</strong>",
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "year": 2018,
@@ -2168,7 +2164,7 @@
     {
       "id": "https://openalex.org/W2760148613",
       "doi": "10.1016/j.cels.2017.07.006",
-      "title": "Optimized Sequence Library Design for Efficient In Vitro Interaction Mapping",
+      "title": "Optimized Sequence Library Design for Efficient In Vitro Interaction Mapping",
       "authors_html": "Orenstein, Y., Puccinelli, R., Kim, R., <strong>Fordyce, P.M.</strong>, Berger, B.",
       "venue": "Cell Systems",
       "year": 2017,
@@ -2213,6 +2209,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1002/adom.201600548"
+        },
+        {
+          "label": "PDF",
+          "url": "https://escholarship.org/content/qt6kd4v4gd/qt6kd4v4gd.pdf"
         }
       ],
       "pin": false
@@ -2316,7 +2316,7 @@
     {
       "id": "https://openalex.org/W2168937034",
       "doi": "10.1111/mmi.12329",
-      "title": "Structure of the transcriptional network controlling white‐opaque switching in <scp><i>C</i></scp><i>andida albicans</i>",
+      "title": "Structure of the transcriptional network controlling white‐opaque switching in C andida albicans",
       "authors_html": "Hernday, A.D., Lohse, M.B., <strong>Fordyce, P.M.</strong>, Nobile, C.J., DeRisi, J.L., Johnson, A.D.",
       "venue": "Molecular Microbiology",
       "year": 2013,
@@ -2540,10 +2540,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1074/jbc.m300849200"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.jbc.org/article/S0021925819549638/pdf"
         }
       ],
       "pin": false
