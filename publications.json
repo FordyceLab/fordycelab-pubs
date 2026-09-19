@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-19",
-  "count": 84,
+  "count": 77,
   "publications": [
     {
       "id": "https://openalex.org/W4415454705",
@@ -423,17 +423,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W7139667677",
-      "doi": "",
-      "title": "Literature",
-      "authors_html": "<strong>Fordyce, P.M.</strong>, Thompson, S.",
-      "venue": "OSF Preprints",
-      "year": 2024,
-      "type": "preprint",
-      "links": [],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W4386885921",
       "doi": "10.1016/j.cels.2023.08.002",
       "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
@@ -814,17 +803,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W3193244095",
-      "doi": "",
-      "title": "Fordyce Lab: uPICM libraries",
-      "authors_html": "Appel, M.J., Longwell, S.A., <strong>Fordyce, P.M.</strong>",
-      "venue": "OSF Preprints",
-      "year": 2021,
-      "type": "preprint",
-      "links": [],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W3171407157",
       "doi": "10.1016/j.cels.2021.05.009",
       "title": "Fundamentals to function: Quantitative and scalable approaches for measuring protein stability",
@@ -917,26 +895,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W3158676299",
-      "doi": "10.21203/rs.3.rs-636850/v1",
-      "title": "Structure-activity mapping of the peptide- and force-dependent landscape of T-cell activation",
-      "authors_html": "<strong>Fordyce, P.M.</strong>, Feng, Y., Zhao, X., White, A.K., García, K.C.",
-      "venue": "Research Square",
-      "year": 2021,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.21203/rs.3.rs-636850/v1"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.researchsquare.com/article/rs-636850/latest.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W3208131886",
       "doi": "10.1021/acsomega.1c04180",
       "title": "uPIC–M: Efficient and Scalable Preparation of Clonal Single Mutant Libraries for High-Throughput Protein Biochemistry",
@@ -960,22 +918,6 @@
         {
           "label": "OSF data",
           "url": "https://osf.io/k3rjy/"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3098588924",
-      "doi": "10.1145/3388440.3414211",
-      "title": "DeCoDe",
-      "authors_html": "Shimko, T.C., <strong>Fordyce, P.M.</strong>, Orenstein, Y.",
-      "venue": "",
-      "year": 2020,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1145/3388440.3414211"
         }
       ],
       "pin": false
@@ -1457,22 +1399,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W4200143697",
-      "doi": "10.3791/55276-v",
-      "title": "Multi-step Variable Height Photolithography for Valved Multilayer Microfluidic Devices",
-      "authors_html": "Brower, K., White, A.K., <strong>Fordyce, P.M.</strong>",
-      "venue": "Journal of Visualized Experiments",
-      "year": 2017,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.3791/55276-v"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W2760148613",
       "doi": "10.1016/j.cels.2017.07.006",
       "title": "Optimized Sequence Library Design for Efficient In Vitro Interaction Mapping",
@@ -1529,33 +1455,13 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W2088401710",
-      "doi": "10.1039/c5lc90018b",
-      "title": "Correction: Programmable microfluidic synthesis of spectrally encoded microspheres",
-      "authors_html": "Gerver, R.E., Gómez-Sjöberg, R., Baxter, B., Thorn, K.S., <strong>Fordyce, P.M.</strong>, Diaz-Botia, C., Helms, B.A., DeRisi, J.L.",
-      "venue": "Lab on a Chip",
-      "year": 2015,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1039/c5lc90018b"
-        },
-        {
-          "label": "PDF",
-          "url": "https://pubs.rsc.org/en/content/articlepdf/2015/lc/c5lc90018b"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W2002333873",
       "doi": "10.1101/gad.242271.114",
       "title": "How duplicated transcription regulators can diversify to govern the expression of nonoverlapping sets of genes",
       "authors_html": "Pérez, J.C., <strong>Fordyce, P.M.</strong>, Lohse, M.B., Hanson-Smith, V., DeRisi, J.L., Johnson, A.D.",
       "venue": "Genes & Development",
       "year": 2014,
-      "type": "preprint",
+      "type": "article",
       "links": [
         {
           "label": "web",
@@ -1770,17 +1676,6 @@
           "url": "https://doi.org/10.1038/ncb1394"
         }
       ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W134615678",
-      "doi": "",
-      "title": "Single-molecule studies of kinesin family motor proteins",
-      "authors_html": "<strong>Fordyce, P.M.</strong>",
-      "venue": "",
-      "year": 2006,
-      "type": "article",
-      "links": [],
       "pin": false
     },
     {
