@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-19",
-  "count": 77,
+  "count": 82,
   "publications": [
     {
       "id": "https://openalex.org/W4415454705",
@@ -188,6 +188,22 @@
           "url": "https://doi.org/10.1038/s41586-025-09948-2"
         }
       ],
+      "pin": false
+    },
+    {
+      "doi": "10.48550/arxiv.2606.30915",
+      "title": "Spectral DiffuserScope: a compact snapshot hyperspectral microscope",
+      "authors_html": "Aggarwal, N., Markley, E., Lee, K.C., Lee, S.A., Bae, J., Baek, N., Park, W., Cho, M.S., Lim, Y., <strong>Fordyce, P.</strong>, Eberly, S., Sohn, L.L., Houck, W.D., Monakhova, K., &amp; Waller, L.",
+      "venue": "arXiv",
+      "year": 2026,
+      "type": "preprint",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://arxiv.org/abs/2606.30915"
+        }
+      ],
+      "id": "10.48550/arxiv.2606.30915",
       "pin": false
     },
     {
@@ -664,7 +680,21 @@
           "url": "https://osf.io/gbxhz/"
         }
       ],
-      "pin": false
+      "pin": false,
+      "news": [
+        {
+          "label": "Perspective by Thomas Kuhlman",
+          "url": "https://www.science.org/doi/10.1126/science.adk2055"
+        },
+        {
+          "label": "Stanford Medicine News",
+          "url": "https://med.stanford.edu/news/all-news/2023/09/junk-dna-diseases.html"
+        },
+        {
+          "label": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/"
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W4388141047",
@@ -712,6 +742,28 @@
           "url": "https://osf.io/xs7zf/"
         }
       ],
+      "pin": false,
+      "news": [
+        {
+          "label": "Nature Methods Research Briefing",
+          "url": "https://www.nature.com/articles/s41592-022-01593-1"
+        }
+      ]
+    },
+    {
+      "doi": "10.1126/science.fannjiang-neurips-2022",
+      "title": "Designing active and thermostable enzymes with sequence-only predictive models",
+      "authors_html": "Fannjiang, C., Olivas, M., Greene, E.R., Markin, C.J., Wallace, B., Krause, B., Pinney, M., Fraser, J., <strong>Fordyce, P.</strong>, Madani, A., &amp; Naik, N.",
+      "venue": "NeurIPS (Machine Learning for Structural Biology Workshop)",
+      "year": 2022,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://neurips.cc/virtual/2022/60272"
+        }
+      ],
+      "id": "10.1126/science.fannjiang-neurips-2022",
       "pin": false
     },
     {
@@ -892,7 +944,29 @@
           "url": "https://osf.io/ez9xv/"
         }
       ],
-      "pin": false
+      "pin": false,
+      "news": [
+        {
+          "label": "Perspective by Baumer & Whitehead",
+          "url": "https://www.science.org/doi/full/10.1126/science.abj8346"
+        },
+        {
+          "label": "Coverage in Nature",
+          "url": "https://www.nature.com/articles/d41586-021-02034-3"
+        },
+        {
+          "label": "Stanford News",
+          "url": "https://news.stanford.edu/2021/07/22/new-tool-drastically-speeds-study-enzymes/"
+        },
+        {
+          "label": "CZ Biohub",
+          "url": "https://www.czbiohub.org/life-science/how-enzymes-weather-mutations/"
+        },
+        {
+          "label": "Genetic Engineering & Biotechnology News",
+          "url": "https://www.genengnews.com/news/lab-on-a-chip-expands-functional-studies-of-enzyme-variants/"
+        }
+      ]
     },
     {
       "id": "https://openalex.org/W3208131886",
@@ -1643,6 +1717,22 @@
       "pin": false
     },
     {
+      "doi": "10.1101/fordyce-csh-2008-surface-assays",
+      "title": "Advances in surface-based assays for single molecules",
+      "authors_html": "<strong>Fordyce, P.M.</strong>*, Valentine, M.T.*, &amp; Block, S.M.",
+      "venue": "Single-Molecule Techniques: A Laboratory Manual (Cold Spring Harbor Monograph Series)",
+      "year": 2008,
+      "type": "article",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/ColdSpringHarborChapter.pdf"
+        }
+      ],
+      "id": "10.1101/fordyce-csh-2008-surface-assays",
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W1900541047",
       "doi": "10.1186/1747-1028-1-31",
       "title": "Eg5 steps it up!",
@@ -1732,6 +1822,38 @@
           "url": "https://doi.org/10.1074/jbc.m300849200"
         }
       ],
+      "pin": false
+    },
+    {
+      "doi": "10.1103/physrevd.64.012003",
+      "title": "Measurement of the branching ratio of Kₗ → e⁺e⁻γγ",
+      "authors_html": "Alavi-Harati, A., <em>et al.</em> (KTeV Collaboration, incl. <strong>Fordyce, P.M.</strong>)",
+      "venue": "Physical Review D",
+      "year": 2001,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1103/PhysRevD.64.012003"
+        }
+      ],
+      "id": "10.1103/physrevd.64.012003",
+      "pin": false
+    },
+    {
+      "doi": "10.1103/physrevlett.86.397",
+      "title": "Search for the decay Kₗ → π⁰e⁺e⁻",
+      "authors_html": "Alavi-Harati, A., <em>et al.</em> (KTeV Collaboration, incl. <strong>Fordyce, P.M.</strong>)",
+      "venue": "Physical Review Letters",
+      "year": 2001,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1103/PhysRevLett.86.397"
+        }
+      ],
+      "id": "10.1103/physrevlett.86.397",
       "pin": false
     }
   ]
