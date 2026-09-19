@@ -6,7 +6,7 @@
       "id": "https://openalex.org/W4415454705",
       "doi": "10.1038/s41467-026-75463-1",
       "title": "ADAPT-M: a workflow for rapid, quantitative in vitro measurements of enriched protein libraries",
-      "authors_html": "Perez, C.P., DelRosso, N., Noland, C.L., Parekh, U., Choe, C.A., Eguchi, R.R., Wen, Q., <strong>Fordyce, P.M.</strong>, Huang, P.",
+      "authors_html": "Perez, C.P.*, DelRosso, N.V.*, Noland, C.L., Parekh, U., Choe, C.A., Eguchi, R.R., Wen, Q., <strong>Fordyce, P.M.</strong>‡, & Huang, P.S.‡",
       "venue": "Nature Communications",
       "year": 2026,
       "type": "article",
@@ -14,6 +14,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/s41467-026-75463-1"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/20251021683815v1full.pdf"
         }
       ],
       "pin": false
@@ -42,7 +46,7 @@
       "id": "https://openalex.org/W7131647850",
       "doi": "10.64898/2026.02.24.707783",
       "title": "Engineering the mechanosensitivity of single DNA molecules via high-throughput microfluidic force spectroscopy",
-      "authors_html": "DeJong, M., Bian, Y., Ortiz-Cárdenas, J.E., Figueroa, B., Pant, A., Posadas-Barrera, E., Brixi, L., Bauer, M.S., Dunn, A.R., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "DeJong, M.P., Bian, Y., Ortiz-Cardenas, J., Figueroa, B., Pant, A., Posadas-Barrera, E., Brixi, L., Bauer, M.S., Dunn, A.R.‡, & <strong>Fordyce, P.M.</strong>‡",
       "venue": "bioRxiv",
       "year": 2026,
       "type": "preprint",
@@ -82,7 +86,7 @@
       "id": "https://openalex.org/W7147165985",
       "doi": "10.64898/2026.03.30.715055",
       "title": "High-throughput biochemical phenotyping of SHP2 variants reveals the molecular basis of diseases and allosteric drug inhibition",
-      "authors_html": "Lee, A.A., Mokhtari, D., Egan, E., Blacklow, S.C., Herschlag, D., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Lee, A.A., Mokhtari, D.A., Egan, E.D., Blacklow, S.C., Herschlag, D.‡, & <strong>Fordyce, P.M.</strong>‡",
       "venue": "bioRxiv",
       "year": 2026,
       "type": "preprint",
@@ -201,6 +205,10 @@
         {
           "label": "web",
           "url": "https://arxiv.org/abs/2606.30915"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/2606.30915"
         }
       ],
       "id": "10.48550/arxiv.2606.30915",
@@ -250,7 +258,7 @@
       "id": "https://openalex.org/W4411936964",
       "doi": "10.1021/acs.analchem.5c01536",
       "title": "Continuous FACS Sorting of Double Emulsion Picoreactors with a 3D-Printed Vertical Mixer",
-      "authors_html": "Yang, Z., Thompson, S., Zhang, Y., Rutten, I., Duyse, J.V., Isterdael, G.V., Nichols, L., Lammertyn, J., Soh, H.T., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Yang, Z.,*‡, Thompson, S.*‡, Zhang, Y., Rutten, I., Van Duyse, J., Van Isterdael, G., Nichols, L., Lammertyn, J., Soh, H.T., & <strong>Fordyce, P.</strong>M",
       "venue": "Analytical Chemistry",
       "year": 2025,
       "type": "article",
@@ -342,7 +350,7 @@
       "id": "https://openalex.org/W4406319918",
       "doi": "10.1038/s41467-024-55672-2",
       "title": "Mutations to transcription factor MAX allosterically increase DNA selectivity by altering folding and binding pathways",
-      "authors_html": "Hastings, R., Aditham, A.K., DelRosso, N., Suzuki, P., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Hastings, R.*, Aditham, A.*, DelRosso, N., Suzuki, P., & <strong>Fordyce, P.</strong>M",
       "venue": "Nature Communications",
       "year": 2025,
       "type": "article",
@@ -366,7 +374,7 @@
       "id": "https://openalex.org/W4390509294",
       "doi": "10.1038/s41467-023-44068-3",
       "title": "Design automation of microfluidic single and double emulsion droplets with machine learning",
-      "authors_html": "Lashkaripour, A., McIntyre, D., Calhoun, S.G.K., Krauth, K., Densmore, D., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Lashkaripour, A., McIntyre, D.P., Calhoun, S.G.K., Krauth, K., Densmore, D.M., & <strong>Fordyce, P.M.</strong>*",
       "venue": "Nature Communications",
       "year": 2024,
       "type": "article",
@@ -394,7 +402,7 @@
       "id": "https://openalex.org/W4405025572",
       "doi": "10.1002/admi.202400403",
       "title": "FACS‐Sortable Triple Emulsion Picoreactors for Screening Reactions in Biphasic Environments",
-      "authors_html": "Thompson, S., Zhang, Y., Yang, Z., Nichols, L., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Thompson, S.*, Zhang, Y., Yang, Z., Nichols, L.A., & <strong>Fordyce, P.M.</strong>*",
       "venue": "Advanced Materials Interfaces",
       "year": 2024,
       "type": "article",
@@ -422,7 +430,7 @@
       "id": "https://openalex.org/W4401898591",
       "doi": "10.1101/2024.08.19.608698",
       "title": "High-throughput affinity measurements of direct interactions between activation domains and co-activators",
-      "authors_html": "DelRosso, N., Suzuki, P., Griffith, D., Lotthammer, J.M., Novak, B., Kocalar, S., Sheth, M.U., Holehouse, A.S., Bintu, L., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "DelRosso, N.*, Suzuki, P.H.*, Griffith, D., Lotthammer, J.M., Novak, B., Kocalar, S., Sheth, M.U., Holehouse, A.S., Bintu, L.‡, & <strong>Fordyce, P.M.</strong>‡",
       "venue": "bioRxiv",
       "year": 2024,
       "type": "preprint",
@@ -442,7 +450,7 @@
       "id": "https://openalex.org/W4386885921",
       "doi": "10.1016/j.cels.2023.08.002",
       "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
-      "authors_html": "Sockell, A., Wong, W.H., Longwell, S.A., Vu, T., Karlsson, K., Mokhtari, D.A., Schaepe, J.M., Lo, Y., Cornelius, V., Kuo, C.J., Valen, D.V., Curtis, C., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C., & <strong>Fordyce, P.M.</strong>*",
       "venue": "Cell Systems",
       "year": 2023,
       "type": "article",
@@ -470,7 +478,7 @@
       "id": "https://openalex.org/W4313476900",
       "doi": "10.1021/acs.analchem.2c03475",
       "title": "Alleviating Cell Lysate-Induced Inhibition to Enable RT-PCR from Single Cells in Picoliter-Volume Double Emulsion Droplets",
-      "authors_html": "Khariton, M., McClune, C.J., Brower, K.K., Klemm, S., Sattely, E.S., <strong>Fordyce, P.M.</strong>, Wang, B.",
+      "authors_html": "Khariton, M.*, McClune, C.J.*, Brower, K.K., Klemm, S., Sattely, E., <strong>Fordyce, P.M.</strong>‡, & Wang, B.‡",
       "venue": "Analytical Chemistry",
       "year": 2023,
       "type": "article",
@@ -494,7 +502,7 @@
       "id": "https://openalex.org/W4376280271",
       "doi": "10.1101/2023.05.11.540401",
       "title": "De novo distillation of thermodynamic affinity from deep learning regulatory sequence models of in vivo protein-DNA binding",
-      "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>, Kundaje, A.",
+      "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>* & Kundaje, A.*",
       "venue": "bioRxiv",
       "year": 2023,
       "type": "preprint",
@@ -514,7 +522,7 @@
       "id": "https://openalex.org/W4383753294",
       "doi": "10.1073/pnas.2219074120",
       "title": "Decoupling of catalysis and transition state analog binding from mutations throughout a phosphatase revealed by high-throughput enzymology",
-      "authors_html": "Markin, C.J., Mokhtari, D.A., Du, S., Doukov, T., Sunden, F., Cook, J.A., <strong>Fordyce, P.M.</strong>, Herschlag, D.",
+      "authors_html": "Markin, C.J., Mokhtari, D.A., Du, S., Doukov, T., Sunden, F., <strong>Fordyce, P.M.</strong> ‡, & Herschlag, D",
       "venue": "Proceedings of the National Academy of Sciences",
       "year": 2023,
       "type": "article",
@@ -522,6 +530,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1073/pnas.2219074120"
+        },
+        {
+          "label": "PDF",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10629569/pdf/pnas.202219074.pdf"
         },
         {
           "label": "bioRxiv",
@@ -582,7 +594,7 @@
       "id": "https://openalex.org/W4360612579",
       "doi": "10.1016/j.jbiosc.2023.03.001",
       "title": "Microfluidic encapsulation of photosynthetic cyanobacteria in hydrogel microparticles augments oxygen delivery to rescue ischemic myocardium",
-      "authors_html": "Stapleton, L.M., Farry, J.M., Zhu, Y., Lucian, H.J., Wang, H., Paulsen, M.J., Totherow, K.P., Roth, G.A., Brower, K.K., <strong>Fordyce, P.M.</strong>, Appel, E.A., Woo, Y.J.",
+      "authors_html": "Stapleton, L.M., Farry, J.M., Lucian, H.J., Wang, H., Paulson, M.J., Totherow, K.P., Roth, G.A., Brower, K.K., <strong>Fordyce, P.M.</strong>, Appel, E.A.*, & Woo, Y.J.*",
       "venue": "Journal of Bioscience and Bioengineering",
       "year": 2023,
       "type": "article",
@@ -590,6 +602,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1016/j.jbiosc.2023.03.001"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/1-s20-S1389172323000737-main.pdf"
         }
       ],
       "pin": false
@@ -626,7 +642,7 @@
       "id": "https://openalex.org/W4388233463",
       "doi": "10.15252/msb.202311782",
       "title": "Phosphatase specificity principles uncovered by MRBLE:Dephos and global substrate identification",
-      "authors_html": "Hein, J.B., Nguyen, H., Garvanska, D.H., Nasa, I., Kruse, T., Feng, Y., López‐Méndez, B., Davey, N.E., Kettenbach, A.N., <strong>Fordyce, P.M.</strong>, Nilsson, J.",
+      "authors_html": "Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>*, Nilsson, J",
       "venue": "Molecular Systems Biology",
       "year": 2023,
       "type": "article",
@@ -878,7 +894,7 @@
       "id": "https://openalex.org/W3203729472",
       "doi": "10.1016/j.sbi.2021.07.010",
       "title": "High throughput and quantitative enzymology in the genomic era",
-      "authors_html": "Mokhtari, D.A., Appel, M.J., <strong>Fordyce, P.M.</strong>, Herschlag, D.",
+      "authors_html": "Mokhtari, D.A.*, Appel, M.J.*, <strong>Fordyce, P.M.</strong>, & Herschlag, D",
       "venue": "Current Opinion in Structural Biology",
       "year": 2021,
       "type": "article",
@@ -922,7 +938,7 @@
       "id": "https://openalex.org/W3108171657",
       "doi": "10.1126/science.abf8761",
       "title": "Revealing enzyme functional architecture via high-throughput microfluidic enzyme kinetics",
-      "authors_html": "Markin, C.J., Mokhtari, D.A., Sunden, F., Appel, M.J., Akiva, E., Longwell, S.A., Sabatti, C., Herschlag, D., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Markin, C.J.*, Mokhtari, D.A.*, Sunden, F., Appel, M.J., Akiva, E., Longwell, S.A., Sabatti, C., Herschlag, D.*, & <strong>Fordyce, P.M.</strong>*",
       "venue": "Science",
       "year": 2021,
       "type": "article",
@@ -1052,7 +1068,7 @@
       "id": "https://openalex.org/W3083950783",
       "doi": "10.1021/acs.analchem.0c02499",
       "title": "Double Emulsion Picoreactors for High-Throughput Single-Cell Encapsulation and Phenotyping via FACS",
-      "authors_html": "Brower, K.K., Khariton, M., Suzuki, P., Still, C., Kim, G., Calhoun, S.G.K., Qi, L.S., Wang, B., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Brower, K.K., Khariton, M., Suzuki, P., Still, C., Kim, G., Calhoun, S., Qi, S., Wang, B., & <strong>Fordyce, P.M.</strong>*",
       "venue": "Analytical Chemistry",
       "year": 2020,
       "type": "article",
@@ -1188,7 +1204,7 @@
       "id": "https://openalex.org/W2953774674",
       "doi": "10.1038/s41598-019-45167-2",
       "title": "Live imaging of Aiptasia larvae, a model system for coral and anemone bleaching, using a simple microfluidic device",
-      "authors_html": "Treuren, W.V., Brower, K.K., Labanieh, L., Hunt, D., Lensch, S., Cruz, B., Cartwright, H., Tran, C., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Treuren, W.V.*, Brower, K.*, Labanieh, L., Hunt, D., Lensch, S., Cruz, B., Cartwright, H.N., Tran, C., and Fordyce, P",
       "venue": "Scientific Reports",
       "year": 2019,
       "type": "article",
@@ -1252,6 +1268,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.7554/elife.40499"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/elife-40499-v2.pdf"
         },
         {
           "label": "bioRxiv",
@@ -1456,7 +1476,7 @@
       "id": "https://openalex.org/W2581152851",
       "doi": "10.3791/55276",
       "title": "Multi-step Variable Height Photolithography for Valved Multilayer Microfluidic Devices",
-      "authors_html": "Brower, K., White, A.K., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Brower, K.*, White, A.K., and <strong>Fordyce, P.</strong>M",
       "venue": "Journal of Visualized Experiments",
       "year": 2017,
       "type": "article",
@@ -1504,6 +1524,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1117/12.2254908"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/100610Z-3.pdf"
         }
       ],
       "pin": false
@@ -1512,7 +1536,7 @@
       "id": "https://openalex.org/W2536043437",
       "doi": "10.1002/adom.201600548",
       "title": "Programmable Microfluidic Synthesis of Over One Thousand Uniquely Identifiable Spectral Codes",
-      "authors_html": "Nguyen, H., Baxter, B., Brower, K., Diaz-Botia, C., DeRisi, J.L., <strong>Fordyce, P.M.</strong>, Thorn, K.S.",
+      "authors_html": "Nguyen, H.Q., Baxter, B.C., Brower, K., Diaz-Botia, C.A., DeRisi, J.L, <strong>Fordyce, P.M.</strong>*, and Thorn, K.S.*",
       "venue": "Advanced Optical Materials",
       "year": 2016,
       "type": "article",
@@ -1608,7 +1632,7 @@
       "id": "https://openalex.org/W2168937034",
       "doi": "10.1111/mmi.12329",
       "title": "Structure of the transcriptional network controlling white‐opaque switching in C andida albicans",
-      "authors_html": "Hernday, A.D., Lohse, M.B., <strong>Fordyce, P.M.</strong>, Nobile, C.J., DeRisi, J.L., Johnson, A.D.",
+      "authors_html": "Hernday, A.D., Lohse, M.B.*, <strong>Fordyce, P.M.</strong>*, Nobile, C.J., DeRisi, J.L., and Johnson, A.D",
       "venue": "Molecular Microbiology",
       "year": 2013,
       "type": "article",
@@ -1648,7 +1672,7 @@
       "id": "https://openalex.org/W2135707882",
       "doi": "10.1039/c2lc40699c",
       "title": "Programmable microfluidic synthesis of spectrally encoded microspheres",
-      "authors_html": "Gerver, R.E., Gómez-Sjöberg, R., Baxter, B., Thorn, K.S., <strong>Fordyce, P.M.</strong>, Diaz-Botia, C., Helms, B.A., DeRisi, J.L.",
+      "authors_html": "Gerver, R.E.*, Gomez-Sjoberg, R.*, Baxter, B.C.*, Thorn, K.S.*, <strong>Fordyce, P.M.</strong>*, Diaz-Botia, C.A., Helms, B.A., and DeRisi, J.L",
       "venue": "Lab on a Chip",
       "year": 2012,
       "type": "article",
@@ -1704,7 +1728,7 @@
       "id": "https://openalex.org/W2062237921",
       "doi": "10.1038/nbt.1675",
       "title": "De novo identification and biophysical characterization of transcription-factor binding sites with microfluidic affinity analysis",
-      "authors_html": "<strong>Fordyce, P.M.</strong>, Gerber, D., Tran, D., Zheng, J., Li, H., DeRisi, J.L., Quake, S.R.",
+      "authors_html": "<strong>Fordyce, P.M.</strong>*, Gerber, D.*, Tran, D., Zheng, J., Li, H., DeRisi, J.L., and Quake, S.R",
       "venue": "Nature Biotechnology",
       "year": 2010,
       "type": "article",
@@ -1712,6 +1736,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/nbt.1675"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/nbt1675.pdf"
         }
       ],
       "pin": false
@@ -1756,7 +1784,7 @@
       "id": "https://openalex.org/W2028383422",
       "doi": "10.1038/ncb1394",
       "title": "Individual dimers of the mitotic kinesin motor Eg5 step processively and support substantial loads in vitro",
-      "authors_html": "Valentine, M.T., <strong>Fordyce, P.M.</strong>, Krzysiak, T.C., Gilbert, S.P., Block, S.M.",
+      "authors_html": "Valentine, M.T.*, <strong>Fordyce, P.M.</strong>*, Krzysiak, T.C., Gilbert, S.P., and Block, S.M",
       "venue": "Nature Cell Biology",
       "year": 2006,
       "type": "article",
@@ -1764,6 +1792,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/ncb1394"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/nihms10830.pdf"
         }
       ],
       "pin": false
@@ -1772,7 +1804,7 @@
       "id": "https://openalex.org/W2020010253",
       "doi": "10.1038/nmeth714",
       "title": "Simultaneous, coincident optical trapping and single-molecule fluorescence",
-      "authors_html": "Lang, M.J., <strong>Fordyce, P.M.</strong>, Engh, A.M., Neuman, K.C., Block, S.M.",
+      "authors_html": "Lang, M.J.*, <strong>Fordyce, P.M.</strong>*, Engh, A.M., Neuman, K.C., and Block, S.M",
       "venue": "Nature Methods",
       "year": 2004,
       "type": "article",
@@ -1820,6 +1852,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1074/jbc.m300849200"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/PIIS0021925819549638-t25x.pdf"
         }
       ],
       "pin": false
@@ -1835,6 +1871,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1103/PhysRevD.64.012003"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/hep-ex/0010059"
         }
       ],
       "id": "10.1103/physrevd.64.012003",
@@ -1851,6 +1891,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1103/PhysRevLett.86.397"
+        },
+        {
+          "label": "PDF",
+          "url": "https://arxiv.org/pdf/hep-ex/0009030"
         }
       ],
       "id": "10.1103/physrevlett.86.397",
