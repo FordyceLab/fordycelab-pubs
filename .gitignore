@@ -1,0 +1,4 @@
+last_run.log
+*.bak
+pdf-inbox/
+.DS_Store

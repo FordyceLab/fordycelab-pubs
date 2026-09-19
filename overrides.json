@@ -1,0 +1,19 @@
+{
+  "_README": "Manual enrichments merged on top of the automatic OpenAlex list. Key = the paper's DOI (with or without the https://doi.org/ prefix). Every field is optional. After editing, re-run update_publications.py (the weekly cron does this for you). See the fields documented in apply_override() inside update_publications.py.",
+
+  "10.1002/pen.760240606": { "hide": true, "_why": "1984 polystyrene paper -- different P. Fordyce, same-name mismatch" },
+  "10.7554/elife.40499.086": { "hide": true, "_why": "eLife peer-review 'author response' artifact, not a paper" },
+  "10.25740/rk857tw4751": { "hide": true, "_why": "Stanford Digital Repository dataset deposit, not a paper" },
+  "W3196281287": { "hide": true, "_why": "'Images and Trial Data' dataset deposit (no DOI), not a paper" },
+
+  "10.1126/science.abf8761": {
+    "_why": "EXAMPLE of enrichment -- delete this comment when you customize.",
+    "authors_html": "Markin, C.J.*, Mokhtari, D.A.*, Sunden, F., Appel, M.J., Akiva, E., Longwell, S.A., Sabatti, C., Herschlag, D.‡, & <strong>Fordyce, P.M.‡</strong>",
+    "pdf": "https://www.fordycelab.com/s/scienceabf8761-yw2w.pdf",
+    "links_add": [
+      { "label": "bioRxiv", "url": "https://www.biorxiv.org/content/10.1101/2020.11.24.383182v1" },
+      { "label": "OSF data", "url": "https://osf.io/ez9xv/" }
+    ],
+    "note": "* equal contribution; ‡ co-corresponding"
+  }
+}

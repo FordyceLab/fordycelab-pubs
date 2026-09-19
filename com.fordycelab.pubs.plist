@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd job: run the publications updater every Monday at 7:00 AM.
+  Install (on the Mac mini):
+    cp com.fordycelab.pubs.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.fordycelab.pubs.plist
+  Edit ProgramArguments path if the repo is not at ~/lab-publications-site.
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.fordycelab.pubs</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>--login</string>
+        <string>-c</string>
+        <string>$HOME/lab-publications-site/run_and_publish.sh</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Weekday</key><integer>1</integer>   <!-- 1 = Monday -->
+        <key>Hour</key><integer>7</integer>
+        <key>Minute</key><integer>0</integer>
+    </dict>
+
+    <key>StandardOutPath</key>
+    <string>/tmp/fordycelab-pubs.out</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/fordycelab-pubs.err</string>
+</dict>
+</plist>

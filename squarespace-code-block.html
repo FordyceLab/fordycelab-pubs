@@ -1,0 +1,104 @@
+<!--
+  FORDYCE LAB PUBLICATIONS  -- Squarespace Code Block
+  ---------------------------------------------------
+  Paste this ENTIRE block into a Squarespace "Code Block" on your
+  publications page (Edit page -> add block -> Code -> paste -> Apply).
+
+  It fetches publications.json (maintained automatically by the Mac mini)
+  and renders your list, grouped by year, with PDF / web / data buttons.
+
+  >>> ONE THING TO EDIT: set PUBLICATIONS_JSON_URL below to the public
+      URL of your publications.json (e.g. the GitHub raw link).
+-->
+
+<div id="fl-pubs" class="fl-pubs">
+  <p class="fl-pubs-loading">Loading publications…</p>
+</div>
+
+<style>
+  /* Scoped to #fl-pubs so it won't collide with your theme. */
+  #fl-pubs { max-width: 820px; margin: 0 auto; line-height: 1.5;
+             font-size: 0.98rem; }
+  #fl-pubs .fl-year { font-weight: 700; font-size: 1.25rem;
+             margin: 1.8em 0 0.6em; padding-bottom: 0.2em;
+             border-bottom: 1px solid currentColor; opacity: 0.95; }
+  #fl-pubs .fl-year:first-child { margin-top: 0.2em; }
+  #fl-pubs .fl-entry { margin: 0 0 1.15em; }
+  #fl-pubs .fl-authors { }
+  #fl-pubs .fl-title { font-style: italic; }
+  #fl-pubs .fl-venue { }
+  #fl-pubs .fl-note { display: block; font-size: 0.85em; opacity: 0.75;
+             margin-top: 0.15em; }
+  #fl-pubs .fl-links { margin-top: 0.4em; display: flex; flex-wrap: wrap;
+             gap: 0.4em; }
+  #fl-pubs .fl-btn { display: inline-block; text-decoration: none;
+             font-size: 0.8rem; line-height: 1; padding: 0.42em 0.7em;
+             border: 1px solid currentColor; border-radius: 4px;
+             opacity: 0.85; transition: opacity .15s, background .15s; }
+  #fl-pubs .fl-btn:hover { opacity: 1; background: rgba(127,127,127,0.14); }
+  #fl-pubs .fl-tag { display: inline-block; font-size: 0.7rem;
+             text-transform: uppercase; letter-spacing: 0.04em;
+             padding: 0.12em 0.45em; border-radius: 3px;
+             background: rgba(127,127,127,0.18); margin-left: 0.4em;
+             vertical-align: middle; }
+  #fl-pubs .fl-pubs-error { opacity: 0.7; font-style: italic; }
+</style>
+
+<script>
+(function () {
+  // ==== EDIT THIS ONE LINE =================================================
+  var PUBLICATIONS_JSON_URL = "https://raw.githubusercontent.com/pfordyce/fordycelab-pubs/main/publications.json";
+  // e.g. "https://raw.githubusercontent.com/yourname/lab-pubs/main/publications.json"
+  // ========================================================================
+
+  var root = document.getElementById("fl-pubs");
+
+  function esc(s) { var d = document.createElement("div"); d.textContent = s == null ? "" : s; return d.innerHTML; }
+
+  function render(data) {
+    var pubs = (data && data.publications) || [];
+    if (!pubs.length) { root.innerHTML = '<p class="fl-pubs-error">No publications found.</p>'; return; }
+
+    // Group by year, preserving the JSON's sort order.
+    var order = [], byYear = {};
+    pubs.forEach(function (p) {
+      var y = p.year || "Other";
+      if (!byYear[y]) { byYear[y] = []; order.push(y); }
+      byYear[y].push(p);
+    });
+
+    var html = "";
+    order.forEach(function (y) {
+      html += '<div class="fl-year">' + esc(y) + "</div>";
+      byYear[y].forEach(function (p) {
+        html += '<div class="fl-entry">';
+        // authors_html and title may legitimately contain <strong>/<i> from
+        // your own JSON, so they are inserted as-is (trusted source).
+        html += '<span class="fl-authors">' + (p.authors_html || "") + "</span> ";
+        html += '"<span class="fl-title">' + (p.title || "") + '</span>," ';
+        if (p.venue) html += '<span class="fl-venue">' + esc(p.venue) + "</span> ";
+        html += "(" + esc(p.year || "") + ")";
+        if (p.type === "preprint") html += '<span class="fl-tag">preprint</span>';
+        if (p.note) html += '<span class="fl-note">' + esc(p.note) + "</span>";
+
+        if (p.links && p.links.length) {
+          html += '<div class="fl-links">';
+          p.links.forEach(function (l) {
+            html += '<a class="fl-btn" href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.label) + "</a>";
+          });
+          html += "</div>";
+        }
+        html += "</div>";
+      });
+    });
+    root.innerHTML = html;
+  }
+
+  fetch(PUBLICATIONS_JSON_URL, { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(render)
+    .catch(function (e) {
+      root.innerHTML = '<p class="fl-pubs-error">Could not load publications (' + esc(e.message) + ").</p>";
+    });
+})();
+</script>
