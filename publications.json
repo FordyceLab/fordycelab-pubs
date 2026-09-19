@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-19",
-  "count": 140,
+  "count": 123,
   "publications": [
     {
       "id": "https://openalex.org/W4415454705",
@@ -38,38 +38,6 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/20260528728566v1full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W7130568922",
-      "doi": "10.1016/j.bpj.2025.11.2162",
-      "title": "BPS2026 – High-throughput biochemical phenotyping of SHP2 variants reveals molecular basis of diseases and allosteric drug inhibition",
-      "authors_html": "Lee, A.A., Mokhtari, D., Egan, E., Blacklow, S.C., Herschlag, D.M., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2026,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2025.11.2162"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W7130588231",
-      "doi": "10.1016/j.bpj.2025.11.2273",
-      "title": "BPS2026 – Ultra-high throughput in vitro protein characterization with amplicon/protein bead display",
-      "authors_html": "Passow, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2026,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2025.11.2273"
         }
       ],
       "pin": false
@@ -262,38 +230,6 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1073/pnas.2509652122"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4407480939",
-      "doi": "10.1016/j.bpj.2024.11.295",
-      "title": "BPS2025 - Library-scale single-molecule force spectroscopy on a chip",
-      "authors_html": "DeJong, M.J., Dunn, A.R., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2025,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2024.11.295"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4407492896",
-      "doi": "10.1016/j.bpj.2024.11.3263",
-      "title": "BPS2025 - Library-scale single-molecule force spectroscopy on a chip",
-      "authors_html": "DeJong, M.J., Dunn, A.R., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2025,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2024.11.3263"
         }
       ],
       "pin": false
@@ -610,26 +546,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W4319870266",
-      "doi": "10.1016/j.bpj.2022.11.1295",
-      "title": "Beyond the DNA binding domain: How do intrinsically disordered regions within transcription factors impact DNA binding specificity?",
-      "authors_html": "Hayes, M.G., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2022.11.1295"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S0006349522022111/pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W4393491881",
       "doi": "10.5281/zenodo.8161430",
       "title": "Data presented in \"Short tandem repeats bind transcription factors to tune eukaryotic gene expression\"",
@@ -770,22 +686,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W4319940528",
-      "doi": "10.1016/j.bpj.2022.11.576",
-      "title": "High throughput measurements of direct activation domain-coactivator interactions",
-      "authors_html": "DelRosso, N., Suzuki, P., Griffith, D.A., Holehouse, A.S., Bintu, L., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2022.11.576"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W4388745642",
       "doi": "10.1101/2023.11.13.566946",
       "title": "High-throughput thermodynamic and kinetic measurements of transcription factor/DNA mutations reveal how conformational heterogeneity can shape motif selectivity",
@@ -801,22 +701,6 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/20231113566946v2full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4319936443",
-      "doi": "10.1016/j.bpj.2022.11.1072",
-      "title": "High-throughput, quantitative measurements reveal the biophysical mechanisms by which transcription factor mutations drive disease",
-      "authors_html": "Hastings, R., Aditham, A.K., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2022.11.1072"
         }
       ],
       "pin": false
@@ -1078,26 +962,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W4211037247",
-      "doi": "10.1016/j.bpj.2021.11.398",
-      "title": "High-throughput functional assays of Max mutations reveal heterodimerization and DNA-binding preferences",
-      "authors_html": "Hastings, R., Aditham, A.K., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2022,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2021.11.398"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.cell.com/biophysj/pdf/S0006-3495(21)01373-4.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W4293316025",
       "doi": "10.1101/2022.08.26.505496",
       "title": "Large-scale mapping and systematic mutagenesis of human transcriptional effector domains",
@@ -1177,22 +1041,6 @@
         {
           "label": "PDF",
           "url": "https://www.biorxiv.org/content/biorxiv/early/2022/05/30/2022.05.24.493321.full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4211128861",
-      "doi": "10.1016/j.bpj.2021.11.1305",
-      "title": "Short tandem repeats recruit transcription factors to tune eukaryotic gene expression",
-      "authors_html": "Horton, C.A., Alexandari, A.M., Hayes, M.G., Schaepe, J.M., Marklund, E., Shah, N., Aditham, A.K., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2022,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2021.11.1305"
         }
       ],
       "pin": false
@@ -1465,46 +1313,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W3005049320",
-      "doi": "10.1016/j.bpj.2019.11.2935",
-      "title": "A High-Throughput Assay Platform for Next-Generation Mechanistic Enzymology and Applications",
-      "authors_html": "Markin, C.J., Mokhtari, D.A., Sunden, F., Appel, M.J., Herschlag, D.M., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2020,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2019.11.2935"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S0006349519338688/pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W3004807275",
-      "doi": "10.1016/j.bpj.2019.11.581",
-      "title": "A High-Throughput Platform Characterizes Functional Effects of Transcription Factor Mutations",
-      "authors_html": "Aditham, A.K., DelRosso, N., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2020,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2019.11.581"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S0006349519315103/pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W3098588924",
       "doi": "10.1145/3388440.3414211",
       "title": "DeCoDe",
@@ -1669,22 +1477,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W3017353894",
-      "doi": "10.1096/fasebj.2020.34.s1.00183",
-      "title": "Leveraging Microfluidics for High‐Throughput Studies of Transcription Factor/DNA Binding",
-      "authors_html": "<strong>Fordyce, P.M.</strong>, Aditham, A.K., Horton, C.A., DelRosso, N., Mokhtari, D.A., Markin, C.J.",
-      "venue": "The FASEB Journal",
-      "year": 2020,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1096/fasebj.2020.34.s1.00183"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W3112746360",
       "doi": "10.1101/2020.12.16.423088",
       "title": "MRBLE-pep measurements reveal accurate binding affinities for B56, a PP2A regulatory subunit",
@@ -1793,46 +1585,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W2912849428",
-      "doi": "10.1016/j.bpj.2018.11.2708",
-      "title": "A High-Throughput Platform for Probing Mechanisms of Transcription Factor-DNA Binding",
-      "authors_html": "Aditham, A.K., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2019,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2018.11.2708"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S0006349518339730/pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2913087526",
-      "doi": "10.1016/j.bpj.2018.11.403",
-      "title": "A Microfluidics-Based Assay for Mapping Connectivity in Highly Proficient Enzymes Reveals Functional Modularity",
-      "authors_html": "Markin, C.J., Mokhtari, D.A., Sunden, F., Herschlag, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2019,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2018.11.403"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S0006349518316680/pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W2950122329",
       "doi": "10.1371/journal.pone.0203725",
       "title": "An open-source software analysis package for Microspheres with Ratiometric Barcode Lanthanide Encoding (MRBLEs)",
@@ -1865,26 +1617,6 @@
       "pin": false
     },
     {
-      "id": "https://openalex.org/W2912287697",
-      "doi": "10.1016/j.bpj.2018.11.166",
-      "title": "Bringing Enzymology into the Genomic Era: Developing and Deploying New Tools to Quantitatively Map Functional Connections Throughout an Enzyme",
-      "authors_html": "Markin, C.J., Mokhtari, D.A., Sunden, F., Herschlag, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2019,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2018.11.166"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S0006349518314310/pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
       "id": "https://openalex.org/W2980399389",
       "doi": "10.1101/809004",
       "title": "DeCoDe: degenerate codon design for complete protein-coding DNA libraries",
@@ -1904,26 +1636,6 @@
         {
           "label": "bioRxiv",
           "url": "https://www.biorxiv.org/content/10.1101/809004v1"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2913751584",
-      "doi": "10.1016/j.bpj.2018.11.2714",
-      "title": "Deep Learning Models Explore the Structural Effects of Transcription Factor-DNA Complexes on Binding Specificity",
-      "authors_html": "Shimko, T.C., <strong>Fordyce, P.M.</strong>",
-      "venue": "Biophysical Journal",
-      "year": 2019,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2018.11.2714"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S0006349518339791/pdf"
         }
       ],
       "pin": false
@@ -2692,26 +2404,6 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/gb-2011-12-1-302.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W2059487265",
-      "doi": "10.1016/j.bpj.2009.12.396",
-      "title": "A Microfluidics-Based Platform For Identification and Detailed Characterization of Transcription Factor Binding Sites",
-      "authors_html": "<strong>Fordyce, P.M.</strong>, Gerber, D., Tran, D., Zheng, J., Li, H., Quake, S.R., DeRisi, J.L.",
-      "venue": "Biophysical Journal",
-      "year": 2010,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.bpj.2009.12.396"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S0006349509022012/pdf"
         }
       ],
       "pin": false
