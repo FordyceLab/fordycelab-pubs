@@ -29,6 +29,12 @@
   #fl-pubs .fl-venue { }
   #fl-pubs .fl-note { display: block; font-size: 0.85em; opacity: 0.75;
              margin-top: 0.15em; }
+  #fl-pubs .fl-news { display: block; font-size: 0.82em; opacity: 0.8;
+             margin-top: 0.4em; }
+  #fl-pubs .fl-news .fl-news-label { font-weight: 600; opacity: 0.7; }
+  #fl-pubs .fl-news a { text-decoration: none;
+             border-bottom: 1px dotted currentColor; }
+  #fl-pubs .fl-news a:hover { opacity: 1; }
   #fl-pubs .fl-links { margin-top: 0.4em; display: flex; flex-wrap: wrap;
              gap: 0.4em; }
   #fl-pubs .fl-btn { display: inline-block; text-decoration: none;
@@ -86,6 +92,13 @@
           p.links.forEach(function (l) {
             html += '<a class="fl-btn" href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.label) + "</a>";
           });
+          html += "</div>";
+        }
+        if (p.news && p.news.length) {
+          html += '<div class="fl-news"><span class="fl-news-label">News &amp; commentary:</span> ';
+          html += p.news.map(function (l) {
+            return '<a href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.label) + "</a>";
+          }).join(" &middot; ");
           html += "</div>";
         }
         html += "</div>";

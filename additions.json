@@ -1,0 +1,50 @@
+{
+  "_README": "Publications OpenAlex does not attribute to Polly's author profile, added manually. update_publications.py appends these (deduped by DOI) so they always appear. Same schema as publications.json entries.",
+  "additions": [
+    {
+      "doi": "10.48550/arxiv.2606.30915",
+      "title": "Spectral DiffuserScope: a compact snapshot hyperspectral microscope",
+      "authors_html": "Aggarwal, N., Markley, E., Lee, K.C., Lee, S.A., Bae, J., Baek, N., Park, W., Cho, M.S., Lim, Y., <strong>Fordyce, P.</strong>, Eberly, S., Sohn, L.L., Houck, W.D., Monakhova, K., &amp; Waller, L.",
+      "venue": "arXiv",
+      "year": 2026,
+      "type": "preprint",
+      "links": [{"label": "web", "url": "https://arxiv.org/abs/2606.30915"}, {"label": "PDF", "url": "https://arxiv.org/pdf/2606.30915"}]
+    },
+    {
+      "doi": "10.1126/science.fannjiang-neurips-2022",
+      "title": "Designing active and thermostable enzymes with sequence-only predictive models",
+      "authors_html": "Fannjiang, C., Olivas, M., Greene, E.R., Markin, C.J., Wallace, B., Krause, B., Pinney, M., Fraser, J., <strong>Fordyce, P.</strong>, Madani, A., &amp; Naik, N.",
+      "venue": "NeurIPS (Machine Learning for Structural Biology Workshop)",
+      "year": 2022,
+      "type": "article",
+      "links": [{"label": "web", "url": "https://neurips.cc/virtual/2022/60272"}, {"label": "PDF", "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/63_designing_active_and_thermosta.pdf"}]
+    },
+    {
+      "doi": "10.1101/fordyce-csh-2008-surface-assays",
+      "title": "Advances in surface-based assays for single molecules",
+      "authors_html": "<strong>Fordyce, P.M.</strong>*, Valentine, M.T.*, &amp; Block, S.M.",
+      "venue": "Single-Molecule Techniques: A Laboratory Manual (Cold Spring Harbor Monograph Series)",
+      "year": 2008,
+      "type": "article",
+      "links": [{"label": "PDF", "url": "https://www.fordycelab.com/s/ColdSpringHarborChapter.pdf"}]
+    },
+    {
+      "doi": "10.1103/physrevlett.86.397",
+      "title": "Search for the decay Kₗ → π⁰e⁺e⁻",
+      "authors_html": "Alavi-Harati, A., <em>et al.</em> (KTeV Collaboration, incl. <strong>Fordyce, P.M.</strong>)",
+      "venue": "Physical Review Letters",
+      "year": 2001,
+      "type": "article",
+      "links": [{"label": "web", "url": "https://doi.org/10.1103/PhysRevLett.86.397"}, {"label": "PDF", "url": "https://arxiv.org/pdf/hep-ex/0009030"}]
+    },
+    {
+      "doi": "10.1103/physrevd.64.012003",
+      "title": "Measurement of the branching ratio of Kₗ → e⁺e⁻γγ",
+      "authors_html": "Alavi-Harati, A., <em>et al.</em> (KTeV Collaboration, incl. <strong>Fordyce, P.M.</strong>)",
+      "venue": "Physical Review D",
+      "year": 2001,
+      "type": "article",
+      "links": [{"label": "web", "url": "https://doi.org/10.1103/PhysRevD.64.012003"}, {"label": "PDF", "url": "https://arxiv.org/pdf/hep-ex/0010059"}]
+    }
+  ]
+}

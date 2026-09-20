@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import re
 """
 update_publications.py
 ----------------------
@@ -49,6 +50,10 @@ OPENALEX_BASE = "https://api.openalex.org/works"
 # ---------------------------------------------------------------------------
 # OpenAlex fetch
 # ---------------------------------------------------------------------------
+
+import importlib.util as _ilu
+_es = _ilu.spec_from_file_location("enrich_links", str(HERE / "enrich_links.py"))
+enrich_links = _ilu.module_from_spec(_es); _es.loader.exec_module(enrich_links)
 
 def fetch_all_works():
     """Page through every OpenAlex work authored by the lab PI."""
@@ -109,16 +114,61 @@ def build_author_html(work):
 
 
 def is_preprint(work):
-    if work.get("type") == "preprint":
+    name = (((work.get("primary_location") or {}).get("source") or {}).get("display_name") or "").lower()
+    if any(k in name for k in ("biorxiv", "medrxiv", "arxiv", "chemrxiv", "ssrn", "research square")):
         return True
-    src = ((work.get("primary_location") or {}).get("source") or {})
-    name = (src.get("display_name") or "").lower()
-    return "biorxiv" in name or "arxiv" in name or "medrxiv" in name or "preprint" in name
+    if work.get("type") == "preprint" and (not name or "osf" in name):
+        return True
+    return False
 
+
+
+# Non-CS conference / meeting ABSTRACTS (Biophysical Society, FASEB, etc.) are
+# posters/talks, not papers -- Polly does not want them on the feed. CS
+# conference papers (ACM / IEEE / NeurIPS / ICML ...) ARE kept. Force-keep a
+# false positive with {"keep": true} in overrides.json.
+CS_ABSTRACT_KEEP = ("neurips", "neural information", "icml", "iclr", "aaai",
+                    "cvpr", "usenix", "proceedings of machine learning")
+MEETING_ABSTRACT_VENUES = ("biophysical journal", "the faseb journal")
+
+
+def _cs_venue(work):
+    doi = (work.get("doi") or "").lower()
+    if "/10.1145/" in doi or "/10.1109/" in doi:   # ACM, IEEE = CS
+        return True
+    name = (((work.get("primary_location") or {}).get("source") or {}).get("display_name") or "").lower()
+    return any(a in name for a in CS_ABSTRACT_KEEP)
+
+
+def _is_osf_page(work):
+    return (((work.get("primary_location") or {}).get("source") or {}).get("display_name") or "").strip().lower() == "osf preprints"
+
+
+def _is_dataset(work):
+    doi = (work.get("doi") or "").lower()
+    return work.get("type") == "dataset" or any(pfx in doi for pfx in ("10.17605/osf.io", "10.5281/zenodo", "10.25740/"))
+
+
+def is_meeting_abstract(work):
+    if _cs_venue(work):
+        return False
+    name = (((work.get("primary_location") or {}).get("source") or {}).get("display_name") or "").lower()
+    if work.get("type") == "conference-abstract":
+        return True
+    if name in MEETING_ABSTRACT_VENUES:
+        return True
+    return False
 
 def venue_name(work):
     src = ((work.get("primary_location") or {}).get("source") or {})
-    return src.get("display_name") or ""
+    name = src.get("display_name") or ""
+    low = name.lower()
+    if "biorxiv" in low: return "bioRxiv"
+    if "medrxiv" in low: return "medRxiv"
+    if "chemrxiv" in low: return "ChemRxiv"
+    if low == "arxiv" or "arxiv.org" in low: return "arXiv"
+    if "research square" in low: return "Research Square"
+    return re.sub(r"\s*\([^)]*\)\s*$", "", name).strip() or name
 
 
 def best_links(work):
@@ -195,6 +245,8 @@ def apply_override(entry, ov):
         entry["authors_html"] = ov["authors_html"]
     if "note" in ov:
         entry["note"] = ov["note"]
+    if "news" in ov:
+        entry["news"] = ov["news"]
     if ov.get("pin"):
         entry["pin"] = True
 
@@ -218,9 +270,22 @@ def build_entries():
     overrides = load_overrides()
 
     entries = []
+    _cache = enrich_links.load_cache()
     for w in works:
         preprint = is_preprint(w)
         if preprint and not INCLUDE_PREPRINTS:
+            continue
+
+        if not w.get("doi"):   # OSF project pages / junk records without a DOI
+            continue
+
+        # Drop non-CS conference/meeting abstracts unless an override force-keeps them.
+        _doi_key = normalize_doi(w.get("doi"))
+        _sid = (w.get("id") or "").rsplit("/", 1)[-1].upper()
+        _ov = overrides.get(_doi_key) or overrides.get(_sid) or {}
+        if is_meeting_abstract(w) and not _ov.get("keep"):
+            continue
+        if (w.get("type") == "dissertation" or _is_dataset(w) or _is_osf_page(w)) and not _ov.get("keep"):
             continue
 
         entry = {
@@ -242,9 +307,22 @@ def build_entries():
         if entry is None:      # hidden
             continue
 
+        entry = enrich_links.enrich_entry(entry, _cache)
         entries.append(entry)
 
     # Sort: pinned first, then by year desc, then title.
+    enrich_links.save_cache(_cache)
+    try:
+        _add = json.load(open(HERE / "additions.json")).get("additions", [])
+    except Exception:
+        _add = []
+    _have = {(e.get("doi") or "").lower() for e in entries}
+    for _a in _add:
+        if (_a.get("doi") or "").lower() in _have:
+            continue
+        _a = dict(_a); _a.setdefault("id", _a.get("doi")); _a.setdefault("pin", False)
+        _a["links"] = enrich_links.order_links(_a.get("links", []))
+        entries.append(_a)
     entries.sort(key=lambda e: (not e.get("pin"), -(e.get("year") or 0), e["title"].lower()))
     return entries
 
