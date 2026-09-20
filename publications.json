@@ -18,6 +18,10 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/20251021683815v1full.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2025.10.21.683815"
         }
       ],
       "pin": false

@@ -737,7 +737,13 @@
   },
   "10.1038/s41467-026-75463-1": {
     "authors_html": "Perez, C.P.*, DelRosso, N.V.*, Noland, C.L., Parekh, U., Choe, C.A., Eguchi, R.R., Wen, Q., <strong>Fordyce, P.M.</strong>‡, & Huang, P.S.‡",
-    "pdf": "https://www.fordycelab.com/s/20251021683815v1full.pdf"
+    "pdf": "https://www.fordycelab.com/s/20251021683815v1full.pdf",
+    "links_add": [
+      {
+        "label": "bioRxiv",
+        "url": "https://doi.org/10.1101/2025.10.21.683815"
+      }
+    ]
   },
   "10.1016/j.jbiosc.2023.03.001": {
     "authors_html": "Stapleton, L.M., Farry, J.M., Lucian, H.J., Wang, H., Paulson, M.J., Totherow, K.P., Roth, G.A., Brower, K.K., <strong>Fordyce, P.M.</strong>, Appel, E.A.*, & Woo, Y.J.*",
