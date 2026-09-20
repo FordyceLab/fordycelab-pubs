@@ -21,7 +21,7 @@
   },
   "10.64898/2026.05.01.722333": {
     "pdf": "https://www.fordycelab.com/s/20260501722333v1full.pdf",
-    "authors_html": "Somolinos Cedeño, S., Thompson, S., <strong>Fordyce, P.M.</strong>‡, & Endy, D.‡"
+    "authors_html": "Somolinos Cedeño, S., Thompson, S.‡, <strong>Fordyce, P.M.</strong>‡, & Endy, D.‡"
   },
   "10.64898/2026.03.30.715055": {
     "pdf": "https://www.fordycelab.com/s/20260330715055v2full.pdf",
@@ -108,7 +108,7 @@
         "url": "https://osf.io/gbq5r/"
       }
     ],
-    "authors_html": "Thompson, S.*, Zhang, Y., Yang, Z., Nichols, L.A., & <strong>Fordyce, P.M.</strong>*"
+    "authors_html": "Thompson, S.‡, Zhang, Y.*, Yang, Z.*, Nichols, L.A.*, & <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1101/2024.08.19.608698": {
     "pdf": "https://www.fordycelab.com/s/20240819608698v1full.pdf",
@@ -126,7 +126,7 @@
         "url": "https://osf.io/938rs/"
       }
     ],
-    "authors_html": "Lashkaripour, A., McIntyre, D.P., Calhoun, S.G.K., Krauth, K., Densmore, D.M., & <strong>Fordyce, P.M.</strong>*"
+    "authors_html": "Lashkaripour, A.‡, McIntyre, D.P., Calhoun, S.G.K., Krauth, K., Densmore, D.M., & <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1038/s41467-024-55672-2": {
     "pdf": "https://www.fordycelab.com/s/20231113566946v2full.pdf",
@@ -153,11 +153,11 @@
         "url": "https://osf.io/gys5d/"
       }
     ],
-    "authors_html": "Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>*, Nilsson, J"
+    "authors_html": "Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>‡, & Nilsson, J.‡"
   },
   "10.1101/2023.05.11.540401": {
     "pdf": "https://www.fordycelab.com/s/20230511540401v1full.pdf",
-    "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>* & Kundaje, A.*"
+    "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>‡, & Kundaje, A.‡"
   },
   "10.1126/science.add1250": {
     "pdf": "https://www.fordycelab.com/s/20220524493321v2full-1.pdf",
@@ -188,7 +188,8 @@
         "label": "Quanta Magazine",
         "url": "https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/"
       }
-    ]
+    ],
+    "authors_html": "Horton, C.A., Alexandari, A.M.*, Hayes, M.G.*, Marklund, E.*, Schaepe, J.M.*, Aditham, A.K., Shah, N., Suzuki, P., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>"
   },
   "10.1016/j.cels.2023.08.002": {
     "pdf": "https://www.fordycelab.com/s/20221101514733v1full.pdf",
@@ -202,7 +203,7 @@
         "url": "https://osf.io/r4s3m/"
       }
     ],
-    "authors_html": "Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C., & <strong>Fordyce, P.M.</strong>*"
+    "authors_html": "Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C.‡, & <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1038/s43705-023-00241-9": {
     "pdf": "https://www.fordycelab.com/s/s43705-023-00241-9.pdf",
@@ -330,7 +331,7 @@
         "url": "https://www.genengnews.com/news/lab-on-a-chip-expands-functional-studies-of-enzyme-variants/"
       }
     ],
-    "authors_html": "Markin, C.J.*, Mokhtari, D.A.*, Sunden, F., Appel, M.J., Akiva, E., Longwell, S.A., Sabatti, C., Herschlag, D.*, & <strong>Fordyce, P.M.</strong>*"
+    "authors_html": "Markin, C.J.*, Mokhtari, D.A.*, Sunden, F., Appel, M.J., Akiva, E., Longwell, S.A., Sabatti, C., Herschlag, D.‡, & <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1021/acsmeasuresciau.1c00008": {
     "pdf": "https://www.fordycelab.com/s/hein-et-al-2021-mrble-pep-measurements-reveal-accurate-binding-affinities-for-b56-a-pp2a-regulatory.pdf",
@@ -356,7 +357,7 @@
   },
   "10.1016/j.sbi.2021.07.010": {
     "pdf": "https://www.fordycelab.com/s/1-s20-S0959440X21001123-am.pdf",
-    "authors_html": "Mokhtari, D.A.*, Appel, M.J.*, <strong>Fordyce, P.M.</strong>, & Herschlag, D"
+    "authors_html": "Mokhtari, D.A.*, Appel, M.J.*, <strong>Fordyce, P.M.</strong>‡, & Herschlag, D.‡"
   },
   "10.1016/j.cels.2021.05.009": {
     "pdf": "https://www.fordycelab.com/s/PIIS2405471221001952.pdf",
@@ -572,7 +573,7 @@
         "url": "https://doi.org/10.1101/2022.11.07.515533"
       }
     ],
-    "authors_html": "Markin, C.J., Mokhtari, D.A., Du, S., Doukov, T., Sunden, F., <strong>Fordyce, P.M.</strong> ‡, & Herschlag, D",
+    "authors_html": "Markin, C.J., Mokhtari, D.A., Du, S., Doukov, T., Sunden, F., <strong>Fordyce, P.M.</strong>‡, & Herschlag, D.‡",
     "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10629569/pdf/pnas.202219074.pdf"
   },
   "10.1101/2024.11.06.622305": {
