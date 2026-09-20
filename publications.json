@@ -248,6 +248,10 @@
           "url": "https://doi.org/10.1073/pnas.2509652122"
         },
         {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/trepka-et-al-2025-acoustic-printing-of-conductive-polymers.pdf"
+        },
+        {
           "label": "Zenodo",
           "url": "https://zenodo.org/records/17422742"
         }
@@ -777,6 +781,10 @@
         {
           "label": "web",
           "url": "https://neurips.cc/virtual/2022/60272"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/63_designing_active_and_thermosta.pdf"
         }
       ],
       "id": "10.1126/science.fannjiang-neurips-2022",
@@ -1584,6 +1592,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1001/jamadermatol.2013.9571"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/dlo130071.pdf"
         }
       ],
       "pin": false
@@ -1700,6 +1712,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1039/c2lc40414a"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/c2lc40414a.pdf"
         }
       ],
       "pin": false
