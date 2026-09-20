@@ -24,13 +24,13 @@ echo "===== $(date) =====" >> "$LOG"
 # 1b. Email Polly if the update added a new paper (never breaks the publish)
 /usr/bin/python3 notify_new.py >> "$LOG" 2>&1 || true
 
-# 2. Commit + push only if something actually changed
-if [[ -n "$(git status --porcelain publications.json)" ]]; then
-  git pull --rebase >> "" 2>&1 || true
-  git add publications.json
+# 2. Commit + push if anything changed (publications.json and/or overrides etc.)
+if [[ -n "$(git status --porcelain)" ]]; then
+  git add -A
   git commit -m "Auto-update publications ($(date +%Y-%m-%d))" >> "$LOG" 2>&1
+  git pull --rebase >> "$LOG" 2>&1 || true
   git push >> "$LOG" 2>&1
-  echo "Pushed updated publications.json" >> "$LOG"
+  echo "Pushed updates" >> "$LOG"
 else
   echo "No change; nothing to push" >> "$LOG"
 fi
