@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "count": 82,
   "publications": [
     {
@@ -190,6 +190,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1038/s41586-025-09948-2"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/s41586-025-09948-2-web.pdf"
         }
       ],
       "pin": false
