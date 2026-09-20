@@ -20,7 +20,8 @@
     "pdf": "https://www.fordycelab.com/s/20260528728566v1full.pdf"
   },
   "10.64898/2026.05.01.722333": {
-    "pdf": "https://www.fordycelab.com/s/20260501722333v1full.pdf"
+    "pdf": "https://www.fordycelab.com/s/20260501722333v1full.pdf",
+    "authors_html": "Somolinos Cedeño, S., Thompson, S., <strong>Fordyce, P.M.</strong>‡, & Endy, D.‡"
   },
   "10.64898/2026.03.30.715055": {
     "pdf": "https://www.fordycelab.com/s/20260330715055v2full.pdf",
@@ -31,7 +32,8 @@
     "authors_html": "DeJong, M.P., Bian, Y., Ortiz-Cardenas, J., Figueroa, B., Pant, A., Posadas-Barrera, E., Brixi, L., Bauer, M.S., Dunn, A.R.‡, & <strong>Fordyce, P.M.</strong>‡"
   },
   "10.64898/2026.01.12.699065": {
-    "pdf": "https://www.fordycelab.com/s/20260112699065v2full.pdf"
+    "pdf": "https://www.fordycelab.com/s/20260112699065v2full.pdf",
+    "authors_html": "Olivas, M.B.*, Almhjell, P.J.*, Petersen, L.K., Shanahan, J.D., <strong>Fordyce, P.M.</strong>"
   },
   "10.1039/d5lc00959f": {
     "pdf": "https://www.fordycelab.com/s/20251011680838v1full.pdf",
@@ -44,13 +46,16 @@
         "label": "OSF data",
         "url": "https://osf.io/dy5xp/overview"
       }
-    ]
+    ],
+    "authors_html": "Mokhtari, D.A.‡, Lashkaripour, A., <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1073/pnas.2509652122": {
-    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/trepka-et-al-2025-acoustic-printing-of-conductive-polymers.pdf"
+    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/trepka-et-al-2025-acoustic-printing-of-conductive-polymers.pdf",
+    "authors_html": "Trepka, E.B.*, Cooper, L.*, Brinson, K.*, Thompson, S., Malinao, M.G., Rommelfanger, N.J., <strong>Fordyce, P.M.</strong>, Hong, G."
   },
   "10.1038/s41586-025-09948-2": {
-    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/s41586-025-09948-2-web.pdf"
+    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/s41586-025-09948-2-web.pdf",
+    "authors_html": "Doshi, S.‡, Güsken, N.A., Dijk, G., Carlström, J., Ortiz-Cárdenas, J.E., Suzuki, P., Li, B., <strong>Fordyce, P.M.</strong>, Salleo, A., Melosh, N.A., Brongersma, M.L.‡"
   },
   "10.1021/acs.analchem.5c01536": {
     "pdf": "https://www.fordycelab.com/s/20250313643134v1full.pdf",
@@ -78,7 +83,8 @@
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/2025.01.15.633299"
       }
-    ]
+    ],
+    "authors_html": "Atsavapranee, B.*, Sunden, F.*, Herschlag, D., <strong>Fordyce, P.M.</strong>"
   },
   "10.1038/s41586-025-09090-z": {
     "pdf": "https://www.fordycelab.com/s/20241106622305v2full.pdf",
@@ -87,7 +93,8 @@
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/2024.11.06.622305"
       }
-    ]
+    ],
+    "authors_html": "McClune, C.J.*, Liu, J.C.*, Wick, C., Peña, R.D.L., Lange, B.M., <strong>Fordyce, P.M.</strong>, Sattely, E.S."
   },
   "10.1002/admi.202400403": {
     "pdf": "https://www.fordycelab.com/s/2023_FACS_sortable_triple_emulsions_manuscript_v34-dxxf.pdf",
@@ -286,7 +293,8 @@
         "label": "OSF data",
         "url": "https://osf.io/k3rjy/"
       }
-    ]
+    ],
+    "authors_html": "Appel, M.J., Longwell, S.A., Morri, M., Neff, N., Herschlag, D.‡, <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1126/science.abf8761": {
     "pdf": "https://www.fordycelab.com/s/scienceabf8761-yw2w.pdf",
@@ -351,7 +359,8 @@
     "authors_html": "Mokhtari, D.A.*, Appel, M.J.*, <strong>Fordyce, P.M.</strong>, & Herschlag, D"
   },
   "10.1016/j.cels.2021.05.009": {
-    "pdf": "https://www.fordycelab.com/s/PIIS2405471221001952.pdf"
+    "pdf": "https://www.fordycelab.com/s/PIIS2405471221001952.pdf",
+    "authors_html": "Atsavapranee, B.*, Stark, C.*, Sunden, F., Thompson, S.‡, <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1038/s41378-020-00220-3": {
     "pdf": "https://www.fordycelab.com/s/s41378-020-00220-3-w3hf.pdf",
@@ -439,7 +448,8 @@
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/450262"
       }
-    ]
+    ],
+    "authors_html": "Ghosh, R.P.*, Shi, Q.*, Yang, L., Reddick, M.P., Tv, N., Zhurkin, V.B., <strong>Fordyce, P.M.</strong>, Stasevich, T.J., Chang, H.Y., Greenleaf, W.J., Liphardt, J."
   },
   "10.1371/journal.pone.0203725": {
     "pdf": "https://www.fordycelab.com/s/file.pdf",
@@ -477,7 +487,8 @@
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/310284"
       }
-    ]
+    ],
+    "authors_html": "Mezger, A.*, Klemm, S.*, Mann, I.K., Brower, K., Mir, A., Bostick, M., Farmer, A., <strong>Fordyce, P.M.</strong>, Linnarsson, S., Greenleaf, W.J."
   },
   "10.1073/pnas.1715888115": {
     "pdf": "https://www.fordycelab.com/s/le-et-al-2018-comprehensive-high-resolution-binding-energy-landscapes-reveal-context-dependencies-of.pdf",
@@ -490,7 +501,8 @@
         "label": "GitHub",
         "url": "https://figshare.com/articles/dataset/BET-seq_Processed_Data/5728467"
       }
-    ]
+    ],
+    "authors_html": "Le, D.D.*, Shimko, T.C.*, Aditham, A.K., Keys, A.M., Longwell, S.A., Orenstein, Y., <strong>Fordyce, P.M.</strong>"
   },
   "10.1016/j.ohx.2017.10.001": {
     "pdf": "https://www.fordycelab.com/s/1-s20-S2468067217300433-main.pdf",
@@ -503,10 +515,12 @@
         "label": "OSF data",
         "url": "https://osf.io/jwyau/"
       }
-    ]
+    ],
+    "authors_html": "Brower, K., Puccinelli, R., Markin, C.J., Shimko, T.C., Longwell, S.A., Cruz, B., Gómez-Sjöberg, R.‡, <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1016/bs.mcb.2018.09.011": {
-    "pdf": "https://www.fordycelab.com/s/nihms-1632872.pdf"
+    "pdf": "https://www.fordycelab.com/s/nihms-1632872.pdf",
+    "authors_html": "Aditham, A.K.*, Shimko, T.C.*, <strong>Fordyce, P.M.</strong>"
   },
   "10.1016/j.cels.2017.07.006": {
     "pdf": "https://www.fordycelab.com/s/mmc3-hera.pdf"
@@ -520,7 +534,8 @@
     "authors_html": "Nguyen, H.Q., Baxter, B.C., Brower, K., Diaz-Botia, C.A., DeRisi, J.L, <strong>Fordyce, P.M.</strong>*, and Thorn, K.S.*"
   },
   "10.1073/pnas.1221734110": {
-    "pdf": "https://www.fordycelab.com/s/lohse-et-al-2013-identification-and-characterization-of-a-previously-undescribed-family-of-sequence.pdf"
+    "pdf": "https://www.fordycelab.com/s/lohse-et-al-2013-identification-and-characterization-of-a-previously-undescribed-family-of-sequence.pdf",
+    "authors_html": "Lohse, M.B.*, Hernday, A.D.*, <strong>Fordyce, P.M.</strong>, Noiman, L., Sorrells, T.R., Hanson-Smith, V., Nobile, C.J., DeRisi, J.L., Johnson, A.D."
   },
   "10.1111/mmi.12329": {
     "pdf": "https://www.fordycelab.com/s/Molecular-Microbiology-2013-Hernday-Structure-of-the-transcriptional-network-controlling-whiteopaque.pdf",
@@ -534,7 +549,8 @@
     "authors_html": "Gerver, R.E.*, Gomez-Sjoberg, R.*, Baxter, B.C.*, Thorn, K.S.*, <strong>Fordyce, P.M.</strong>*, Diaz-Botia, C.A., Helms, B.A., and DeRisi, J.L"
   },
   "10.1039/c2lc40414a": {
-    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/c2lc40414a.pdf"
+    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/c2lc40414a.pdf",
+    "authors_html": "<strong>Fordyce, P.M.</strong>‡, Diaz-Botia, C., DeRisi, J.L., Gómez-Sjöberg, R.‡"
   },
   "10.1186/gb-2011-12-1-302": {
     "pdf": "https://www.fordycelab.com/s/gb-2011-12-1-302.pdf"
