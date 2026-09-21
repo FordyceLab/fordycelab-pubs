@@ -353,7 +353,8 @@
         "label": "OSF data",
         "url": "https://osf.io/8QRZP/"
       }
-    ]
+    ],
+    "authors_html": "Aditham, A.K., Markin, C.J.*, Mokhtari, D.A.*, DelRosso, N., <strong>Fordyce, P.M.</strong>"
   },
   "10.1016/j.sbi.2021.07.010": {
     "pdf": "https://www.fordycelab.com/s/1-s20-S0959440X21001123-am.pdf",
@@ -775,10 +776,12 @@
     "pdf": "https://www.fordycelab.com/s/nihms10830.pdf"
   },
   "10.7554/elife.40499": {
-    "pdf": "https://www.fordycelab.com/s/elife-40499-v2.pdf"
+    "pdf": "https://www.fordycelab.com/s/elife-40499-v2.pdf",
+    "authors_html": "Nguyen, H., Roy, J.*, Harink, B.*, Damle, N.P.*, Latorraca, N.R., Baxter, B., Brower, K., Longwell, S.A., Kortemme, T., Thorn, K.S., Cyert, M., <strong>Fordyce, P.M.</strong>"
   },
   "10.1117/12.2254908": {
-    "pdf": "https://www.fordycelab.com/s/100610Z-3.pdf"
+    "pdf": "https://www.fordycelab.com/s/100610Z-3.pdf",
+    "authors_html": "Nguyen, H., Brower, K.*, Harink, B.*, Baxter, B., Thorn, K.S.*, <strong>Fordyce, P.M.</strong>*"
   },
   "10.1074/jbc.m300849200": {
     "pdf": "https://www.fordycelab.com/s/PIIS0021925819549638-t25x.pdf"
