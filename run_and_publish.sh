@@ -26,6 +26,7 @@ echo "===== $(date) =====" >> "$LOG"
 
 # 2. Commit + push if anything changed (publications.json and/or overrides etc.)
 if [[ -n "$(git status --porcelain)" ]]; then
+  /usr/bin/python3 "$REPO_DIR/pubs_activity.py" >> "$LOG" 2>&1 || true
   git add -A
   git commit -m "Auto-update publications ($(date +%Y-%m-%d))" >> "$LOG" 2>&1
   git pull --rebase >> "$LOG" 2>&1 || true
