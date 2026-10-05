@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-10-05",
   "count": 82,
   "publications": [
     {
@@ -338,7 +338,7 @@
       "id": "https://openalex.org/W4409496840",
       "doi": "10.1021/acs.analchem.5c00333",
       "title": "Hydrophilic/Omniphobic Droplet Arrays for High-throughput and Quantitative Enzymology",
-      "authors_html": "Lee, B., Sunden, F., Miller, M.S., Pak, B., Krebber, A., Lutz, S.Z., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "Lee, B., Sunden, F., Miller, M.S., Pak, B., Krebber, A., Lutz, S., <strong>Fordyce, P.M.</strong>",
       "venue": "Analytical Chemistry",
       "year": 2025,
       "type": "article",
@@ -626,7 +626,7 @@
       "id": "https://openalex.org/W4360599575",
       "doi": "10.1093/nar/gkad207",
       "title": "On the dependent recognition of some long zinc finger proteins",
-      "authors_html": "Zuo, Z., Billings, T., Walker, M.J., Petkov, P.M., <strong>Fordyce, P.M.</strong>, Stormo, G.D.",
+      "authors_html": "Zuo, Z., Billings, T., Walker, M., Petkov, P.M., <strong>Fordyce, P.M.</strong>, Stormo, G.D.",
       "venue": "Nucleic Acids Research",
       "year": 2023,
       "type": "article",
