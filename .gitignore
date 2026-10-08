@@ -1,6 +1,10 @@
-last_run.log
-*.bak
-pdf-inbox/
+logs/
+__pycache__/
+*.pyc
+ingest/*/raw/
+ingest/*/*_unzipped/
+preview.html
+*.tmp
+*.lock
 .DS_Store
-enrich-cache.json
-seen-dois.txt
+pdf-inbox/*.pdf

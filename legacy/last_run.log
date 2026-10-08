@@ -1,0 +1,200 @@
+===== Sat Sep 19 09:44:35 PDT 2026 =====
+Wrote 140 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+[main 8d24ad9] Auto-update publications (2026-09-19)
+ 1 file changed, 71 insertions(+), 75 deletions(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+   01d2bb6..8d24ad9  main -> main
+Pushed updated publications.json
+===== Sat Sep 19 10:13:42 PDT 2026 =====
+Wrote 140 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+[main 397eb2e] Auto-update publications (2026-09-19)
+ 1 file changed, 352 insertions(+), 49 deletions(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+   8d24ad9..397eb2e  main -> main
+Pushed updated publications.json
+===== Sat Sep 19 10:40:08 PDT 2026 =====
+Wrote 123 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+[main f6219c6] Auto-update publications (2026-09-19)
+ 1 file changed, 1 insertion(+), 309 deletions(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+   397eb2e..f6219c6  main -> main
+Pushed updated publications.json
+===== Sat Sep 19 10:41:09 PDT 2026 =====
+Wrote 122 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+[main 0cf6177] Auto-update publications (2026-09-19)
+ 1 file changed, 1 insertion(+), 17 deletions(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+   f6219c6..0cf6177  main -> main
+Pushed updated publications.json
+===== Sat Sep 19 12:57:32 PDT 2026 =====
+Wrote 84 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+[main 6953f81] Auto-update publications (2026-09-19)
+ 1 file changed, 177 insertions(+), 861 deletions(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+   0cf6177..6953f81  main -> main
+Pushed updated publications.json
+===== Sat Sep 19 13:04:32 PDT 2026 =====
+Wrote 77 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+[main db5d371] Auto-update publications (2026-09-19)
+ 1 file changed, 2 insertions(+), 107 deletions(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+   6953f81..db5d371  main -> main
+Pushed updated publications.json
+===== Sat Sep 19 13:41:54 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+[main 68d9549] Auto-update publications (2026-09-19)
+ 1 file changed, 125 insertions(+), 3 deletions(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+   db5d371..68d9549  main -> main
+Pushed updated publications.json
+===== Sat Sep 19 14:11:43 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+[main 8a4ea39] Auto-update publications (2026-09-19)
+ 1 file changed, 69 insertions(+), 25 deletions(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+   68d9549..8a4ea39  main -> main
+Pushed updated publications.json
+2026-09-19T17:02:40 [pubs-notify] seeded seen-dois.txt with 82 ids (no email)
+2026-09-19T17:02:53 [pubs-notify] sent TEST notification to fordyce@gmail.com
+2026-09-19T17:03:07 [pubs-notify] no new papers; nothing to email
+===== Sat Sep 19 17:19:38 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-19T17:19:40 [pubs-notify] no new papers; nothing to email
+no new papers
+[main aae537d] Auto-update publications (2026-09-19)
+ 1 file changed, 16 insertions(+)
+To github.com:FordyceLab/fordycelab-pubs.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:FordyceLab/fordycelab-pubs.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+===== Sun Sep 20 12:08:30 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-20T12:08:32 [pubs-notify] no new papers; nothing to email
+no new papers
+[main a8bfb0b] Auto-update publications (2026-09-20)
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+To github.com:FordyceLab/fordycelab-pubs.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:FordyceLab/fordycelab-pubs.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+===== Sun Sep 20 14:28:14 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-20T14:28:16 [pubs-notify] no new papers; nothing to email
+no new papers
+[main 9acdb9b] Auto-update publications (2026-09-20)
+ 2 files changed, 11 insertions(+), 1 deletion(-)
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   38ac7d0..9acdb9b  main -> main
+Pushed updates
+===== Sun Sep 20 15:22:57 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-20T15:22:59 [pubs-notify] no new papers; nothing to email
+no new papers
+[main 7137747] Auto-update publications (2026-09-20)
+ 3 files changed, 50 insertions(+), 34 deletions(-)
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   9acdb9b..7137747  main -> main
+Pushed updates
+===== Sun Sep 20 15:31:16 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-20T15:31:18 [pubs-notify] no new papers; nothing to email
+no new papers
+[main 9a84556] Auto-update publications (2026-09-20)
+ 2 files changed, 21 insertions(+), 20 deletions(-)
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   7137747..9a84556  main -> main
+Pushed updates
+===== Sun Sep 20 19:51:37 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-20T19:51:39 [pubs-notify] no new papers; nothing to email
+no new papers
+[main 6ac8dbc] Auto-update publications (2026-09-20)
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   9a84556..6ac8dbc  main -> main
+Pushed updates
+===== Sun Sep 20 20:29:25 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-20T20:29:27 [pubs-notify] no new papers; nothing to email
+no new papers
+[main 80fea93] Auto-update publications (2026-09-20)
+ 2 files changed, 9 insertions(+), 6 deletions(-)
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   6ac8dbc..80fea93  main -> main
+Pushed updates
+===== Mon Sep 21 07:00:04 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-21T07:00:06 [pubs-notify] no new papers; nothing to email
+no new papers
+[main c2d774d] Auto-update publications (2026-09-21)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   80fea93..c2d774d  main -> main
+Pushed updates
+===== Mon Sep 28 07:00:05 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-09-28T07:00:07 [pubs-notify] no new papers; nothing to email
+no new papers
+pubs_activity: 🔄 Publications feed refreshed — links/authors updated (82 entries)
+[main f22041b] Auto-update publications (2026-09-28)
+ 3 files changed, 70 insertions(+), 15 deletions(-)
+ create mode 100644 pubs_activity.py
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   c2d774d..f22041b  main -> main
+Pushed updates
+===== Mon Oct  5 07:00:01 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-10-05T07:00:03 [pubs-notify] no new papers; nothing to email
+no new papers
+pubs_activity: 🔄 Publications feed refreshed — links/authors updated (82 entries)
+[main d5169cb] Auto-update publications (2026-10-05)
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   f22041b..d5169cb  main -> main
+Pushed updates
+===== Thu Oct  8 10:42:55 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-10-08T10:42:57 [pubs-notify] no new papers; nothing to email
+no new papers
+pubs_activity: 🔄 Publications feed refreshed — links/authors updated (82 entries)
+[main 1595d5f] Auto-update publications (2026-10-08)
+ 8 files changed, 266353 insertions(+), 40 deletions(-)
+ create mode 100644 overrides.json.bak-20261008-1042
+ create mode 100644 pdfs/Hastings2025-NatComms.pdf
+ create mode 100644 pdfs/McIntyre2024-NatComms.pdf
+ create mode 100644 pdfs/Perez2026-ADAPT-M-NatComms.pdf
+ create mode 100644 pdfs/Wick2025-Nature.pdf
+ create mode 100644 pdfs/Yang2025-AnalChem.pdf
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   d5169cb..1595d5f  main -> main
+Pushed updates
+===== Thu Oct  8 10:43:29 PDT 2026 =====
+Wrote 82 publications to /Users/pollyfordyce/lab-publications-site/publications.json
+2026-10-08T10:43:30 [pubs-notify] no new papers; nothing to email
+no new papers
+pubs_activity: 🔄 Publications feed refreshed — links/authors updated (82 entries)
+[main 4af0876] Auto-update publications (2026-10-08)
+ 2 files changed, 8 insertions(+)
+Current branch main is up to date.
+To github.com:FordyceLab/fordycelab-pubs.git
+   1595d5f..4af0876  main -> main
+Pushed updates

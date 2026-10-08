@@ -1,0 +1,17 @@
+{
+  "openalex_author_id": "A5085863617",
+  "contact_email": "fordyce@stanford.edu",
+  "lookback_days": 180,
+  "pages_base_url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main",
+  "site_pubs_url": "https://www.fordycelab.com/publications-v2",
+  "site_data_url": "https://www.fordycelab.com/data",
+  "data_portal_dir": "/Users/pollyfordyce/data-portal",
+  "data_portal_base_url": "https://fordycelab.github.io/data-portal",
+  "pdf_inbox": "/Users/pollyfordyce/pfordyce@stanford.edu - Google Drive/My Drive/claude/lab-publications-site/pdf-inbox",
+  "notify_to": "fordyce@gmail.com",
+  "dashboard_url": "http://pollys-mac-mini:8787",
+  "scholar_alerts": true,
+  "arxiv": true,
+  "claude_model": "claude-sonnet-5",
+  "git_push": true
+}
