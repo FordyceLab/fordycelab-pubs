@@ -36,7 +36,7 @@
     "authors_html": "Olivas, M.B.*, Almhjell, P.J.*, Petersen, L.K., Shanahan, J.D., <strong>Fordyce, P.M.</strong>"
   },
   "10.1039/d5lc00959f": {
-    "pdf": "https://www.fordycelab.com/s/20251011680838v1full.pdf",
+    "pdf": "https://pubs.rsc.org/en/content/articlepdf/2026/lc/d5lc00959f",
     "links_add": [
       {
         "label": "bioRxiv",
@@ -45,9 +45,14 @@
       {
         "label": "OSF data",
         "url": "https://osf.io/dy5xp/overview"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20251011680838v1full.pdf"
       }
     ],
-    "authors_html": "Mokhtari, D.A.‡, Lashkaripour, A., <strong>Fordyce, P.M.</strong>‡"
+    "authors_html": "Mokhtari, D.A.‡, Lashkaripour, A., <strong>Fordyce, P.M.</strong>‡",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1073/pnas.2509652122": {
     "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/trepka-et-al-2025-acoustic-printing-of-conductive-polymers.pdf",
@@ -58,43 +63,63 @@
     "authors_html": "Doshi, S.‡, Güsken, N.A., Dijk, G., Carlström, J., Ortiz-Cárdenas, J.E., Suzuki, P., Li, B., <strong>Fordyce, P.M.</strong>, Salleo, A., Melosh, N.A., Brongersma, M.L.‡"
   },
   "10.1021/acs.analchem.5c01536": {
-    "pdf": "https://www.fordycelab.com/s/20250313643134v1full.pdf",
+    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Yang2025-AnalChem.pdf",
     "links_add": [
       {
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/2025.03.13.643134"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20250313643134v1full.pdf"
       }
     ],
-    "authors_html": "Yang, Z.*‡, Thompson, S.*‡, Zhang, Y., Rutten, I., Van Duyse, J., Van Isterdael, G., Nichols, L., Lammertyn, J., Soh, H.T., & <strong>Fordyce, P.M.</strong>‡"
+    "authors_html": "Yang, Z.*‡, Thompson, S.*‡, Zhang, Y., Rutten, I., Van Duyse, J., Van Isterdael, G., Nichols, L., Lammertyn, J., Soh, H.T., & <strong>Fordyce, P.M.</strong>‡",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1021/acs.analchem.5c00333": {
-    "pdf": "https://www.fordycelab.com/s/20240719604368v1full.pdf",
+    "pdf": "https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c00333",
     "links_add": [
       {
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/2024.07.19.604368"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20240719604368v1full.pdf"
       }
-    ]
+    ],
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1016/j.cels.2026.101681": {
-    "pdf": "https://www.fordycelab.com/s/20250115633299v1full.pdf",
+    "pdf": "https://www.cell.com/cell-systems/pdf/S2405-4712(26)00163-8.pdf",
     "links_add": [
       {
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/2025.01.15.633299"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20250115633299v1full.pdf"
       }
     ],
-    "authors_html": "Atsavapranee, B.*, Sunden, F.*, Herschlag, D., <strong>Fordyce, P.M.</strong>"
+    "authors_html": "Atsavapranee, B.*, Sunden, F.*, Herschlag, D., <strong>Fordyce, P.M.</strong>",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1038/s41586-025-09090-z": {
-    "pdf": "https://www.fordycelab.com/s/20241106622305v2full.pdf",
+    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Wick2025-Nature.pdf",
     "links_add": [
       {
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/2024.11.06.622305"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20241106622305v2full.pdf"
       }
     ],
-    "authors_html": "McClune, C.J.*, Liu, J.C.*, Wick, C., Peña, R.D.L., Lange, B.M., <strong>Fordyce, P.M.</strong>, Sattely, E.S."
+    "authors_html": "McClune, C.J.*, Liu, J.C.*, Wick, C., Peña, R.D.L., Lange, B.M., <strong>Fordyce, P.M.</strong>, Sattely, E.S.",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1002/admi.202400403": {
     "pdf": "https://www.fordycelab.com/s/2023_FACS_sortable_triple_emulsions_manuscript_v34-dxxf.pdf",
@@ -115,7 +140,7 @@
     "authors_html": "DelRosso, N.*, Suzuki, P.H.*, Griffith, D., Lotthammer, J.M., Novak, B., Kocalar, S., Sheth, M.U., Holehouse, A.S., Bintu, L.‡, & <strong>Fordyce, P.M.</strong>‡"
   },
   "10.1038/s41467-023-44068-3": {
-    "pdf": "https://www.fordycelab.com/s/20230531543128v1full.pdf",
+    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/McIntyre2024-NatComms.pdf",
     "links_add": [
       {
         "label": "bioRxiv",
@@ -124,25 +149,35 @@
       {
         "label": "OSF data",
         "url": "https://osf.io/938rs/"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20230531543128v1full.pdf"
       }
     ],
-    "authors_html": "Lashkaripour, A.‡, McIntyre, D.P., Calhoun, S.G.K., Krauth, K., Densmore, D.M., & <strong>Fordyce, P.M.</strong>‡"
+    "authors_html": "Lashkaripour, A.‡, McIntyre, D.P., Calhoun, S.G.K., Krauth, K., Densmore, D.M., & <strong>Fordyce, P.M.</strong>‡",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1038/s41467-024-55672-2": {
-    "pdf": "https://www.fordycelab.com/s/20231113566946v2full.pdf",
+    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Hastings2025-NatComms.pdf",
     "links_add": [
       {
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/2023.11.13.566946"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20231113566946v2full.pdf"
       }
     ],
-    "authors_html": "Hastings, R.*, Aditham, A.*, DelRosso, N., Suzuki, P., & <strong>Fordyce, P.</strong>M"
+    "authors_html": "Hastings, R.*, Aditham, A.*, DelRosso, N., Suzuki, P., & <strong>Fordyce, P.</strong>M",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1039/d3lc00189j": {
     "pdf": "https://www.fordycelab.com/s/VersatilityAndStabilityofDropletGenerators.pdf"
   },
   "10.15252/msb.202311782": {
-    "pdf": "https://www.fordycelab.com/s/20230514540683v1full.pdf",
+    "pdf": "https://www.embopress.org/doi/pdf/10.15252/msb.202311782",
     "links_add": [
       {
         "label": "bioRxiv",
@@ -151,16 +186,21 @@
       {
         "label": "OSF data",
         "url": "https://osf.io/gys5d/"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
       }
     ],
-    "authors_html": "Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>‡, & Nilsson, J.‡"
+    "authors_html": "Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>‡, & Nilsson, J.‡",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1101/2023.05.11.540401": {
     "pdf": "https://www.fordycelab.com/s/20230511540401v1full.pdf",
     "authors_html": "Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>‡, & Kundaje, A.‡"
   },
   "10.1126/science.add1250": {
-    "pdf": "https://www.fordycelab.com/s/20220524493321v2full-1.pdf",
+    "pdf": "https://www.science.org/doi/pdf/10.1126/science.add1250",
     "links_add": [
       {
         "label": "bioRxiv",
@@ -189,10 +229,11 @@
         "url": "https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/"
       }
     ],
-    "authors_html": "Horton, C.A., Alexandari, A.M.*, Hayes, M.G.*, Marklund, E.*, Schaepe, J.M.*, Aditham, A.K., Shah, N., Suzuki, P., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>"
+    "authors_html": "Horton, C.A., Alexandari, A.M.*, Hayes, M.G.*, Marklund, E.*, Schaepe, J.M.*, Aditham, A.K., Shah, N., Suzuki, P., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1016/j.cels.2023.08.002": {
-    "pdf": "https://www.fordycelab.com/s/20221101514733v1full.pdf",
+    "pdf": "https://www.cell.com/cell-systems/pdf/S2405-4712(23)00241-7.pdf",
     "links_add": [
       {
         "label": "bioRxiv",
@@ -201,9 +242,14 @@
       {
         "label": "OSF data",
         "url": "https://osf.io/r4s3m/"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
       }
     ],
-    "authors_html": "Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C.‡, & <strong>Fordyce, P.M.</strong>‡"
+    "authors_html": "Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C.‡, & <strong>Fordyce, P.M.</strong>‡",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1038/s43705-023-00241-9": {
     "pdf": "https://www.fordycelab.com/s/s43705-023-00241-9.pdf",
@@ -395,7 +441,7 @@
     "pdf": "https://www.fordycelab.com/s/Bio-protocol3669.pdf"
   },
   "10.1039/d0lc00261e": {
-    "pdf": "https://www.fordycelab.com/s/Optimized_double_emulsion_flow_cytometry_with_high.pdf",
+    "pdf": "https://pubs.rsc.org/en/content/articlepdf/2020/lc/d0lc00261e",
     "links_add": [
       {
         "label": "bioRxiv",
@@ -404,8 +450,13 @@
       {
         "label": "OSF data",
         "url": "https://osf.io/3au4v/"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/Optimized_double_emulsion_flow_cytometry_with_high.pdf"
       }
-    ]
+    ],
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1093/bioinformatics/btaa162": {
     "pdf": "https://www.fordycelab.com/s/bioinformatics_36_11_3357.pdf",
@@ -575,7 +626,8 @@
       }
     ],
     "authors_html": "Markin, C.J., Mokhtari, D.A., Du, S., Doukov, T., Sunden, F., <strong>Fordyce, P.M.</strong>‡, & Herschlag, D.‡",
-    "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10629569/pdf/pnas.202219074.pdf"
+    "pdf": "https://www.pnas.org/doi/pdf/10.1073/pnas.2219074120",
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1101/2024.11.06.622305": {
     "hide": true,
@@ -755,13 +807,18 @@
   },
   "10.1038/s41467-026-75463-1": {
     "authors_html": "Perez, C.P.*, DelRosso, N.V.*, Noland, C.L., Parekh, U., Choe, C.A., Eguchi, R.R., Wen, Q., <strong>Fordyce, P.M.</strong>‡, & Huang, P.S.‡",
-    "pdf": "https://www.fordycelab.com/s/20251021683815v1full.pdf",
+    "pdf": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Perez2026-ADAPT-M-NatComms.pdf",
     "links_add": [
       {
         "label": "bioRxiv",
         "url": "https://doi.org/10.1101/2025.10.21.683815"
+      },
+      {
+        "label": "bioRxiv PDF",
+        "url": "https://www.fordycelab.com/s/20251021683815v1full.pdf"
       }
-    ]
+    ],
+    "_pdf_note": "2026-10-08: PDF now the journal version (hosted copy where open access, else the publisher PDF link); the bioRxiv copy kept as its own button"
   },
   "10.1016/j.jbiosc.2023.03.001": {
     "authors_html": "Stapleton, L.M., Farry, J.M., Lucian, H.J., Wang, H., Paulson, M.J., Totherow, K.P., Roth, G.A., Brower, K.K., <strong>Fordyce, P.M.</strong>, Appel, E.A.*, & Woo, Y.J.*",

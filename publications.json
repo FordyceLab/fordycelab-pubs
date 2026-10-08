@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-08",
   "count": 82,
   "publications": [
     {
@@ -17,11 +17,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20251021683815v1full.pdf"
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Perez2026-ADAPT-M-NatComms.pdf"
         },
         {
           "label": "bioRxiv",
           "url": "https://doi.org/10.1101/2025.10.21.683815"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20251021683815v1full.pdf"
         }
       ],
       "pin": false
@@ -121,7 +125,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20251011680838v1full.pdf"
+          "url": "https://pubs.rsc.org/en/content/articlepdf/2026/lc/d5lc00959f"
         },
         {
           "label": "bioRxiv",
@@ -130,6 +134,10 @@
         {
           "label": "OSF data",
           "url": "https://osf.io/dy5xp/overview"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20251011680838v1full.pdf"
         }
       ],
       "pin": false
@@ -149,11 +157,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20250115633299v1full.pdf"
+          "url": "https://www.cell.com/cell-systems/pdf/S2405-4712(26)00163-8.pdf"
         },
         {
           "label": "bioRxiv",
           "url": "https://doi.org/10.1101/2025.01.15.633299"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20250115633299v1full.pdf"
         },
         {
           "label": "OSF data",
@@ -281,11 +293,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20250313643134v1full.pdf"
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Yang2025-AnalChem.pdf"
         },
         {
           "label": "bioRxiv",
           "url": "https://doi.org/10.1101/2025.03.13.643134"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20250313643134v1full.pdf"
         }
       ],
       "pin": false
@@ -305,11 +321,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20241106622305v2full.pdf"
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Wick2025-Nature.pdf"
         },
         {
           "label": "bioRxiv",
           "url": "https://doi.org/10.1101/2024.11.06.622305"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20241106622305v2full.pdf"
         }
       ],
       "pin": false
@@ -318,7 +338,7 @@
       "id": "https://openalex.org/W7116958310",
       "doi": "10.3390/ijms27010156",
       "title": "Functional Characterization of Glucokinase Variants to Aid Clinical Interpretation of Monogenic Diabetes",
-      "authors_html": "Rajesh, V., Ibarra, D.E., Yang, J., Zhang, H., Barrett, A., Kaplan, E.L., Kumthekar, A., Sunden, F., SUN, H., Addala, A., Misakian, A.L., Letourneau, L.R., Jodarski, C., Maloney, K.A., Saint-Martin, C., <strong>Fordyce, P.M.</strong>, Pollin, T.I., Gloyn, A.L.",
+      "authors_html": "Rajesh, V., Ibarra, D.E., Yang, J., Zhang, H., Barrett, A., Kaplan, E.L., Kumthekar, A., Sunden, F., SUN, H., Addala, A., Misakian, A.L., Letourneau, L.R., Jodarski, C., Maloney, K.A., Saint‐Martin, C., <strong>Fordyce, P.M.</strong>, Pollin, T.I., Gloyn, A.L.",
       "venue": "International Journal of Molecular Sciences",
       "year": 2025,
       "type": "article",
@@ -349,11 +369,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20240719604368v1full.pdf"
+          "url": "https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c00333"
         },
         {
           "label": "bioRxiv",
           "url": "https://doi.org/10.1101/2024.07.19.604368"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20240719604368v1full.pdf"
         }
       ],
       "pin": false
@@ -373,11 +397,15 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20231113566946v2full.pdf"
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Hastings2025-NatComms.pdf"
         },
         {
           "label": "bioRxiv",
           "url": "https://doi.org/10.1101/2023.11.13.566946"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20231113566946v2full.pdf"
         }
       ],
       "pin": false
@@ -397,7 +425,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20230531543128v1full.pdf"
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/McIntyre2024-NatComms.pdf"
         },
         {
           "label": "bioRxiv",
@@ -406,6 +434,10 @@
         {
           "label": "OSF data",
           "url": "https://osf.io/938rs/"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20230531543128v1full.pdf"
         }
       ],
       "pin": false
@@ -473,7 +505,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
+          "url": "https://www.cell.com/cell-systems/pdf/S2405-4712(23)00241-7.pdf"
         },
         {
           "label": "bioRxiv",
@@ -482,6 +514,10 @@
         {
           "label": "OSF data",
           "url": "https://osf.io/r4s3m/"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
         }
       ],
       "pin": false
@@ -545,7 +581,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10629569/pdf/pnas.202219074.pdf"
+          "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2219074120"
         },
         {
           "label": "bioRxiv",
@@ -665,7 +701,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
+          "url": "https://www.embopress.org/doi/pdf/10.15252/msb.202311782"
         },
         {
           "label": "bioRxiv",
@@ -674,6 +710,10 @@
         {
           "label": "OSF data",
           "url": "https://osf.io/gys5d/"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
         }
       ],
       "pin": false
@@ -693,7 +733,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20220524493321v2full-1.pdf"
+          "url": "https://www.science.org/doi/pdf/10.1126/science.add1250"
         },
         {
           "label": "bioRxiv",
@@ -1067,7 +1107,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.fordycelab.com/s/Optimized_double_emulsion_flow_cytometry_with_high.pdf"
+          "url": "https://pubs.rsc.org/en/content/articlepdf/2020/lc/d0lc00261e"
         },
         {
           "label": "bioRxiv",
@@ -1076,6 +1116,10 @@
         {
           "label": "OSF data",
           "url": "https://osf.io/3au4v/"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/Optimized_double_emulsion_flow_cytometry_with_high.pdf"
         }
       ],
       "pin": false
