@@ -408,8 +408,31 @@ def data_label(url, default="data"):
     return default
 
 
+NUM_RE = re.compile(r'^\s*<span class="fl-num"[^>]*>\d+\.</span>(?:&nbsp;|\s)*', re.I)
+
+
+def strip_num(authors_html_):
+    """Remove the '83.' numbering prefix the pipeline adds to author lines."""
+    return NUM_RE.sub("", authors_html_ or "")
+
+
+def number_prefix(n):
+    return '<span class="fl-num" style="color:#777;font-variant-numeric:tabular-nums">%d.</span>&nbsp;' % n
+
+
+def renumber(pubs):
+    """Number entries in reverse chronological order: oldest = 1, newest = total.
+    The list is stored newest-first, so entry i gets total - i."""
+    lst = pubs.get("publications", [])
+    n = len(lst)
+    for i, e in enumerate(lst):
+        e["authors_html"] = number_prefix(n - i) + strip_num(e.get("authors_html", ""))
+        e["num"] = n - i
+    return pubs
+
+
 def first_author_of(authors_html_):
-    return htmlmod.unescape(strip_tags(authors_html_ or "")).split(",")[0].strip()
+    return htmlmod.unescape(strip_tags(strip_num(authors_html_))).split(",")[0].strip()
 
 
 def load_pubs():

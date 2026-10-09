@@ -23,7 +23,7 @@ from pathlib import Path
 
 from common import (CFG, DECISIONS, DONE, INGEST, PDFS, PENDING, PUBS, ROOT, STATUS, authors_html, data_label,
                     download, get_json, git_commit_push, head_ok, is_pdf, load_json, load_pubs, locked, log,
-                    now_label, save_json, slug, today)
+                    now_label, renumber, save_json, slug, strip_num, today)
 
 SINGLETON = ("web", "pdf", "biorxiv", "biorxiv pdf", "arxiv", "arxiv pdf")
 
@@ -258,7 +258,7 @@ def make_links(item, dec, existing):
 
 def make_entry(item, dec, existing):
     ah, notes = authors_html(item.get("authors", []))
-    authors = dec.get("html_override") or (existing or {}).get("authors_html") or ah
+    authors = strip_num(dec.get("html_override") or (existing or {}).get("authors_html") or ah)
     e = dict(existing or {})
     e.update({
         "id": (existing or {}).get("id") or ("https://doi.org/" + item["doi"] if item.get("doi") else "manual:" + slug(item.get("title", ""), 50)),
@@ -441,6 +441,7 @@ def main():
         save_json(DECISIONS, decisions)
         save_json(DONE, done)
         if touched:
+            renumber(pubs)                 # oldest paper = 1, newest = total
             save_json(PUBS, pubs)
             try:
                 committed, pushed, note = git_commit_push(ROOT, [PUBS, PDFS, PENDING, DONE, DECISIONS], "Publications update %s" % today())
