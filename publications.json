@@ -3,6 +3,38 @@
   "count": 82,
   "publications": [
     {
+      "id": "https://openalex.org/W4406574309",
+      "doi": "10.1016/j.cels.2026.101681",
+      "title": "Quantifying protein unfolding kinetics with a high-throughput microfluidic platform",
+      "authors_html": "Atsavapranee, B.*, Sunden, F.*, Herschlag, D., <strong>Fordyce, P.M.</strong>",
+      "venue": "Cell Systems",
+      "year": 2026,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1016/j.cels.2026.101681"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Atsavapranee2026-Quantifying-protein-unfolding-kinetics-w.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2025.01.15.633299"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20250115633299v1full.pdf"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/nawme/"
+        }
+      ],
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W4415173672",
       "doi": "10.1039/d5lc00959f",
       "title": "Large field of view fluorescence imaging of microfluidic devices with a tandem-lens macroscope",
@@ -138,38 +170,6 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/20260330715055v2full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4406574309",
-      "doi": "10.1016/j.cels.2026.101681",
-      "title": "Quantifying protein unfolding kinetics with a high-throughput microfluidic platform",
-      "authors_html": "Atsavapranee, B.*, Sunden, F.*, Herschlag, D., <strong>Fordyce, P.M.</strong>",
-      "venue": "Cell Systems",
-      "year": 2026,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.cels.2026.101681"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.cell.com/cell-systems/pdf/S2405-4712(26)00163-8.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2025.01.15.633299"
-        },
-        {
-          "label": "bioRxiv PDF",
-          "url": "https://www.fordycelab.com/s/20250115633299v1full.pdf"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/nawme/"
         }
       ],
       "pin": false

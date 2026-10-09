@@ -1,33 +1,5 @@
 [
   {
-    "id": "10.1016/j.cels.2026.101681",
-    "doi": "10.1016/j.cels.2026.101681",
-    "type": "article",
-    "title": "Quantifying protein unfolding kinetics with a high-throughput microfluidic platform",
-    "year": 2026,
-    "venue": "Cell Systems",
-    "first_author": "Atsavapranee",
-    "authors": [],
-    "web_url": "https://doi.org/10.1016/j.cels.2026.101681",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.1016/j.cels.2026.101681",
-    "pdf_publisher_url": "https://www.cell.com/cell-systems/pdf/S2405-4712(26)00163-8.pdf",
-    "pdf_expected": "Atsavapranee2026-Quantifying-protein-unfolding-kinetics-w.pdf",
-    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08",
-    "preprint_pdf_expected": "Atsavapranee2026-Quantifying-protein-unfolding-kinetics-w-preprint.pdf"
-  },
-  {
     "id": "10.3390/ijms27010156",
     "doi": "10.3390/ijms27010156",
     "type": "article",
