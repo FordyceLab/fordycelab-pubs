@@ -166,5 +166,52 @@
     "status": "website: published; PDF on publisher site",
     "seen_first": "2026-10-08",
     "preprint_pdf_expected": "Nelson2013-Microfluidic-affinity-and-ChIP-seq-analy-preprint.pdf"
+  },
+  {
+    "id": "manual:High-throughput-biochemistry-Methods-and-motivatio",
+    "doi": "",
+    "type": "manual",
+    "title": "High-throughput biochemistry: Methods and motivations for measuring equilibrium and\nrate constants at scale",
+    "year": 2026,
+    "venue": "Submitted",
+    "first_author": "Almhjell",
+    "authors": [
+      {
+        "name": "Patrick J. Almhjell",
+        "corresponding": false
+      },
+      {
+        "name": "Carlos R. Cortez-Romero",
+        "corresponding": false
+      },
+      {
+        "name": "Shawn M. Costello",
+        "corresponding": false
+      },
+      {
+        "name": "Polly M. Fordyce",
+        "corresponding": false
+      }
+    ],
+    "web_url": "",
+    "note": "",
+    "pdf_url": "",
+    "pdf_candidates": [],
+    "preprint": null,
+    "data_links": [],
+    "sources": [
+      "added by Polly"
+    ],
+    "verified": true,
+    "status": "website: waiting for the PDF before adding the entry; portal: skipped",
+    "seen_first": "2026-10-08",
+    "pdf_expected": "Almhjell2026-High-throughput-biochemistry-Methods-an.pdf",
+    "preprint_pdf_expected": "Almhjell2026-High-throughput-biochemistry-Methods-an-preprint.pdf",
+    "pdf_status": "waiting for the PDF - upload it here (expected name Almhjell2026-High-throughput-biochemistry-Methods-an.pdf)",
+    "website_status": "waiting for the PDF before adding the entry",
+    "website_notes": [
+      "waiting for the PDF - upload it here (expected name Almhjell2026-High-throughput-biochemistry-Methods-an.pdf)"
+    ],
+    "portal_status": "skipped"
   }
 ]
