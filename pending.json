@@ -1,32 +1,5 @@
 [
   {
-    "id": "10.1039/d5lc00959f",
-    "doi": "10.1039/d5lc00959f",
-    "type": "article",
-    "title": "Large field of view fluorescence imaging of microfluidic devices with a tandem-lens macroscope",
-    "year": 2026,
-    "venue": "Lab on a Chip",
-    "first_author": "Mokhtari",
-    "authors": [],
-    "web_url": "https://doi.org/10.1039/d5lc00959f",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.1039/d5lc00959f",
-    "pdf_publisher_url": "https://pubs.rsc.org/en/content/articlepdf/2026/lc/d5lc00959f",
-    "pdf_expected": "Mokhtari2026-Large-field-of-view-fluorescence-imaging.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (pubs.rsc.org) - upload your copy here to host it on the lab site",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
-  },
-  {
     "id": "10.1016/j.cels.2026.101681",
     "doi": "10.1016/j.cels.2026.101681",
     "type": "article",
@@ -49,9 +22,10 @@
     "website_entry_id": "10.1016/j.cels.2026.101681",
     "pdf_publisher_url": "https://www.cell.com/cell-systems/pdf/S2405-4712(26)00163-8.pdf",
     "pdf_expected": "Atsavapranee2026-Quantifying-protein-unfolding-kinetics-w.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (www.cell.com) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Atsavapranee2026-Quantifying-protein-unfolding-kinetics-w-preprint.pdf"
   },
   {
     "id": "10.3390/ijms27010156",
@@ -76,9 +50,10 @@
     "website_entry_id": "10.3390/ijms27010156",
     "pdf_publisher_url": "https://www.mdpi.com/1422-0067/27/1/156/pdf?version=1766486763",
     "pdf_expected": "Rajesh2025-Functional-Characterization-of-Glucokina.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (www.mdpi.com) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Rajesh2025-Functional-Characterization-of-Glucokina-preprint.pdf"
   },
   {
     "id": "10.1021/acs.analchem.5c00333",
@@ -101,11 +76,12 @@
     "merge_into": null,
     "website_status": "published",
     "website_entry_id": "10.1021/acs.analchem.5c00333",
-    "pdf_publisher_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c00333",
+    "pdf_publisher_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c00333?ref=article_openPDF",
     "pdf_expected": "Lee2025-Hydrophilic-Omniphobic-Droplet-Arrays-fo.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (pubs.acs.org) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Lee2025-Hydrophilic-Omniphobic-Droplet-Arrays-fo-preprint.pdf"
   },
   {
     "id": "10.1016/j.cels.2023.08.002",
@@ -128,11 +104,12 @@
     "merge_into": null,
     "website_status": "published",
     "website_entry_id": "10.1016/j.cels.2023.08.002",
-    "pdf_publisher_url": "https://www.cell.com/cell-systems/pdf/S2405-4712(23)00241-7.pdf",
+    "pdf_publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12126083/pdf/nihms-2083972.pdf",
     "pdf_expected": "Sockell2023-A-microwell-platform-for-high-throughput.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (www.cell.com) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Sockell2023-A-microwell-platform-for-high-throughput-preprint.pdf"
   },
   {
     "id": "10.1073/pnas.2219074120",
@@ -155,38 +132,12 @@
     "merge_into": null,
     "website_status": "published",
     "website_entry_id": "10.1073/pnas.2219074120",
-    "pdf_publisher_url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2219074120",
+    "pdf_publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10629569/pdf/pnas.202219074.pdf",
     "pdf_expected": "Markin2023-Decoupling-of-catalysis-and-transition-s.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (www.pnas.org) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
-  },
-  {
-    "id": "10.15252/msb.202311782",
-    "doi": "10.15252/msb.202311782",
-    "type": "article",
-    "title": "Phosphatase specificity principles uncovered by MRBLE:Dephos and global substrate identification",
-    "year": 2023,
-    "venue": "Molecular Systems Biology",
-    "first_author": "Hein",
-    "authors": [],
-    "web_url": "https://doi.org/10.15252/msb.202311782",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.15252/msb.202311782",
-    "pdf_publisher_url": "https://www.embopress.org/doi/pdf/10.15252/msb.202311782",
-    "pdf_expected": "Hein2023-Phosphatase-specificity-principles-uncov.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (www.embopress.org) - upload your copy here to host it on the lab site",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Markin2023-Decoupling-of-catalysis-and-transition-s-preprint.pdf"
   },
   {
     "id": "10.1126/science.add1250",
@@ -211,9 +162,10 @@
     "website_entry_id": "10.1126/science.add1250",
     "pdf_publisher_url": "https://www.science.org/doi/pdf/10.1126/science.add1250",
     "pdf_expected": "Horton2023-Short-tandem-repeats-bind-transcription.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (www.science.org) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Horton2023-Short-tandem-repeats-bind-transcription-preprint.pdf"
   },
   {
     "id": "10.1039/d0lc00261e",
@@ -238,9 +190,10 @@
     "website_entry_id": "10.1039/d0lc00261e",
     "pdf_publisher_url": "https://pubs.rsc.org/en/content/articlepdf/2020/lc/d0lc00261e",
     "pdf_expected": "Brower2020-Double-emulsion-flow-cytometry-with-high.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (pubs.rsc.org) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Brower2020-Double-emulsion-flow-cytometry-with-high-preprint.pdf"
   },
   {
     "id": "10.1016/j.cels.2017.02.005",
@@ -265,9 +218,10 @@
     "website_entry_id": "10.1016/j.cels.2017.02.005",
     "pdf_publisher_url": "http://www.cell.com/article/S2405471217300492/pdf",
     "pdf_expected": "Doudna2017-How-Will-Kinetics-and-Thermodynamics-Inf.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (www.cell.com) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Doudna2017-How-Will-Kinetics-and-Thermodynamics-Inf-preprint.pdf"
   },
   {
     "id": "10.1101/gad.242271.114",
@@ -292,9 +246,10 @@
     "website_entry_id": "10.1101/gad.242271.114",
     "pdf_publisher_url": "http://genesdev.cshlp.org/content/28/12/1272.full.pdf",
     "pdf_expected": "Perez2014-How-duplicated-transcription-regulators.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (genesdev.cshlp.org) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Perez2014-How-duplicated-transcription-regulators-preprint.pdf"
   },
   {
     "id": "10.1093/nar/gkt259",
@@ -319,8 +274,9 @@
     "website_entry_id": "10.1093/nar/gkt259",
     "pdf_publisher_url": "https://academic.oup.com/nar/article-pdf/41/12/5991/16951201/gkt259.pdf",
     "pdf_expected": "Nelson2013-Microfluidic-affinity-and-ChIP-seq-analy.pdf",
-    "pdf_status": "the PDF button points at the publisher's site (academic.oup.com) - upload your copy here to host it on the lab site",
+    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
     "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08"
+    "seen_first": "2026-10-08",
+    "preprint_pdf_expected": "Nelson2013-Microfluidic-affinity-and-ChIP-seq-analy-preprint.pdf"
   }
 ]

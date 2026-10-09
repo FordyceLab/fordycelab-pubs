@@ -3,6 +3,38 @@
   "count": 82,
   "publications": [
     {
+      "id": "https://openalex.org/W4415173672",
+      "doi": "10.1039/d5lc00959f",
+      "title": "Large field of view fluorescence imaging of microfluidic devices with a tandem-lens macroscope",
+      "authors_html": "Mokhtari, D.A.‡, Lashkaripour, A., <strong>Fordyce, P.M.</strong>‡",
+      "venue": "Lab on a Chip",
+      "year": 2026,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1039/d5lc00959f"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Mokhtari2026-Large-field-of-view-fluorescence-imaging.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2025.10.11.680838"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20251011680838v1full.pdf"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/dy5xp/overview"
+        }
+      ],
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W4415454705",
       "doi": "10.1038/s41467-026-75463-1",
       "title": "ADAPT-M: a workflow for rapid, quantitative in vitro measurements of enriched protein libraries",
@@ -106,38 +138,6 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/20260330715055v2full.pdf"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4415173672",
-      "doi": "10.1039/d5lc00959f",
-      "title": "Large field of view fluorescence imaging of microfluidic devices with a tandem-lens macroscope",
-      "authors_html": "Mokhtari, D.A.‡, Lashkaripour, A., <strong>Fordyce, P.M.</strong>‡",
-      "venue": "Lab on a Chip",
-      "year": 2026,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1039/d5lc00959f"
-        },
-        {
-          "label": "PDF",
-          "url": "https://pubs.rsc.org/en/content/articlepdf/2026/lc/d5lc00959f"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2025.10.11.680838"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/dy5xp/overview"
-        },
-        {
-          "label": "bioRxiv PDF",
-          "url": "https://www.fordycelab.com/s/20251011680838v1full.pdf"
         }
       ],
       "pin": false
@@ -491,6 +491,38 @@
       "pin": false
     },
     {
+      "id": "https://openalex.org/W4388233463",
+      "doi": "10.15252/msb.202311782",
+      "title": "Phosphatase specificity principles uncovered by MRBLE:Dephos and global substrate identification",
+      "authors_html": "Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>‡, & Nilsson, J.‡",
+      "venue": "Molecular Systems Biology",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.15252/msb.202311782"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Hein2023-Phosphatase-specificity-principles-uncov.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2023.05.14.540683"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/gys5d/"
+        }
+      ],
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W4386885921",
       "doi": "10.1016/j.cels.2023.08.002",
       "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
@@ -682,38 +714,6 @@
         {
           "label": "Zenodo",
           "url": "https://zenodo.org/records/7711887"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4388233463",
-      "doi": "10.15252/msb.202311782",
-      "title": "Phosphatase specificity principles uncovered by MRBLE:Dephos and global substrate identification",
-      "authors_html": "Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>‡, & Nilsson, J.‡",
-      "venue": "Molecular Systems Biology",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.15252/msb.202311782"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.embopress.org/doi/pdf/10.15252/msb.202311782"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2023.05.14.540683"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/gys5d/"
-        },
-        {
-          "label": "bioRxiv PDF",
-          "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
         }
       ],
       "pin": false

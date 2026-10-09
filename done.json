@@ -13,5 +13,19 @@
     "entry_id": "10.1038/s41467-026-75463-1",
     "ts": "Mon Sep 21, 9:48 AM",
     "_note": "already live on the auto-updating lab-publications-site feed; cleared from the dashboard queue"
+  },
+  "10.1039/d5lc00959f": {
+    "title": "Large field of view fluorescence imaging of microfluidic devices with a tandem-lens macroscope",
+    "website": "published",
+    "portal": null,
+    "entry_id": "10.1039/d5lc00959f",
+    "ts": "Thu Oct 8, 6:56 PM"
+  },
+  "10.15252/msb.202311782": {
+    "title": "Phosphatase specificity principles uncovered by MRBLE:Dephos and global substrate identification",
+    "website": "published",
+    "portal": null,
+    "entry_id": "10.15252/msb.202311782",
+    "ts": "Thu Oct 8, 6:56 PM"
   }
 }
