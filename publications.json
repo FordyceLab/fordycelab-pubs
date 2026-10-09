@@ -255,6 +255,34 @@
       "pin": false
     },
     {
+      "id": "https://openalex.org/W4409496840",
+      "doi": "10.1021/acs.analchem.5c00333",
+      "title": "Hydrophilic/Omniphobic Droplet Arrays for High-throughput and Quantitative Enzymology",
+      "authors_html": "Lee, B., Sunden, F., Miller, M.S., Pak, B., Krebber, A., Lutz, S., <strong>Fordyce, P.M.</strong>",
+      "venue": "Analytical Chemistry",
+      "year": 2025,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1021/acs.analchem.5c00333"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Lee2025-Hydrophilic-Omniphobic-Droplet-Arrays-fo.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2024.07.19.604368"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20240719604368v1full.pdf"
+        }
+      ],
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W4416584834",
       "doi": "10.1073/pnas.2509652122",
       "title": "Acoustic printing of conductive polymers",
@@ -350,34 +378,6 @@
         {
           "label": "PDF",
           "url": "https://www.mdpi.com/1422-0067/27/1/156/pdf?version=1766486763"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4409496840",
-      "doi": "10.1021/acs.analchem.5c00333",
-      "title": "Hydrophilic/Omniphobic Droplet Arrays for High-throughput and Quantitative Enzymology",
-      "authors_html": "Lee, B., Sunden, F., Miller, M.S., Pak, B., Krebber, A., Lutz, S., <strong>Fordyce, P.M.</strong>",
-      "venue": "Analytical Chemistry",
-      "year": 2025,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1021/acs.analchem.5c00333"
-        },
-        {
-          "label": "PDF",
-          "url": "https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c00333"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2024.07.19.604368"
-        },
-        {
-          "label": "bioRxiv PDF",
-          "url": "https://www.fordycelab.com/s/20240719604368v1full.pdf"
         }
       ],
       "pin": false

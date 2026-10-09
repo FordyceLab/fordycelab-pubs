@@ -28,34 +28,6 @@
     "preprint_pdf_expected": "Rajesh2025-Functional-Characterization-of-Glucokina-preprint.pdf"
   },
   {
-    "id": "10.1021/acs.analchem.5c00333",
-    "doi": "10.1021/acs.analchem.5c00333",
-    "type": "article",
-    "title": "Hydrophilic/Omniphobic Droplet Arrays for High-throughput and Quantitative Enzymology",
-    "year": 2025,
-    "venue": "Analytical Chemistry",
-    "first_author": "Lee",
-    "authors": [],
-    "web_url": "https://doi.org/10.1021/acs.analchem.5c00333",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.1021/acs.analchem.5c00333",
-    "pdf_publisher_url": "https://pubs.acs.org/doi/pdf/10.1021/acs.analchem.5c00333?ref=article_openPDF",
-    "pdf_expected": "Lee2025-Hydrophilic-Omniphobic-Droplet-Arrays-fo.pdf",
-    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08",
-    "preprint_pdf_expected": "Lee2025-Hydrophilic-Omniphobic-Droplet-Arrays-fo-preprint.pdf"
-  },
-  {
     "id": "10.1016/j.cels.2023.08.002",
     "doi": "10.1016/j.cels.2023.08.002",
     "type": "article",
