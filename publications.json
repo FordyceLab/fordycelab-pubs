@@ -1,7 +1,23 @@
 {
   "updated": "2026-10-08",
-  "count": 82,
+  "count": 83,
   "publications": [
+    {
+      "id": "manual:High-throughput-biochemistry-Methods-and-motivatio",
+      "doi": "",
+      "title": "High-throughput biochemistry: Methods and motivations for measuring equilibrium and\nrate constants at scale",
+      "authors_html": "Almhjell, P.J., Cortez-Romero, C.R., Costello, S.M., &amp; <strong>Fordyce, P.M.</strong>",
+      "venue": "Submitted",
+      "year": 2026,
+      "type": "article",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Almhjell2026-High-throughput-biochemistry-Methods-an.pdf"
+        }
+      ],
+      "pin": false
+    },
     {
       "id": "https://openalex.org/W4406574309",
       "doi": "10.1016/j.cels.2026.101681",
