@@ -28,34 +28,6 @@
     "preprint_pdf_expected": "Rajesh2025-Functional-Characterization-of-Glucokina-preprint.pdf"
   },
   {
-    "id": "10.1016/j.cels.2023.08.002",
-    "doi": "10.1016/j.cels.2023.08.002",
-    "type": "article",
-    "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
-    "year": 2023,
-    "venue": "Cell Systems",
-    "first_author": "Sockell",
-    "authors": [],
-    "web_url": "https://doi.org/10.1016/j.cels.2023.08.002",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.1016/j.cels.2023.08.002",
-    "pdf_publisher_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12126083/pdf/nihms-2083972.pdf",
-    "pdf_expected": "Sockell2023-A-microwell-platform-for-high-throughput.pdf",
-    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08",
-    "preprint_pdf_expected": "Sockell2023-A-microwell-platform-for-high-throughput-preprint.pdf"
-  },
-  {
     "id": "10.1073/pnas.2219074120",
     "doi": "10.1073/pnas.2219074120",
     "type": "article",

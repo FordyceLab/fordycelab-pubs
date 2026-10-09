@@ -491,6 +491,38 @@
       "pin": false
     },
     {
+      "id": "https://openalex.org/W4386885921",
+      "doi": "10.1016/j.cels.2023.08.002",
+      "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
+      "authors_html": "Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C.‡, & <strong>Fordyce, P.M.</strong>‡",
+      "venue": "Cell Systems",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1016/j.cels.2023.08.002"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Sockell2023-A-microwell-platform-for-high-throughput.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.11.01.514733"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/r4s3m/"
+        }
+      ],
+      "pin": false
+    },
+    {
       "id": "https://openalex.org/W4388233463",
       "doi": "10.15252/msb.202311782",
       "title": "Phosphatase specificity principles uncovered by MRBLE:Dephos and global substrate identification",
@@ -518,38 +550,6 @@
         {
           "label": "OSF data",
           "url": "https://osf.io/gys5d/"
-        }
-      ],
-      "pin": false
-    },
-    {
-      "id": "https://openalex.org/W4386885921",
-      "doi": "10.1016/j.cels.2023.08.002",
-      "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
-      "authors_html": "Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C.‡, & <strong>Fordyce, P.M.</strong>‡",
-      "venue": "Cell Systems",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.cels.2023.08.002"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.cell.com/cell-systems/pdf/S2405-4712(23)00241-7.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2022.11.01.514733"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/r4s3m/"
-        },
-        {
-          "label": "bioRxiv PDF",
-          "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
         }
       ],
       "pin": false
