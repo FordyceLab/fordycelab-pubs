@@ -26,7 +26,7 @@ from common import (CFG, DONE, PENDING, PUBS, STATE, authors_html, data_label, d
 PREPRINT_SOURCES = ("biorxiv", "medrxiv", "arxiv", "ssrn", "research square", "chemrxiv", "preprints.org", "osf preprints")
 DATA_SOURCES = ("zenodo", "osf", "open science framework", "figshare", "dryad", "github", "mendeley data")
 SKIP_TYPES = ("dissertation", "dataset", "other", "paratext", "peer-review", "erratum", "editorial", "grant", "libguides", "supplementary-materials")
-SKIP_VENUES = ("digital repository", "zenodo", "figshare", "dryad", "open science framework")
+SKIP_VENUES = ("digital repository", "zenodo", "figshare", "dryad", "open science framework", "osf preprints", "osf.io")
 
 
 def is_polly(name):
@@ -290,7 +290,7 @@ def site_entries():
         out.append({"id": norm_doi(p.get("doi")) or p.get("id", ""), "title_text": p.get("title", ""),
                     "is_preprint": p.get("type") == "preprint", "links": p.get("links", []),
                     "first_author": first_author_of(p.get("authors_html")), "year": p.get("year"),
-                    "venue_text": p.get("venue", "")})
+                    "venue_text": p.get("venue", ""), "num": p.get("num")})
     return out
 
 
@@ -468,6 +468,15 @@ def main():
             if ent:
                 c["merge_into"] = ent["id"]
                 c["merge_note"] = "The published version is already on the site; approving adds the preprint links to that entry."
+        # same paper, same kind, already listed (e.g. an OSF/Zenodo record of a preprint, or a second
+        # index of the same preprint): never list twice - approving only adds any new links
+        if not c.get("merge_into"):
+            ent, sc_ = find_site_entry(entries, title=c["title"], want_preprint=(c["type"] == "preprint"), thresh=0.8)
+            if ent:
+                c["merge_into"] = ent["id"]
+                c["duplicate_of"] = ent["id"]
+                c["merge_note"] = ("⚠️ Looks like the SAME paper already on the site (#%s %s, %s). Saying yes will NOT add a second entry; it only adds new links (e.g. a data repository) to the existing one. Say no if nothing is new." % (
+                    ent.get("num", "?"), ent.get("first_author", "?"), ent.get("year", "?")))
         # existing portal study key for this paper (so a rename can be offered)
         fa = c["authors"][0]["name"] if c.get("authors") else ""
         sur = fmt_author(fa).split(",")[0] if fa else ""

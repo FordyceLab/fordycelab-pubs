@@ -203,9 +203,22 @@ def fetch_pdfs(item):
 
 
 # --------------------------------------------------------------------------- entries
+def same_kind(item, existing):
+    """True when the candidate is the same paper in the same state as the existing entry
+    (duplicate index / OSF record): keep the entry as is and only add new links."""
+    if not existing:
+        return False
+    k = "preprint" if item.get("type") == "preprint" else "article"
+    return existing.get("type") == k
+
+
 def make_links(item, dec, existing):
     links = []
     kind = item.get("type")
+    if same_kind(item, existing):
+        for l in existing.get("links", []):
+            links.append((l.get("label", ""), l.get("url", "")))
+        kind = "same"
     if kind == "preprint":
         links.append(("web", item.get("web_url") or ("https://doi.org/" + item["doi"])))
         if item.get("preprint_pdf_hosted"):
@@ -215,6 +228,8 @@ def make_links(item, dec, existing):
             links.append(("PDF", item["pdf_hosted"]))
         if item.get("web_url"):
             links.append(("web", item["web_url"]))
+    elif kind == "same":
+        pass
     else:
         links.append(("web", item.get("web_url") or ("https://doi.org/" + item["doi"])))
         if item.get("pdf_hosted") or item.get("pdf_publisher_url"):
@@ -226,7 +241,7 @@ def make_links(item, dec, existing):
             if item.get("preprint_pdf_hosted"):
                 links.append(("arXiv PDF" if arx else "bioRxiv PDF", item["preprint_pdf_hosted"]))
     # carry over what the existing entry already had
-    if existing:
+    if existing and kind != "same":
         was_pre = existing.get("type") == "preprint" and kind == "article"
         for l in existing.get("links", []):
             lab, url = l.get("label", ""), l.get("url", "")
@@ -260,6 +275,9 @@ def make_entry(item, dec, existing):
     ah, notes = authors_html(item.get("authors", []))
     authors = strip_num(dec.get("html_override") or (existing or {}).get("authors_html") or ah)
     e = dict(existing or {})
+    if same_kind(item, existing):          # duplicate record of a listed paper: keep its identity, add links only
+        e["links"] = make_links(item, dec, existing)
+        return e
     e.update({
         "id": (existing or {}).get("id") or ("https://doi.org/" + item["doi"] if item.get("doi") else "manual:" + slug(item.get("title", ""), 50)),
         "doi": item.get("doi") or (existing or {}).get("doi", ""),
