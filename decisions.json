@@ -107,5 +107,21 @@
     "ts": "2026-10-20T16:40:05.048716",
     "website_applied": "Tue Oct 20, 4:40 PM",
     "portal_started": "Tue Oct 20, 4:40 PM"
+  },
+  "10.1016/j.jbc.2026.112686": {
+    "website": false,
+    "portal": false,
+    "repo_url": "",
+    "html_override": null,
+    "ts": "2026-10-20T16:40:21.806370",
+    "website_applied": "Tue Oct 20, 4:40 PM"
+  },
+  "10.1177/15578666261491603": {
+    "website": true,
+    "portal": false,
+    "repo_url": "",
+    "html_override": null,
+    "ts": "2026-10-20T16:40:43.346057",
+    "website_applied": "Tue Oct 20, 4:40 PM"
   }
 }

@@ -131,7 +131,27 @@
     "author_notes": [],
     "first_author": "Mandl",
     "seen_first": "2026-10-14",
-    "status": "awaiting your decision"
+    "status": "website: published; portal: skipped",
+    "pdf_expected": "Mandl2026-PrimerDesigner-Designing-Efficient-Prim.pdf",
+    "preprint_pdf_expected": "Mandl2026-PrimerDesigner-Designing-Efficient-Prim-preprint.pdf",
+    "pdf_status": "waiting for the published PDF - upload it here",
+    "website_status": "published",
+    "website_entry_id": "10.1177/15578666261491603",
+    "website_links": [
+      {
+        "label": "web",
+        "url": "https://doi.org/10.1177/15578666261491603",
+        "ok": true,
+        "code": 403,
+        "note": "publisher blocks scripts (HTTP 403) - link kept, spot-check in a browser"
+      }
+    ],
+    "website_notes": [
+      "waiting for the published PDF - upload it here",
+      "unverifiable (bot-blocked) links: web"
+    ],
+    "website_ts": "Tue Oct 20, 4:40 PM",
+    "portal_status": "skipped"
   },
   {
     "id": "W7167300566",
@@ -202,69 +222,7 @@
     ],
     "website_notes": [],
     "website_ts": "Tue Oct 20, 4:40 PM",
-    "portal_status": "downloading the data repository and drafting a proposal (usually 5-20 min)",
+    "portal_status": "downloading https://osf.io/3nkyw",
     "portal_started": "Tue Oct 20, 4:40 PM"
-  },
-  {
-    "id": "10.1016/j.jbc.2026.112686",
-    "doi": "10.1016/j.jbc.2026.112686",
-    "openalex_id": "W7161801942",
-    "title": "Abstract 2285 High-throughput biochemical phenotyping reveals the molecular basis of diseases and allosteric drug inhibition in the protein tyrosine phosphatase SHP2",
-    "year": 2026,
-    "date": "2026-05-01",
-    "type": "article",
-    "venue": "Journal of Biological Chemistry",
-    "authors": [
-      {
-        "name": "Albert A. Lee",
-        "corresponding": false,
-        "openalex_id": "A5002962500"
-      },
-      {
-        "name": "Daniel Alexander Mokhtari",
-        "corresponding": false,
-        "openalex_id": "A5079499900"
-      },
-      {
-        "name": "Emily Egan",
-        "corresponding": false,
-        "openalex_id": "A5126367827"
-      },
-      {
-        "name": "Stephen C. Blacklow",
-        "corresponding": false,
-        "openalex_id": "A5053973336"
-      },
-      {
-        "name": "Daniel Herschlag",
-        "corresponding": false,
-        "openalex_id": "A5076625801"
-      },
-      {
-        "name": "Polly Morrell Fordyce",
-        "corresponding": false,
-        "openalex_id": "A5085863617"
-      }
-    ],
-    "web_url": "https://doi.org/10.1016/j.jbc.2026.112686",
-    "pdf_url": "",
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "OpenAlex"
-    ],
-    "verified": true,
-    "license": "cc-by",
-    "pdf_candidates": [],
-    "skip": false,
-    "portal_existing_keys": [
-      "Lee2025_AnalChem",
-      "Lee2026_bioRxiv_SHP2"
-    ],
-    "authors_html": "Lee, A.A., Mokhtari, D.A., Egan, E., Blacklow, S.C., Herschlag, D., &amp; <strong>Fordyce, P.M.</strong>",
-    "author_notes": [],
-    "first_author": "Lee",
-    "seen_first": "2026-10-14",
-    "status": "awaiting your decision"
   }
 ]

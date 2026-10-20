@@ -1,7 +1,24 @@
 {
   "updated": "2026-10-20",
-  "count": 85,
+  "count": 86,
   "publications": [
+    {
+      "id": "https://doi.org/10.1177/15578666261491603",
+      "doi": "10.1177/15578666261491603",
+      "title": "PrimerDesigner: Designing Efficient Primers for Synthesizing Large Protein Libraries Without Cross-Hybridization",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">86.</span>&nbsp;Mandl, J., Bluestone, M., Longwell, S.A., <strong>Fordyce, P.M.</strong>, &amp; Orenstein, Y.",
+      "venue": "Journal of Computational Biology",
+      "year": 2026,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1177/15578666261491603"
+        }
+      ],
+      "pin": false,
+      "num": 86
+    },
     {
       "id": "manual:Simple-and-multiplexed-tracking-of-bacterial-growt",
       "doi": "",
