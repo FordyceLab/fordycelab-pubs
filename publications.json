@@ -1,7 +1,24 @@
 {
   "updated": "2026-10-20",
-  "count": 84,
+  "count": 85,
   "publications": [
+    {
+      "id": "manual:Simple-and-multiplexed-tracking-of-bacterial-growt",
+      "doi": "",
+      "title": "Simple and multiplexed tracking of bacterial growth in double emulsion droplets",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">85.</span>&nbsp;Cedeno, S.S., <strong>Fordyce, P.M.</strong>, Endy, D., &amp; Thompson, S.",
+      "venue": "OSF Preprints",
+      "year": 2026,
+      "type": "preprint",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://osf.io/3nkyw"
+        }
+      ],
+      "pin": false,
+      "num": 85
+    },
     {
       "id": "https://doi.org/10.17605/osf.io/cfsdg",
       "doi": "10.17605/osf.io/cfsdg",
