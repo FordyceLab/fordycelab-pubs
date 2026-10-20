@@ -1,33 +1,5 @@
 [
   {
-    "id": "10.3390/ijms27010156",
-    "doi": "10.3390/ijms27010156",
-    "type": "article",
-    "title": "Functional Characterization of Glucokinase Variants to Aid Clinical Interpretation of Monogenic Diabetes",
-    "year": 2025,
-    "venue": "International Journal of Molecular Sciences",
-    "first_author": "Rajesh",
-    "authors": [],
-    "web_url": "https://doi.org/10.3390/ijms27010156",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.3390/ijms27010156",
-    "pdf_publisher_url": "https://www.mdpi.com/1422-0067/27/1/156/pdf?version=1766486763",
-    "pdf_expected": "Rajesh2025-Functional-Characterization-of-Glucokina.pdf",
-    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08",
-    "preprint_pdf_expected": "Rajesh2025-Functional-Characterization-of-Glucokina-preprint.pdf"
-  },
-  {
     "id": "10.1126/science.add1250",
     "doi": "10.1126/science.add1250",
     "type": "article",
@@ -112,34 +84,6 @@
     "preprint_pdf_expected": "Doudna2017-How-Will-Kinetics-and-Thermodynamics-Inf-preprint.pdf"
   },
   {
-    "id": "10.1101/gad.242271.114",
-    "doi": "10.1101/gad.242271.114",
-    "type": "article",
-    "title": "How duplicated transcription regulators can diversify to govern the expression of nonoverlapping sets of genes",
-    "year": 2014,
-    "venue": "Genes & Development",
-    "first_author": "Pérez",
-    "authors": [],
-    "web_url": "https://doi.org/10.1101/gad.242271.114",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.1101/gad.242271.114",
-    "pdf_publisher_url": "http://genesdev.cshlp.org/content/28/12/1272.full.pdf",
-    "pdf_expected": "Perez2014-How-duplicated-transcription-regulators.pdf",
-    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08",
-    "preprint_pdf_expected": "Perez2014-How-duplicated-transcription-regulators-preprint.pdf"
-  },
-  {
     "id": "10.1093/nar/gkt259",
     "doi": "10.1093/nar/gkt259",
     "type": "article",
@@ -166,5 +110,232 @@
     "status": "website: published; PDF on publisher site",
     "seen_first": "2026-10-08",
     "preprint_pdf_expected": "Nelson2013-Microfluidic-affinity-and-ChIP-seq-analy-preprint.pdf"
+  },
+  {
+    "id": "10.17605/osf.io/cfsdg",
+    "doi": "10.17605/osf.io/cfsdg",
+    "openalex_id": "W7221362862",
+    "title": "Engineering the mechanosensitivity of single DNA molecules via sequence-multiplexed force spectroscopy",
+    "year": 2026,
+    "date": "2026-10-09",
+    "type": "preprint",
+    "venue": "OSF Preprints",
+    "authors": [
+      {
+        "name": "Matthew DeJong",
+        "corresponding": false,
+        "openalex_id": "A5150161151"
+      },
+      {
+        "name": "Polly Morrell Fordyce",
+        "corresponding": false,
+        "openalex_id": "A5085863617"
+      },
+      {
+        "name": "Alexander R. Dunn",
+        "corresponding": false,
+        "openalex_id": "A5057324568"
+      }
+    ],
+    "web_url": "https://doi.org/10.17605/osf.io/cfsdg",
+    "pdf_url": "",
+    "preprint": null,
+    "data_links": [
+      {
+        "label": "OSF data",
+        "url": "https://osf.io/cfsdg",
+        "source": "OSF Preprints (OSF Preprints)"
+      },
+      {
+        "label": "OSF data",
+        "url": "https://doi.org/10.17605/osf.io/cfsdg",
+        "source": "Open Science Framework"
+      }
+    ],
+    "sources": [
+      "OpenAlex"
+    ],
+    "verified": true,
+    "license": "",
+    "pdf_candidates": [],
+    "skip": false,
+    "portal_existing_keys": [],
+    "authors_html": "DeJong, M., <strong>Fordyce, P.M.</strong>, &amp; Dunn, A.R.",
+    "author_notes": [],
+    "first_author": "DeJong",
+    "seen_first": "2026-10-14",
+    "status": "awaiting your decision"
+  },
+  {
+    "id": "10.1177/15578666261491603",
+    "doi": "10.1177/15578666261491603",
+    "openalex_id": "W7220842502",
+    "title": "PrimerDesigner: Designing Efficient Primers for Synthesizing Large Protein Libraries Without Cross-Hybridization",
+    "year": 2026,
+    "date": "2026-10-07",
+    "type": "article",
+    "venue": "Journal of Computational Biology",
+    "authors": [
+      {
+        "name": "Jonathan Mandl",
+        "corresponding": false,
+        "openalex_id": "A5028441114"
+      },
+      {
+        "name": "Marcus Bluestone",
+        "corresponding": false,
+        "openalex_id": "A5157837798"
+      },
+      {
+        "name": "Scott A. Longwell",
+        "corresponding": false,
+        "openalex_id": "A5060885486"
+      },
+      {
+        "name": "Polly Morrell Fordyce",
+        "corresponding": false,
+        "openalex_id": "A5085863617"
+      },
+      {
+        "name": "Yaron Orenstein",
+        "corresponding": true,
+        "openalex_id": "A5037786810"
+      }
+    ],
+    "web_url": "https://doi.org/10.1177/15578666261491603",
+    "pdf_url": "",
+    "preprint": null,
+    "data_links": [],
+    "sources": [
+      "Google Scholar alert",
+      "OpenAlex"
+    ],
+    "verified": true,
+    "license": "",
+    "pdf_candidates": [],
+    "skip": false,
+    "portal_existing_keys": [],
+    "authors_html": "Mandl, J., Bluestone, M., Longwell, S.A., <strong>Fordyce, P.M.</strong>, &amp; Orenstein, Y.",
+    "author_notes": [],
+    "first_author": "Mandl",
+    "seen_first": "2026-10-14",
+    "status": "awaiting your decision"
+  },
+  {
+    "id": "W7167300566",
+    "doi": "",
+    "openalex_id": "W7167300566",
+    "title": "Simple and multiplexed tracking of bacterial growth in double emulsion droplets",
+    "year": 2026,
+    "date": "2026-07-01",
+    "type": "preprint",
+    "venue": "OSF Preprints",
+    "authors": [
+      {
+        "name": "Sebastian Somolinos Cedeno",
+        "corresponding": false,
+        "openalex_id": "A5135242440"
+      },
+      {
+        "name": "Polly Morrell Fordyce",
+        "corresponding": false,
+        "openalex_id": "A5085863617"
+      },
+      {
+        "name": "Drew Endy",
+        "corresponding": false,
+        "openalex_id": "A5047829117"
+      },
+      {
+        "name": "Samuel Thompson",
+        "corresponding": false,
+        "openalex_id": "A5080200934"
+      }
+    ],
+    "web_url": "https://osf.io/3nkyw",
+    "pdf_url": "",
+    "preprint": null,
+    "data_links": [
+      {
+        "label": "OSF data",
+        "url": "https://osf.io/3nkyw",
+        "source": "OSF Preprints (OSF Preprints)"
+      }
+    ],
+    "sources": [
+      "OpenAlex"
+    ],
+    "verified": true,
+    "license": "",
+    "pdf_candidates": [],
+    "skip": false,
+    "portal_existing_keys": [],
+    "authors_html": "Cedeno, S.S., <strong>Fordyce, P.M.</strong>, Endy, D., &amp; Thompson, S.",
+    "author_notes": [],
+    "first_author": "Cedeno",
+    "seen_first": "2026-10-14",
+    "status": "awaiting your decision"
+  },
+  {
+    "id": "10.1016/j.jbc.2026.112686",
+    "doi": "10.1016/j.jbc.2026.112686",
+    "openalex_id": "W7161801942",
+    "title": "Abstract 2285 High-throughput biochemical phenotyping reveals the molecular basis of diseases and allosteric drug inhibition in the protein tyrosine phosphatase SHP2",
+    "year": 2026,
+    "date": "2026-05-01",
+    "type": "article",
+    "venue": "Journal of Biological Chemistry",
+    "authors": [
+      {
+        "name": "Albert A. Lee",
+        "corresponding": false,
+        "openalex_id": "A5002962500"
+      },
+      {
+        "name": "Daniel Alexander Mokhtari",
+        "corresponding": false,
+        "openalex_id": "A5079499900"
+      },
+      {
+        "name": "Emily Egan",
+        "corresponding": false,
+        "openalex_id": "A5126367827"
+      },
+      {
+        "name": "Stephen C. Blacklow",
+        "corresponding": false,
+        "openalex_id": "A5053973336"
+      },
+      {
+        "name": "Daniel Herschlag",
+        "corresponding": false,
+        "openalex_id": "A5076625801"
+      },
+      {
+        "name": "Polly Morrell Fordyce",
+        "corresponding": false,
+        "openalex_id": "A5085863617"
+      }
+    ],
+    "web_url": "https://doi.org/10.1016/j.jbc.2026.112686",
+    "pdf_url": "",
+    "preprint": null,
+    "data_links": [],
+    "sources": [
+      "OpenAlex"
+    ],
+    "verified": true,
+    "license": "cc-by",
+    "pdf_candidates": [],
+    "skip": false,
+    "portal_existing_keys": [
+      "Lee2025_AnalChem",
+      "Lee2026_bioRxiv_SHP2"
+    ],
+    "authors_html": "Lee, A.A., Mokhtari, D.A., Egan, E., Blacklow, S.C., Herschlag, D., &amp; <strong>Fordyce, P.M.</strong>",
+    "author_notes": [],
+    "first_author": "Lee",
+    "seen_first": "2026-10-14",
+    "status": "awaiting your decision"
   }
 ]

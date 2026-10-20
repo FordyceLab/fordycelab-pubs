@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-20",
   "count": 83,
   "publications": [
     {
@@ -283,10 +283,31 @@
       "num": 72
     },
     {
+      "id": "https://openalex.org/W7116958310",
+      "doi": "10.3390/ijms27010156",
+      "title": "Functional Characterization of Glucokinase Variants to Aid Clinical Interpretation of Monogenic Diabetes",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">71.</span>&nbsp;Rajesh, V., Ibarra, D.E., Yang, J., Zhang, H., Barrett, A., Kaplan, E.L., Kumthekar, A., Sunden, F., SUN, H., Addala, A., Misakian, A.L., Letourneau, L.R., Jodarski, C., Maloney, K.A., Saint‐Martin, C., <strong>Fordyce, P.M.</strong>, Pollin, T.I., Gloyn, A.L.",
+      "venue": "International Journal of Molecular Sciences",
+      "year": 2025,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.3390/ijms27010156"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Rajesh2025-Functional-Characterization-of-Glucokina.pdf"
+        }
+      ],
+      "pin": false,
+      "num": 71
+    },
+    {
       "id": "https://openalex.org/W4409496840",
       "doi": "10.1021/acs.analchem.5c00333",
       "title": "Hydrophilic/Omniphobic Droplet Arrays for High-throughput and Quantitative Enzymology",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">71.</span>&nbsp;Lee, B., Sunden, F., Miller, M.S., Pak, B., Krebber, A., Lutz, S., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">70.</span>&nbsp;Lee, B., Sunden, F., Miller, M.S., Pak, B., Krebber, A., Lutz, S., <strong>Fordyce, P.M.</strong>",
       "venue": "Analytical Chemistry",
       "year": 2025,
       "type": "article",
@@ -309,13 +330,13 @@
         }
       ],
       "pin": false,
-      "num": 71
+      "num": 70
     },
     {
       "id": "https://openalex.org/W4416584834",
       "doi": "10.1073/pnas.2509652122",
       "title": "Acoustic printing of conductive polymers",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">70.</span>&nbsp;Trepka, E.B.*, Cooper, L.*, Brinson, K.*, Thompson, S., Malinao, M.G., Rommelfanger, N.J., <strong>Fordyce, P.M.</strong>, Hong, G.",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">69.</span>&nbsp;Trepka, E.B.*, Cooper, L.*, Brinson, K.*, Thompson, S., Malinao, M.G., Rommelfanger, N.J., <strong>Fordyce, P.M.</strong>, Hong, G.",
       "venue": "Proceedings of the National Academy of Sciences",
       "year": 2025,
       "type": "article",
@@ -334,13 +355,13 @@
         }
       ],
       "pin": false,
-      "num": 70
+      "num": 69
     },
     {
       "id": "https://openalex.org/W4411936964",
       "doi": "10.1021/acs.analchem.5c01536",
       "title": "Continuous FACS Sorting of Double Emulsion Picoreactors with a 3D-Printed Vertical Mixer",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">69.</span>&nbsp;Yang, Z.*‡, Thompson, S.*‡, Zhang, Y., Rutten, I., Van Duyse, J., Van Isterdael, G., Nichols, L., Lammertyn, J., Soh, H.T., & <strong>Fordyce, P.M.</strong>‡",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">68.</span>&nbsp;Yang, Z.*‡, Thompson, S.*‡, Zhang, Y., Rutten, I., Van Duyse, J., Van Isterdael, G., Nichols, L., Lammertyn, J., Soh, H.T., & <strong>Fordyce, P.M.</strong>‡",
       "venue": "Analytical Chemistry",
       "year": 2025,
       "type": "article",
@@ -363,13 +384,13 @@
         }
       ],
       "pin": false,
-      "num": 69
+      "num": 68
     },
     {
       "id": "https://openalex.org/W4411206238",
       "doi": "10.1038/s41586-025-09090-z",
       "title": "Discovery of FoTO1 and Taxol genes enables biosynthesis of baccatin III",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">68.</span>&nbsp;McClune, C.J.*, Liu, J.C.*, Wick, C., Peña, R.D.L., Lange, B.M., <strong>Fordyce, P.M.</strong>, Sattely, E.S.",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">67.</span>&nbsp;McClune, C.J.*, Liu, J.C.*, Wick, C., Peña, R.D.L., Lange, B.M., <strong>Fordyce, P.M.</strong>, Sattely, E.S.",
       "venue": "Nature",
       "year": 2025,
       "type": "article",
@@ -389,27 +410,6 @@
         {
           "label": "bioRxiv PDF",
           "url": "https://www.fordycelab.com/s/20241106622305v2full.pdf"
-        }
-      ],
-      "pin": false,
-      "num": 68
-    },
-    {
-      "id": "https://openalex.org/W7116958310",
-      "doi": "10.3390/ijms27010156",
-      "title": "Functional Characterization of Glucokinase Variants to Aid Clinical Interpretation of Monogenic Diabetes",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">67.</span>&nbsp;Rajesh, V., Ibarra, D.E., Yang, J., Zhang, H., Barrett, A., Kaplan, E.L., Kumthekar, A., Sunden, F., SUN, H., Addala, A., Misakian, A.L., Letourneau, L.R., Jodarski, C., Maloney, K.A., Saint‐Martin, C., <strong>Fordyce, P.M.</strong>, Pollin, T.I., Gloyn, A.L.",
-      "venue": "International Journal of Molecular Sciences",
-      "year": 2025,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.3390/ijms27010156"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.mdpi.com/1422-0067/27/1/156/pdf?version=1766486763"
         }
       ],
       "pin": false,
@@ -1712,7 +1712,7 @@
         },
         {
           "label": "PDF",
-          "url": "http://genesdev.cshlp.org/content/28/12/1272.full.pdf"
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Perez2014-How-duplicated-transcription-regulators.pdf"
         }
       ],
       "pin": false,
