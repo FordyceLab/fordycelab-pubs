@@ -1132,10 +1132,43 @@
       "num": 41
     },
     {
+      "id": "https://openalex.org/W3024434553",
+      "doi": "10.1039/d0lc00261e",
+      "title": "Double emulsion flow cytometry with high-throughput single droplet isolation and nucleic acid recovery",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">40.</span>&nbsp;Brower, K.K., Carswell-Crumpton, C., Klemm, S.L., Cruz, B.N., Kim, G., Calhoun, S.G.K., Nichols, L.A., <strong>Fordyce, P.M.</strong>",
+      "venue": "Lab on a Chip",
+      "year": 2020,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1039/d0lc00261e"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Brower2020-Double-emulsion-flow-cytometry-with-high.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/803460"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/Optimized_double_emulsion_flow_cytometry_with_high.pdf"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/3au4v/"
+        }
+      ],
+      "pin": false,
+      "num": 40
+    },
+    {
       "id": "https://openalex.org/W3010874562",
       "doi": "10.1093/bioinformatics/btaa162",
       "title": "DeCoDe: degenerate codon design for complete protein-coding DNA libraries",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">40.</span>&nbsp;Shimko, T.C., <strong>Fordyce, P.M.</strong>, Orenstein, Y.",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">39.</span>&nbsp;Shimko, T.C., <strong>Fordyce, P.M.</strong>, Orenstein, Y.",
       "venue": "Bioinformatics",
       "year": 2020,
       "type": "article",
@@ -1151,39 +1184,6 @@
         {
           "label": "bioRxiv",
           "url": "https://doi.org/10.1101/809004"
-        }
-      ],
-      "pin": false,
-      "num": 40
-    },
-    {
-      "id": "https://openalex.org/W3024434553",
-      "doi": "10.1039/d0lc00261e",
-      "title": "Double emulsion flow cytometry with high-throughput single droplet isolation and nucleic acid recovery",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">39.</span>&nbsp;Brower, K.K., Carswell-Crumpton, C., Klemm, S.L., Cruz, B.N., Kim, G., Calhoun, S.G.K., Nichols, L.A., <strong>Fordyce, P.M.</strong>",
-      "venue": "Lab on a Chip",
-      "year": 2020,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1039/d0lc00261e"
-        },
-        {
-          "label": "PDF",
-          "url": "https://pubs.rsc.org/en/content/articlepdf/2020/lc/d0lc00261e"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/803460"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/3au4v/"
-        },
-        {
-          "label": "bioRxiv PDF",
-          "url": "https://www.fordycelab.com/s/Optimized_double_emulsion_flow_cytometry_with_high.pdf"
         }
       ],
       "pin": false,

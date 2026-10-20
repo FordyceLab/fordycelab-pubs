@@ -1,33 +1,5 @@
 [
   {
-    "id": "10.1039/d0lc00261e",
-    "doi": "10.1039/d0lc00261e",
-    "type": "article",
-    "title": "Double emulsion flow cytometry with high-throughput single droplet isolation and nucleic acid recovery",
-    "year": 2020,
-    "venue": "Lab on a Chip",
-    "first_author": "Brower",
-    "authors": [],
-    "web_url": "https://doi.org/10.1039/d0lc00261e",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.1039/d0lc00261e",
-    "pdf_publisher_url": "https://pubs.rsc.org/en/content/articlepdf/2020/lc/d0lc00261e",
-    "pdf_expected": "Brower2020-Double-emulsion-flow-cytometry-with-high.pdf",
-    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08",
-    "preprint_pdf_expected": "Brower2020-Double-emulsion-flow-cytometry-with-high-preprint.pdf"
-  },
-  {
     "id": "10.1016/j.cels.2017.02.005",
     "doi": "10.1016/j.cels.2017.02.005",
     "type": "article",
