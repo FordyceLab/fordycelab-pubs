@@ -52,11 +52,11 @@
     "author_notes": [],
     "first_author": "DeJong",
     "seen_first": "2026-10-14",
-    "status": "website: published; portal: downloading the data repository and drafting a proposal (usually 5-20 min)",
+    "status": "duplicate of an existing entry - links merged into #78; proposal failed: claude exited 1: ",
     "pdf_expected": "DeJong2026-Engineering-the-mechanosensitivity-of-si.pdf",
     "preprint_pdf_expected": "DeJong2026-Engineering-the-mechanosensitivity-of-si-preprint.pdf",
     "website_status": "published",
-    "website_entry_id": "10.17605/osf.io/cfsdg",
+    "website_entry_id": "10.64898/2026.02.24.707783",
     "website_links": [
       {
         "label": "web",
@@ -75,8 +75,10 @@
     ],
     "website_notes": [],
     "website_ts": "Tue Oct 20, 4:39 PM",
-    "portal_status": "downloading https://osf.io/cfsdg",
-    "portal_started": "Tue Oct 20, 4:39 PM"
+    "portal_status": "proposal failed: claude exited 1: ",
+    "portal_started": "Tue Oct 20, 4:39 PM",
+    "merge_into": "10.64898/2026.02.24.707783",
+    "duplicate_of": "10.64898/2026.02.24.707783"
   },
   {
     "id": "W7167300566",
@@ -147,7 +149,7 @@
     ],
     "website_notes": [],
     "website_ts": "Tue Oct 20, 4:40 PM",
-    "portal_status": "downloading https://osf.io/3nkyw",
+    "portal_status": "proposal failed: claude exited 1: ⚠ claude.ai connectors are disabled because ANTHROPIC_API_KEY or another auth source is set and takes precedence over your claude.ai login · Unset it to load your organization's connectors\n",
     "portal_started": "Tue Oct 20, 4:40 PM"
   }
 ]

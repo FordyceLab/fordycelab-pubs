@@ -6,7 +6,7 @@
       "id": "https://doi.org/10.1177/15578666261491603",
       "doi": "10.1177/15578666261491603",
       "title": "PrimerDesigner: Designing Efficient Primers for Synthesizing Large Protein Libraries Without Cross-Hybridization",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">86.</span>&nbsp;Mandl, J., Bluestone, M., Longwell, S.A., <strong>Fordyce, P.M.</strong>, &amp; Orenstein, Y.",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">85.</span>&nbsp;Mandl, J., Bluestone, M., Longwell, S.A., <strong>Fordyce, P.M.</strong>, &amp; Orenstein, Y.",
       "venue": "Journal of Computational Biology",
       "year": 2026,
       "type": "article",
@@ -21,13 +21,13 @@
         }
       ],
       "pin": false,
-      "num": 86
+      "num": 85
     },
     {
       "id": "manual:Simple-and-multiplexed-tracking-of-bacterial-growt",
       "doi": "",
       "title": "Simple and multiplexed tracking of bacterial growth in double emulsion droplets",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">85.</span>&nbsp;Cedeno, S.S., <strong>Fordyce, P.M.</strong>, Endy, D., &amp; Thompson, S.",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">84.</span>&nbsp;Cedeno, S.S., <strong>Fordyce, P.M.</strong>, Endy, D., &amp; Thompson, S.",
       "venue": "OSF Preprints",
       "year": 2026,
       "type": "preprint",
@@ -35,27 +35,6 @@
         {
           "label": "web",
           "url": "https://osf.io/3nkyw"
-        }
-      ],
-      "pin": false,
-      "num": 85
-    },
-    {
-      "id": "https://doi.org/10.17605/osf.io/cfsdg",
-      "doi": "10.17605/osf.io/cfsdg",
-      "title": "Engineering the mechanosensitivity of single DNA molecules via sequence-multiplexed force spectroscopy",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">84.</span>&nbsp;DeJong, M., <strong>Fordyce, P.M.</strong>, &amp; Dunn, A.R.",
-      "venue": "OSF Preprints",
-      "year": 2026,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.17605/osf.io/cfsdg"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/cfsdg"
         }
       ],
       "pin": false,
@@ -210,6 +189,14 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/20260224707783v1full.pdf"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://doi.org/10.17605/osf.io/cfsdg"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/cfsdg"
         }
       ],
       "pin": false,
