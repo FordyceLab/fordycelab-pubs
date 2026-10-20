@@ -100,7 +100,7 @@
         },
         {
           "label": "OSF data",
-          "url": "https://osf.io/dy5xp/overview"
+          "url": "https://osf.io/dy5xp/"
         }
       ],
       "pin": false,
@@ -175,11 +175,7 @@
         },
         {
           "label": "OSF data",
-          "url": "https://doi.org/10.17605/osf.io/cfsdg"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/cfsdg"
+          "url": "https://osf.io/cfsdg/"
         }
       ],
       "pin": false,
@@ -246,7 +242,7 @@
         },
         {
           "label": "OSF data",
-          "url": "https://osf.io/3nkyw"
+          "url": "https://osf.io/3nkyw/"
         }
       ],
       "pin": false,
