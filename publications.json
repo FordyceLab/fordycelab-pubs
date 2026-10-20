@@ -528,247 +528,10 @@
       "num": 63
     },
     {
-      "id": "https://openalex.org/W4383753294",
-      "doi": "10.1073/pnas.2219074120",
-      "title": "Decoupling of catalysis and transition state analog binding from mutations throughout a phosphatase revealed by high-throughput enzymology",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">62.</span>&nbsp;Markin, C.J., Mokhtari, D.A., Du, S., Doukov, T., Sunden, F., <strong>Fordyce, P.M.</strong>‡, & Herschlag, D.‡",
-      "venue": "Proceedings of the National Academy of Sciences",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1073/pnas.2219074120"
-        },
-        {
-          "label": "PDF",
-          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Markin2023-Decoupling-of-catalysis-and-transition-s.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2022.11.07.515533"
-        }
-      ],
-      "pin": false,
-      "num": 62
-    },
-    {
-      "id": "https://openalex.org/W4386885921",
-      "doi": "10.1016/j.cels.2023.08.002",
-      "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">61.</span>&nbsp;Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C.‡, & <strong>Fordyce, P.M.</strong>‡",
-      "venue": "Cell Systems",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.cels.2023.08.002"
-        },
-        {
-          "label": "PDF",
-          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Sockell2023-A-microwell-platform-for-high-throughput.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2022.11.01.514733"
-        },
-        {
-          "label": "bioRxiv PDF",
-          "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/r4s3m/"
-        }
-      ],
-      "pin": false,
-      "num": 61
-    },
-    {
-      "id": "https://openalex.org/W4388233463",
-      "doi": "10.15252/msb.202311782",
-      "title": "Phosphatase specificity principles uncovered by MRBLE:Dephos and global substrate identification",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">60.</span>&nbsp;Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>‡, & Nilsson, J.‡",
-      "venue": "Molecular Systems Biology",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.15252/msb.202311782"
-        },
-        {
-          "label": "PDF",
-          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Hein2023-Phosphatase-specificity-principles-uncov.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2023.05.14.540683"
-        },
-        {
-          "label": "bioRxiv PDF",
-          "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
-        },
-        {
-          "label": "OSF data",
-          "url": "https://osf.io/gys5d/"
-        }
-      ],
-      "pin": false,
-      "num": 60
-    },
-    {
-      "id": "https://openalex.org/W4313476900",
-      "doi": "10.1021/acs.analchem.2c03475",
-      "title": "Alleviating Cell Lysate-Induced Inhibition to Enable RT-PCR from Single Cells in Picoliter-Volume Double Emulsion Droplets",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">59.</span>&nbsp;Khariton, M.*, McClune, C.J.*, Brower, K.K., Klemm, S., Sattely, E., <strong>Fordyce, P.M.</strong>‡, & Wang, B.‡",
-      "venue": "Analytical Chemistry",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1021/acs.analchem.2c03475"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/acsanalchem2c03475.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2022.08.16.504154"
-        }
-      ],
-      "pin": false,
-      "num": 59
-    },
-    {
-      "id": "https://openalex.org/W4376280271",
-      "doi": "10.1101/2023.05.11.540401",
-      "title": "De novo distillation of thermodynamic affinity from deep learning regulatory sequence models of in vivo protein-DNA binding",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">58.</span>&nbsp;Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>‡, & Kundaje, A.‡",
-      "venue": "bioRxiv",
-      "year": 2023,
-      "type": "preprint",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1101/2023.05.11.540401"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/20230511540401v1full.pdf"
-        }
-      ],
-      "pin": false,
-      "num": 58
-    },
-    {
-      "id": "https://openalex.org/W4376115182",
-      "doi": "10.1038/s43705-023-00241-9",
-      "title": "Double emulsions as a high-throughput enrichment and isolation platform for slower-growing microbes",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">57.</span>&nbsp;McCully, A.L., Yao, M.L., Brower, K.K., <strong>Fordyce, P.M.</strong>, Spormann, A.M.",
-      "venue": "ISME Communications",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1038/s43705-023-00241-9"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/s43705-023-00241-9.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2022.10.23.513397"
-        }
-      ],
-      "pin": false,
-      "num": 57
-    },
-    {
-      "id": "https://openalex.org/W4362607738",
-      "doi": "10.1038/s41586-023-05906-y",
-      "title": "Large-scale mapping and mutagenesis of human transcriptional effector domains",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">56.</span>&nbsp;DelRosso, N.V., Tycko, J., Suzuki, P., Andrews, C.J., Aradhana, Mukund, A.X., Liongson, I., Ludwig, C., Spees, K.K., <strong>Fordyce, P.M.</strong>, Bassik, M.C., Bintu, L.",
-      "venue": "Nature",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1038/s41586-023-05906-y"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/s41586-023-05906-y.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/2022.08.26.505496"
-        }
-      ],
-      "pin": false,
-      "num": 56
-    },
-    {
-      "id": "https://openalex.org/W4360612579",
-      "doi": "10.1016/j.jbiosc.2023.03.001",
-      "title": "Microfluidic encapsulation of photosynthetic cyanobacteria in hydrogel microparticles augments oxygen delivery to rescue ischemic myocardium",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">55.</span>&nbsp;Stapleton, L.M., Farry, J.M., Lucian, H.J., Wang, H., Paulson, M.J., Totherow, K.P., Roth, G.A., Brower, K.K., <strong>Fordyce, P.M.</strong>, Appel, E.A.*, & Woo, Y.J.*",
-      "venue": "Journal of Bioscience and Bioengineering",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.jbiosc.2023.03.001"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/1-s20-S1389172323000737-main.pdf"
-        }
-      ],
-      "pin": false,
-      "num": 55
-    },
-    {
-      "id": "https://openalex.org/W4360599575",
-      "doi": "10.1093/nar/gkad207",
-      "title": "On the dependent recognition of some long zinc finger proteins",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">54.</span>&nbsp;Zuo, Z., Billings, T., Walker, M., Petkov, P.M., <strong>Fordyce, P.M.</strong>, Stormo, G.D.",
-      "venue": "Nucleic Acids Research",
-      "year": 2023,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1093/nar/gkad207"
-        },
-        {
-          "label": "PDF",
-          "url": "https://www.fordycelab.com/s/gkad207.pdf"
-        },
-        {
-          "label": "bioRxiv",
-          "url": "https://doi.org/10.1101/637298"
-        },
-        {
-          "label": "Zenodo",
-          "url": "https://zenodo.org/records/7711887"
-        }
-      ],
-      "pin": false,
-      "num": 54
-    },
-    {
       "id": "https://openalex.org/W4386917535",
       "doi": "10.1126/science.add1250",
       "title": "Short tandem repeats bind transcription factors to tune eukaryotic gene expression",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">53.</span>&nbsp;Horton, C.A., Alexandari, A.M.*, Hayes, M.G.*, Marklund, E.*, Schaepe, J.M.*, Aditham, A.K., Shah, N., Suzuki, P., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">62.</span>&nbsp;Horton, C.A., Alexandari, A.M.*, Hayes, M.G.*, Marklund, E.*, Schaepe, J.M.*, Aditham, A.K., Shah, N., Suzuki, P., Shrikumar, A., Afek, A., Greenleaf, W.J., Gordân, R., Zeitlinger, J., Kundaje, A., <strong>Fordyce, P.M.</strong>",
       "venue": "Science",
       "year": 2023,
       "type": "article",
@@ -779,7 +542,7 @@
         },
         {
           "label": "PDF",
-          "url": "https://www.science.org/doi/pdf/10.1126/science.add1250"
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Horton2023-Short-tandem-repeats-bind-transcription.pdf"
         },
         {
           "label": "bioRxiv",
@@ -813,6 +576,243 @@
           "url": "https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/"
         }
       ],
+      "num": 62
+    },
+    {
+      "id": "https://openalex.org/W4383753294",
+      "doi": "10.1073/pnas.2219074120",
+      "title": "Decoupling of catalysis and transition state analog binding from mutations throughout a phosphatase revealed by high-throughput enzymology",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">61.</span>&nbsp;Markin, C.J., Mokhtari, D.A., Du, S., Doukov, T., Sunden, F., <strong>Fordyce, P.M.</strong>‡, & Herschlag, D.‡",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1073/pnas.2219074120"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Markin2023-Decoupling-of-catalysis-and-transition-s.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.11.07.515533"
+        }
+      ],
+      "pin": false,
+      "num": 61
+    },
+    {
+      "id": "https://openalex.org/W4386885921",
+      "doi": "10.1016/j.cels.2023.08.002",
+      "title": "A microwell platform for high-throughput longitudinal phenotyping and selective retrieval of organoids",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">60.</span>&nbsp;Sockell, A., Wong, W., Longwell, S., Vu, T., Karlsson, K., Mokhtari, D., Schaepe, J., Lo, Y.-H., Cornelius, V., Kuo, C., Van Valen, D., Curtis, C.‡, & <strong>Fordyce, P.M.</strong>‡",
+      "venue": "Cell Systems",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1016/j.cels.2023.08.002"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Sockell2023-A-microwell-platform-for-high-throughput.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.11.01.514733"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20221101514733v1full.pdf"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/r4s3m/"
+        }
+      ],
+      "pin": false,
+      "num": 60
+    },
+    {
+      "id": "https://openalex.org/W4388233463",
+      "doi": "10.15252/msb.202311782",
+      "title": "Phosphatase specificity principles uncovered by MRBLE:Dephos and global substrate identification",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">59.</span>&nbsp;Hein, J.B., Nguyen, H.T., Garvanska, D., Nasa, I., Feng, Y., Lopez-Mendez, B., Davey, N.E., Kettenbach, A., <strong>Fordyce, P.M.</strong>‡, & Nilsson, J.‡",
+      "venue": "Molecular Systems Biology",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.15252/msb.202311782"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Hein2023-Phosphatase-specificity-principles-uncov.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2023.05.14.540683"
+        },
+        {
+          "label": "bioRxiv PDF",
+          "url": "https://www.fordycelab.com/s/20230514540683v1full.pdf"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/gys5d/"
+        }
+      ],
+      "pin": false,
+      "num": 59
+    },
+    {
+      "id": "https://openalex.org/W4313476900",
+      "doi": "10.1021/acs.analchem.2c03475",
+      "title": "Alleviating Cell Lysate-Induced Inhibition to Enable RT-PCR from Single Cells in Picoliter-Volume Double Emulsion Droplets",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">58.</span>&nbsp;Khariton, M.*, McClune, C.J.*, Brower, K.K., Klemm, S., Sattely, E., <strong>Fordyce, P.M.</strong>‡, & Wang, B.‡",
+      "venue": "Analytical Chemistry",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1021/acs.analchem.2c03475"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/acsanalchem2c03475.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.08.16.504154"
+        }
+      ],
+      "pin": false,
+      "num": 58
+    },
+    {
+      "id": "https://openalex.org/W4376280271",
+      "doi": "10.1101/2023.05.11.540401",
+      "title": "De novo distillation of thermodynamic affinity from deep learning regulatory sequence models of in vivo protein-DNA binding",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">57.</span>&nbsp;Alexandari, A.M., Horton, C.A., Shrikumar, A., Shah, N., Li, E., Weilert, M., Pufall, M.A., Zeitlinger, J., <strong>Fordyce, P.M.</strong>‡, & Kundaje, A.‡",
+      "venue": "bioRxiv",
+      "year": 2023,
+      "type": "preprint",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1101/2023.05.11.540401"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/20230511540401v1full.pdf"
+        }
+      ],
+      "pin": false,
+      "num": 57
+    },
+    {
+      "id": "https://openalex.org/W4376115182",
+      "doi": "10.1038/s43705-023-00241-9",
+      "title": "Double emulsions as a high-throughput enrichment and isolation platform for slower-growing microbes",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">56.</span>&nbsp;McCully, A.L., Yao, M.L., Brower, K.K., <strong>Fordyce, P.M.</strong>, Spormann, A.M.",
+      "venue": "ISME Communications",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1038/s43705-023-00241-9"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/s43705-023-00241-9.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.10.23.513397"
+        }
+      ],
+      "pin": false,
+      "num": 56
+    },
+    {
+      "id": "https://openalex.org/W4362607738",
+      "doi": "10.1038/s41586-023-05906-y",
+      "title": "Large-scale mapping and mutagenesis of human transcriptional effector domains",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">55.</span>&nbsp;DelRosso, N.V., Tycko, J., Suzuki, P., Andrews, C.J., Aradhana, Mukund, A.X., Liongson, I., Ludwig, C., Spees, K.K., <strong>Fordyce, P.M.</strong>, Bassik, M.C., Bintu, L.",
+      "venue": "Nature",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1038/s41586-023-05906-y"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/s41586-023-05906-y.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/2022.08.26.505496"
+        }
+      ],
+      "pin": false,
+      "num": 55
+    },
+    {
+      "id": "https://openalex.org/W4360612579",
+      "doi": "10.1016/j.jbiosc.2023.03.001",
+      "title": "Microfluidic encapsulation of photosynthetic cyanobacteria in hydrogel microparticles augments oxygen delivery to rescue ischemic myocardium",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">54.</span>&nbsp;Stapleton, L.M., Farry, J.M., Lucian, H.J., Wang, H., Paulson, M.J., Totherow, K.P., Roth, G.A., Brower, K.K., <strong>Fordyce, P.M.</strong>, Appel, E.A.*, & Woo, Y.J.*",
+      "venue": "Journal of Bioscience and Bioengineering",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1016/j.jbiosc.2023.03.001"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/1-s20-S1389172323000737-main.pdf"
+        }
+      ],
+      "pin": false,
+      "num": 54
+    },
+    {
+      "id": "https://openalex.org/W4360599575",
+      "doi": "10.1093/nar/gkad207",
+      "title": "On the dependent recognition of some long zinc finger proteins",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">53.</span>&nbsp;Zuo, Z., Billings, T., Walker, M., Petkov, P.M., <strong>Fordyce, P.M.</strong>, Stormo, G.D.",
+      "venue": "Nucleic Acids Research",
+      "year": 2023,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1093/nar/gkad207"
+        },
+        {
+          "label": "PDF",
+          "url": "https://www.fordycelab.com/s/gkad207.pdf"
+        },
+        {
+          "label": "bioRxiv",
+          "url": "https://doi.org/10.1101/637298"
+        },
+        {
+          "label": "Zenodo",
+          "url": "https://zenodo.org/records/7711887"
+        }
+      ],
+      "pin": false,
       "num": 53
     },
     {
