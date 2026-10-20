@@ -1740,10 +1740,31 @@
       "num": 17
     },
     {
+      "id": "https://openalex.org/W2147962558",
+      "doi": "10.1093/nar/gkt259",
+      "title": "Microfluidic affinity and ChIP-seq analyses converge on a conserved FOXP2-binding motif in chimp and human, which enables the detection of evolutionarily novel targets",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">16.</span>&nbsp;Nelson, C.S., Fuller, C.K., <strong>Fordyce, P.M.</strong>, Greninger, A.L., Li, H., DeRisi, J.L.",
+      "venue": "Nucleic Acids Research",
+      "year": 2013,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1093/nar/gkt259"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Nelson2013-Microfluidic-affinity-and-ChIP-seq-analy.pdf"
+        }
+      ],
+      "pin": false,
+      "num": 16
+    },
+    {
       "id": "https://openalex.org/W2065506329",
       "doi": "10.1073/pnas.1221734110",
       "title": "Identification and characterization of a previously undescribed family of sequence-specific DNA-binding domains",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">16.</span>&nbsp;Lohse, M.B.*, Hernday, A.D.*, <strong>Fordyce, P.M.</strong>, Noiman, L., Sorrells, T.R., Hanson-Smith, V., Nobile, C.J., DeRisi, J.L., Johnson, A.D.",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">15.</span>&nbsp;Lohse, M.B.*, Hernday, A.D.*, <strong>Fordyce, P.M.</strong>, Noiman, L., Sorrells, T.R., Hanson-Smith, V., Nobile, C.J., DeRisi, J.L., Johnson, A.D.",
       "venue": "Proceedings of the National Academy of Sciences",
       "year": 2013,
       "type": "article",
@@ -1755,27 +1776,6 @@
         {
           "label": "PDF",
           "url": "https://www.fordycelab.com/s/lohse-et-al-2013-identification-and-characterization-of-a-previously-undescribed-family-of-sequence.pdf"
-        }
-      ],
-      "pin": false,
-      "num": 16
-    },
-    {
-      "id": "https://openalex.org/W2147962558",
-      "doi": "10.1093/nar/gkt259",
-      "title": "Microfluidic affinity and ChIP-seq analyses converge on a conserved FOXP2-binding motif in chimp and human, which enables the detection of evolutionarily novel targets",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">15.</span>&nbsp;Nelson, C.S., Fuller, C.K., <strong>Fordyce, P.M.</strong>, Greninger, A.L., Li, H., DeRisi, J.L.",
-      "venue": "Nucleic Acids Research",
-      "year": 2013,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1093/nar/gkt259"
-        },
-        {
-          "label": "PDF",
-          "url": "https://academic.oup.com/nar/article-pdf/41/12/5991/16951201/gkt259.pdf"
         }
       ],
       "pin": false,

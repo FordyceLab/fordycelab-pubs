@@ -1,33 +1,5 @@
 [
   {
-    "id": "10.1093/nar/gkt259",
-    "doi": "10.1093/nar/gkt259",
-    "type": "article",
-    "title": "Microfluidic affinity and ChIP-seq analyses converge on a conserved FOXP2-binding motif in chimp and human, which enables the detection of evolutionarily novel targets",
-    "year": 2013,
-    "venue": "Nucleic Acids Research",
-    "first_author": "Nelson",
-    "authors": [],
-    "web_url": "https://doi.org/10.1093/nar/gkt259",
-    "pdf_url": "",
-    "pdf_candidates": [],
-    "preprint": null,
-    "data_links": [],
-    "sources": [
-      "site: PDF on publisher site"
-    ],
-    "verified": true,
-    "merge_into": null,
-    "website_status": "published",
-    "website_entry_id": "10.1093/nar/gkt259",
-    "pdf_publisher_url": "https://academic.oup.com/nar/article-pdf/41/12/5991/16951201/gkt259.pdf",
-    "pdf_expected": "Nelson2013-Microfluidic-affinity-and-ChIP-seq-analy.pdf",
-    "pdf_status": "the PDF button points at the publisher's PDF (may need a subscription); upload your copy to host it here",
-    "status": "website: published; PDF on publisher site",
-    "seen_first": "2026-10-08",
-    "preprint_pdf_expected": "Nelson2013-Microfluidic-affinity-and-ChIP-seq-analy-preprint.pdf"
-  },
-  {
     "id": "10.17605/osf.io/cfsdg",
     "doi": "10.17605/osf.io/cfsdg",
     "openalex_id": "W7221362862",
