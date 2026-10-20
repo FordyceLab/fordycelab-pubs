@@ -14,6 +14,10 @@
         {
           "label": "web",
           "url": "https://doi.org/10.1177/15578666261491603"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Mandl2026-PrimerDesigner-Designing-Efficient-Prim.pdf"
         }
       ],
       "pin": false,
