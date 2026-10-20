@@ -52,7 +52,31 @@
     "author_notes": [],
     "first_author": "DeJong",
     "seen_first": "2026-10-14",
-    "status": "awaiting your decision"
+    "status": "website: published; portal: downloading the data repository and drafting a proposal (usually 5-20 min)",
+    "pdf_expected": "DeJong2026-Engineering-the-mechanosensitivity-of-si.pdf",
+    "preprint_pdf_expected": "DeJong2026-Engineering-the-mechanosensitivity-of-si-preprint.pdf",
+    "website_status": "published",
+    "website_entry_id": "10.17605/osf.io/cfsdg",
+    "website_links": [
+      {
+        "label": "web",
+        "url": "https://doi.org/10.17605/osf.io/cfsdg",
+        "ok": true,
+        "code": 200,
+        "note": ""
+      },
+      {
+        "label": "OSF data",
+        "url": "https://osf.io/cfsdg",
+        "ok": true,
+        "code": 200,
+        "note": ""
+      }
+    ],
+    "website_notes": [],
+    "website_ts": "Tue Oct 20, 4:39 PM",
+    "portal_status": "downloading the data repository and drafting a proposal (usually 5-20 min)",
+    "portal_started": "Tue Oct 20, 4:39 PM"
   },
   {
     "id": "10.1177/15578666261491603",

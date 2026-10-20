@@ -1,7 +1,28 @@
 {
   "updated": "2026-10-20",
-  "count": 83,
+  "count": 84,
   "publications": [
+    {
+      "id": "https://doi.org/10.17605/osf.io/cfsdg",
+      "doi": "10.17605/osf.io/cfsdg",
+      "title": "Engineering the mechanosensitivity of single DNA molecules via sequence-multiplexed force spectroscopy",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">84.</span>&nbsp;DeJong, M., <strong>Fordyce, P.M.</strong>, &amp; Dunn, A.R.",
+      "venue": "OSF Preprints",
+      "year": 2026,
+      "type": "preprint",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.17605/osf.io/cfsdg"
+        },
+        {
+          "label": "OSF data",
+          "url": "https://osf.io/cfsdg"
+        }
+      ],
+      "pin": false,
+      "num": 84
+    },
     {
       "id": "manual:High-throughput-biochemistry-Methods-and-motivatio",
       "doi": "",
