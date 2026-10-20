@@ -1564,10 +1564,31 @@
       "num": 25
     },
     {
+      "id": "https://openalex.org/W2780927524",
+      "doi": "10.1016/j.cels.2017.02.005",
+      "title": "How Will Kinetics and Thermodynamics Inform Our Future Efforts to Understand and Build Biological Systems?",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">24.</span>&nbsp;Doudna, J.A., Bar‐Ziv, R., Elf, J., Noireaux, V., Berro, J., Saiz, L., Vavylonis, D., Faulon, J., <strong>Fordyce, P.M.</strong>",
+      "venue": "Cell Systems",
+      "year": 2017,
+      "type": "article",
+      "links": [
+        {
+          "label": "web",
+          "url": "https://doi.org/10.1016/j.cels.2017.02.005"
+        },
+        {
+          "label": "PDF",
+          "url": "https://raw.githubusercontent.com/FordyceLab/fordycelab-pubs/main/pdfs/Doudna2017-How-Will-Kinetics-and-Thermodynamics-Inf.pdf"
+        }
+      ],
+      "pin": false,
+      "num": 24
+    },
+    {
       "id": "https://openalex.org/W2949839058",
       "doi": "10.1016/j.ohx.2017.10.001",
       "title": "An open-source, programmable pneumatic setup for operation and automated control of single- and multi-layer microfluidic devices",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">24.</span>&nbsp;Brower, K., Puccinelli, R., Markin, C.J., Shimko, T.C., Longwell, S.A., Cruz, B., Gómez-Sjöberg, R.‡, <strong>Fordyce, P.M.</strong>‡",
+      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">23.</span>&nbsp;Brower, K., Puccinelli, R., Markin, C.J., Shimko, T.C., Longwell, S.A., Cruz, B., Gómez-Sjöberg, R.‡, <strong>Fordyce, P.M.</strong>‡",
       "venue": "HardwareX",
       "year": 2017,
       "type": "article",
@@ -1587,27 +1608,6 @@
         {
           "label": "OSF data",
           "url": "https://osf.io/jwyau/"
-        }
-      ],
-      "pin": false,
-      "num": 24
-    },
-    {
-      "id": "https://openalex.org/W2780927524",
-      "doi": "10.1016/j.cels.2017.02.005",
-      "title": "How Will Kinetics and Thermodynamics Inform Our Future Efforts to Understand and Build Biological Systems?",
-      "authors_html": "<span class=\"fl-num\" style=\"color:#777;font-variant-numeric:tabular-nums\">23.</span>&nbsp;Doudna, J.A., Bar‐Ziv, R., Elf, J., Noireaux, V., Berro, J., Saiz, L., Vavylonis, D., Faulon, J., <strong>Fordyce, P.M.</strong>",
-      "venue": "Cell Systems",
-      "year": 2017,
-      "type": "article",
-      "links": [
-        {
-          "label": "web",
-          "url": "https://doi.org/10.1016/j.cels.2017.02.005"
-        },
-        {
-          "label": "PDF",
-          "url": "http://www.cell.com/article/S2405471217300492/pdf"
         }
       ],
       "pin": false,
