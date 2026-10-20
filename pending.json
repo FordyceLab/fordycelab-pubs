@@ -133,11 +133,11 @@
     "author_notes": [],
     "first_author": "Cedeno",
     "seen_first": "2026-10-14",
-    "status": "website: published; portal: downloading the data repository and drafting a proposal (usually 5-20 min)",
+    "status": "duplicate of an existing entry - links merged into #75; proposal failed: claude exited 1: ⚠ claude.ai connectors are disabled because ANTHROPIC_API_KEY or another auth source is set and takes precedence over your claude.ai login · Unset it to load your organization's connectors\n",
     "pdf_expected": "Cedeno2026-Simple-and-multiplexed-tracking-of-bacte.pdf",
     "preprint_pdf_expected": "Cedeno2026-Simple-and-multiplexed-tracking-of-bacte-preprint.pdf",
     "website_status": "published",
-    "website_entry_id": "manual:Simple-and-multiplexed-tracking-of-bacterial-growt",
+    "website_entry_id": "10.64898/2026.05.01.722333",
     "website_links": [
       {
         "label": "web",
@@ -150,6 +150,8 @@
     "website_notes": [],
     "website_ts": "Tue Oct 20, 4:40 PM",
     "portal_status": "proposal failed: claude exited 1: ⚠ claude.ai connectors are disabled because ANTHROPIC_API_KEY or another auth source is set and takes precedence over your claude.ai login · Unset it to load your organization's connectors\n",
-    "portal_started": "Tue Oct 20, 4:40 PM"
+    "portal_started": "Tue Oct 20, 4:40 PM",
+    "merge_into": "10.64898/2026.05.01.722333",
+    "duplicate_of": "10.64898/2026.05.01.722333"
   }
 ]

@@ -428,6 +428,7 @@ def renumber(pubs):
     for i, e in enumerate(lst):
         e["authors_html"] = number_prefix(n - i) + strip_num(e.get("authors_html", ""))
         e["num"] = n - i
+    pubs["count"] = n
     return pubs
 
 
