@@ -13,5 +13,6 @@
   "scholar_alerts": true,
   "arxiv": true,
   "claude_model": "claude-sonnet-5",
-  "git_push": true
+  "git_push": true,
+  "remind_squarespace": false
 }

@@ -1,9 +1,19 @@
 {
-  "seen": [],
+  "seen": [
+    "10.1016/j.jbc.2026.112686",
+    "10.1177/15578666261491603",
+    "10.17605/osf.io/cfsdg",
+    "W7167300566"
+  ],
   "flags": {
     "pubs_switched": true,
-    "data_switched": false
+    "data_switched": true
   },
-  "last_poll": "2026-10-08",
-  "last_poll_new": []
+  "last_poll": "2026-10-14",
+  "last_poll_new": [
+    "10.17605/osf.io/cfsdg",
+    "10.1177/15578666261491603",
+    "W7167300566",
+    "10.1016/j.jbc.2026.112686"
+  ]
 }

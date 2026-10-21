@@ -13,6 +13,8 @@ from common import CFG, DONE, PENDING, STATE, STATUS, esc, gmail_send, load_json
 
 
 def sq_reminder(flags):
+    if not CFG.get("remind_squarespace", True):
+        return ""
     lines = []
     if not flags.get("pubs_switched"):
         lines.append("Publications page: the one-time switch to the auto-updating Code Block has NOT been done yet, so "

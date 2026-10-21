@@ -333,6 +333,9 @@ def check_squarespace_flags(state):
         flags["data_switched"] = b'id="fdp-stats"' in body
     except Exception:
         pass
+    if not CFG.get("remind_squarespace", True):     # Polly asked to drop the reminder (2026-10-20)
+        flags["pubs_switched"] = True
+        flags["data_switched"] = True
     return flags
 
 
